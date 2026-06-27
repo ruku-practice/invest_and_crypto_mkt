@@ -24,6 +24,7 @@ DATA_DIR = BASE_DIR / "data"
 LATEST_PATH = DATA_DIR / "latest.json"
 HISTORY_PATH = DATA_DIR / "history.json"
 NEWS_PATH = DATA_DIR / "news" / "latest.json"
+HISTORICAL_START = datetime(2024, 1, 1, tzinfo=JST)
 
 MARKETS = [
     {"id": "nikkei225", "name": "日経225", "category": "index", "ticker": "^N225", "currency": "JPY"},
@@ -101,6 +102,31 @@ def fetch_yfinance_series(ticker: str) -> tuple[float | None, float | None, str]
         return current, change, "ok"
     except Exception:
         return None, None, "error"
+
+
+def fetch_yfinance_history(ticker: str, start: datetime, end: datetime | None = None) -> dict[str, float]:
+    try:
+        stop = (end or now_jst()) + timedelta(days=1)
+        hist = yf.Ticker(ticker).history(
+            start=start.strftime("%Y-%m-%d"),
+            end=stop.strftime("%Y-%m-%d"),
+            interval="1d",
+        )
+    except Exception:
+        return {}
+
+    if hist is None or hist.empty or "Close" not in hist:
+        return {}
+
+    close = hist["Close"].dropna()
+    series: dict[str, float] = {}
+    for idx, value in close.items():
+        try:
+            date_key = idx.date().isoformat()
+            series[date_key] = float(value)
+        except Exception:
+            continue
+    return series
 
 
 def fetch_coin_gecko_price() -> dict[str, tuple[float | None, float | None, str]]:
@@ -274,6 +300,78 @@ def merge_latest_news(existing_latest: dict[str, Any]) -> dict[str, Any]:
     return latest
 
 
+def build_historical_history(current_values: dict[str, dict[str, Any]]) -> dict[str, Any]:
+    end = now_jst()
+    usd_jpy = fetch_yfinance_history("USDJPY=X", HISTORICAL_START, end)
+
+    history_items: list[dict[str, Any]] = []
+
+    def make_series(item_id: str, name: str, category: str, currency: str, raw_series: dict[str, float]) -> None:
+        points = []
+        for date_key in sorted(raw_series.keys()):
+            value = raw_series[date_key]
+            points.append({"date": date_key.replace("-", "/"), "value": value})
+
+        if not points:
+            return
+
+        base_value = next((point["value"] for point in points if isinstance(point.get("value"), (int, float))), None)
+        if base_value in (None, 0):
+            baseline_date = points[0]["date"]
+            baseline_value = points[0]["value"]
+        else:
+            baseline_date = points[0]["date"]
+            baseline_value = base_value
+
+        history_items.append(
+            {
+                "id": item_id,
+                "name": name,
+                "category": category,
+                "currency": currency,
+                "baseline_date": baseline_date,
+                "baseline_value": baseline_value,
+                "points": points,
+            }
+        )
+
+    for item in MARKETS:
+        series = fetch_yfinance_history(item["ticker"], HISTORICAL_START, end)
+        make_series(item["id"], item["name"], item["category"], item["currency"], series)
+
+    crypto_map = {
+        "btc": "BTC-USD",
+        "eth": "ETH-USD",
+        "sol": "SOL-USD",
+    }
+    for item in CRYPTOS:
+        if item["id"] not in crypto_map:
+            current = current_values.get(item["id"], {})
+            make_series(item["id"], item["name"], item["category"], item["currency"], {
+                now_jst().strftime("%Y-%m-%d"): current.get("price"),
+            } if isinstance(current.get("price"), (int, float)) else {})
+            continue
+
+        usd_series = fetch_yfinance_history(crypto_map[item["id"]], HISTORICAL_START, end)
+        combined: dict[str, float] = {}
+        for date_key, usd_price in usd_series.items():
+            fx_price = usd_jpy.get(date_key)
+            if fx_price is None:
+                continue
+            combined[date_key] = usd_price * fx_price
+        make_series(item["id"], item["name"], item["category"], item["currency"], combined)
+
+    ordered_ids = [item["id"] for item in MARKETS + CRYPTOS]
+    ordered_items = [item for item in history_items if item["id"] in ordered_ids]
+    remaining_items = [item for item in history_items if item["id"] not in ordered_ids]
+
+    return {
+        "generated_at": now_jst().isoformat(),
+        "source": "web-fetch",
+        "items": ordered_items + remaining_items,
+    }
+
+
 def normalize_history(history: dict[str, Any], current_values: dict[str, dict[str, Any]]) -> dict[str, Any]:
     items = history.get("items")
     if not isinstance(items, list):
@@ -365,8 +463,7 @@ def build_latest_payload(current_values: dict[str, dict[str, Any]]) -> dict[str,
 
 def main() -> None:
     current_values = fetch_current_values()
-    history = load_json(HISTORY_PATH, {"generated_at": "", "source": "web-fetch", "items": []})
-    history = normalize_history(history, current_values)
+    history = build_historical_history(current_values)
     latest = build_latest_payload(current_values)
 
     write_json(HISTORY_PATH, history)

@@ -163,7 +163,7 @@ function visiblePoints(item, startDate, endDate) {
   return item.points.filter((point) => (
     point.date >= startDate
     && point.date <= endDate
-    && typeof point.change_from_base_pct === 'number'
+    && typeof point.value === 'number'
   ));
 }
 
@@ -243,8 +243,25 @@ function renderTrendChart(data) {
 
   const { start, end } = chartWindow(dates);
   const series = items
-    .map((item, index) => ({ item, index, points: visiblePoints(item, start, end) }))
-    .filter((entry) => entry.points.length > 1);
+    .map((item, index) => {
+      const rawPoints = visiblePoints(item, start, end);
+      const basePoint = rawPoints.find((point) => typeof point.value === 'number') || null;
+      if (!basePoint) return null;
+      const baseValue = basePoint.value;
+      const points = rawPoints.map((point) => ({
+        date: point.date,
+        value: point.value,
+        change_from_base_pct: baseValue ? ((point.value / baseValue) - 1) * 100 : null,
+      }));
+      return {
+        item,
+        index,
+        points,
+        baseDate: basePoint.date,
+        baseValue,
+      };
+    })
+    .filter((entry) => entry && entry.points.length > 1);
   const allPoints = series.flatMap((entry) => entry.points);
   if (!allPoints.length) return;
 
