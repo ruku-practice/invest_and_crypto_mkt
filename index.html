@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>一般＆暗号通貨マーケット情報</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main class="page-shell">
+    <header class="site-header">
+      <div>
+        <p class="kicker">Market Brief</p>
+        <h1>一般＆暗号通貨マーケット情報</h1>
+      </div>
+      <div class="updated-box" aria-label="データ取得日時">
+        <span>データ取得日時</span>
+        <strong id="updated-date">----</strong>
+        <strong id="updated-time">--:--</strong>
+      </div>
+    </header>
+
+    <section class="status-line" id="status-line">データを読み込んでいます...</section>
+
+    <section class="control-panel" aria-label="表示条件">
+      <label class="date-control">
+        <span>表示日</span>
+        <input id="selected-date" type="date">
+      </label>
+    </section>
+
+    <section class="market-layout" aria-label="マーケットデータ">
+      <div class="panel">
+        <div class="panel-header">
+          <h2>市場インデックス</h2>
+          <span>価格 / 1月1日比</span>
+        </div>
+        <div class="quote-list" id="markets-list"></div>
+      </div>
+
+      <div class="panel">
+        <div class="panel-header">
+          <h2>暗号資産</h2>
+          <span>価格 / 1月1日比</span>
+        </div>
+        <div class="quote-list" id="crypto-list"></div>
+      </div>
+    </section>
+
+    <section class="chart-section" aria-label="2026年1月1日からの増減比較推移グラフ">
+      <div class="panel-header">
+        <div>
+          <h2>2026年1月1日からの増減比較推移</h2>
+          <p class="panel-note">開始日と表示期間を切り替えて比較できます</p>
+        </div>
+        <div class="chart-controls" role="group" aria-label="グラフ表示切り替え">
+          <button class="chart-toggle active" type="button" data-chart-filter="all">全体</button>
+          <button class="chart-toggle" type="button" data-chart-filter="markets">市場</button>
+          <button class="chart-toggle" type="button" data-chart-filter="crypto">暗号資産</button>
+        </div>
+      </div>
+      <div class="chart-toolbar">
+        <div class="chart-range-controls" role="group" aria-label="グラフ表示期間">
+          <button class="chart-range-toggle active" type="button" data-chart-range="all">全期間</button>
+          <button class="chart-range-toggle" type="button" data-chart-range="90">90日</button>
+          <button class="chart-range-toggle" type="button" data-chart-range="30">30日</button>
+          <button class="chart-range-toggle" type="button" data-chart-range="7">7日</button>
+          <button class="chart-range-toggle" type="button" data-chart-range="2026-01-01">2026/1/1</button>
+          <button class="chart-range-toggle" type="button" data-chart-range="2025-01-01">2025/1/1</button>
+          <button class="chart-range-toggle" type="button" data-chart-range="2024-01-01">2024/1/1</button>
+          <button class="chart-range-toggle" type="button" data-chart-range="custom">カスタム</button>
+        </div>
+        <div class="chart-custom-range" id="chart-custom-range" hidden>
+          <label class="chart-date-control">
+            <span>開始</span>
+            <input id="chart-start-date" type="date">
+          </label>
+          <label class="chart-date-control">
+            <span>終了</span>
+            <input id="chart-end-date" type="date">
+          </label>
+        </div>
+      </div>
+      <div class="chart-wrap">
+        <canvas id="trend-chart" width="1000" height="520" aria-label="2026年1月1日からの増減比較推移グラフ"></canvas>
+      </div>
+    </section>
+
+    <section class="news-section" aria-label="市況ニュース">
+      <div class="panel-header">
+        <h2>市況ニュース</h2>
+        <span id="news-status">準備中</span>
+      </div>
+      <div id="news-list" class="news-list"></div>
+      <div class="post-box">
+        <h3>投稿文候補</h3>
+        <pre id="post-text">ニュース取得の移植後に表示します。</pre>
+      </div>
+    </section>
+  </main>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
