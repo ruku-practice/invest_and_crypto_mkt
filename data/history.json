@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T22:56:32+09:00",
+  "generated_at": "2026-06-28T06:59:52+09:00",
   "source": "web-fetch",
   "items": [
     {
@@ -15122,7 +15122,7 @@
         },
         {
           "date": "2026/06/27",
-          "value": 9774179.577666044
+          "value": 9717913.198515654
         }
       ]
     },
@@ -17716,7 +17716,7 @@
         },
         {
           "date": "2026/06/27",
-          "value": 256812.36192480475
+          "value": 254277.15221577138
         }
       ]
     },
@@ -20310,7 +20310,7 @@
         },
         {
           "date": "2026/06/27",
-          "value": 11680.123878236394
+          "value": 11460.232182872016
         }
       ]
     },
@@ -20319,26 +20319,12 @@
       "name": "GCHO",
       "category": "crypto",
       "currency": "USD",
-      "baseline_date": "2026/06/27",
+      "baseline_date": "2026/06/28",
       "baseline_value": 0.00016555,
       "points": [
         {
-          "date": "2026/06/27",
+          "date": "2026/06/28",
           "value": 0.00016555
-        }
-      ]
-    },
-    {
-      "id": "bonsai_100m",
-      "name": "1億BONSAI",
-      "category": "crypto",
-      "currency": "USD",
-      "baseline_date": "2026/06/27",
-      "baseline_value": 3.241e-09,
-      "points": [
-        {
-          "date": "2026/06/27",
-          "value": 3.241e-09
         }
       ]
     }
