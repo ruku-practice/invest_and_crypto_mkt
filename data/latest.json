@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T06:59:52+09:00",
+  "generated_at": "2026-06-28T07:14:01+09:00",
   "display_date": "2026/06/28",
-  "display_time": "06:59",
+  "display_time": "07:14",
   "source": "web-fetch",
   "markets": [
     {
@@ -118,9 +118,18 @@
     }
   ],
   "news": {
-    "generated_at": "",
-    "items": [],
+    "generated_at": "2026-06-28T07:14:01+09:00",
+    "items": [
+      {
+        "category": "crypto",
+        "source": "coinpost",
+        "title": "ビットコイン急落し21カ月ぶり安値更新、メジャーSQ前に大荒れ",
+        "url": "https://coinpost.jp/?p=720139",
+        "published_at": "06/26 10:25",
+        "summary_for_post": "ビットコイン急落し21カ月ぶり安値更新、メジャーSQ前に大荒れ"
+      }
+    ],
     "post_text": "",
-    "status": "not_integrated"
+    "status": "ok"
   }
 }
