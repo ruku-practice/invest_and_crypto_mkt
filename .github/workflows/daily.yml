@@ -54,9 +54,31 @@ jobs:
         if: steps.check.outputs.run == 'true'
         run: python scripts/fetch_market_data.py
 
+      - name: Write service account credentials
+        if: steps.check.outputs.run == 'true'
+        env:
+          GOOGLE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_CREDENTIALS_JSON }}
+        run: |
+          printf '%s' "$GOOGLE_CREDENTIALS_JSON" > service_account.json
+          echo "wrote service_account.json"
+
+      - name: Take Google Sheets Screenshots
+        if: steps.check.outputs.run == 'true'
+        env:
+          GOOGLE_CREDENTIALS_PATH: ${{ github.workspace }}/service_account.json
+        run: python scripts/take_screenshot.py
+
+      - name: Tweet Market Report
+        if: steps.check.outputs.run == 'true'
+        env:
+          GOOGLE_CREDENTIALS_PATH: ${{ github.workspace }}/service_account.json
+          X_COOKIES_JSON: ${{ secrets.X_COOKIES_JSON }}
+        run: python scripts/py2tweet_free.py --sheet 09_General
+
       - name: Commit updated data
         if: steps.check.outputs.run == 'true'
         run: |
+          rm -f service_account.json
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/latest.json data/history.json

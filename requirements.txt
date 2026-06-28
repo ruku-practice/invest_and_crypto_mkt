@@ -2,3 +2,5 @@ yfinance
 requests
 beautifulsoup4
 playwright
+gspread
+twikit
