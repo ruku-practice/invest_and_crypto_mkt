@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-29T08:15:05+09:00",
-  "display_date": "2026/06/29",
-  "display_time": "08:15",
+  "generated_at": "2026-06-30T08:10:52+09:00",
+  "display_date": "2026/06/30",
+  "display_time": "08:10",
   "source": "web-fetch",
   "markets": [
     {
@@ -118,7 +118,7 @@
     }
   ],
   "news": {
-    "generated_at": "2026-06-29T08:15:05+09:00",
+    "generated_at": "2026-06-30T08:10:52+09:00",
     "items": [
       {
         "category": "crypto",
@@ -129,7 +129,7 @@
         "summary_for_post": "ビットコイン急落し21カ月ぶり安値更新、メジャーSQ前に大荒れ"
       }
     ],
-    "post_text": "",
+    "post_text": "・日経平均：未取得\n・海外：未取得\n・ドル円：未取得\n・クリプト(06/26)：ビットコイン急落し21カ月ぶり安値更新、メジャーSQ前に大荒れ",
     "status": "ok"
   }
 }
