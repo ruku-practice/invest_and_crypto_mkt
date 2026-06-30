@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-30T08:10:52+09:00",
-  "display_date": "2026/06/30",
-  "display_time": "08:10",
+  "generated_at": "2026-07-01T08:23:19+09:00",
+  "display_date": "2026/07/01",
+  "display_time": "08:23",
   "source": "web-fetch",
   "markets": [
     {
@@ -118,7 +118,7 @@
     }
   ],
   "news": {
-    "generated_at": "2026-06-30T08:10:52+09:00",
+    "generated_at": "2026-07-01T08:23:19+09:00",
     "items": [
       {
         "category": "crypto",
