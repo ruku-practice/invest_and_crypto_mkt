@@ -178,6 +178,15 @@ function renderQuotePanels() {
   renderQuoteList('crypto-list', items.filter((item) => item.category === 'crypto'));
 }
 
+function formatNewsTime(value) {
+  if (!value) return '';
+  if (!value.includes('T')) return value;
+  const time = new Date(value);
+  if (Number.isNaN(time.getTime())) return value;
+  const pad = (n) => String(n).padStart(2, '0');
+  return `${pad(time.getMonth() + 1)}/${pad(time.getDate())} ${pad(time.getHours())}:${pad(time.getMinutes())}`;
+}
+
 function renderNews(news) {
   const list = document.getElementById('news-list');
   const post = document.getElementById('post-text');
@@ -206,7 +215,7 @@ function renderNews(news) {
     article.innerHTML = `
       <span class="news-source">${item.source || item.category || 'news'}</span>
       ${link}
-      <time>${item.published_at || ''}</time>
+      <time>${formatNewsTime(item.published_at)}</time>
     `;
     list.appendChild(article);
   });
