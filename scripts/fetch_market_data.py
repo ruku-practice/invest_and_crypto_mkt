@@ -394,22 +394,26 @@ def merge_history(existing: dict[str, Any], rebuilt: dict[str, Any]) -> dict[str
             if isinstance(item, dict) and item.get("id"):
                 existing_by_id[str(item["id"])] = item
 
-    def collect(points: Any, into: dict[str, float]) -> None:
+    def collect(points: Any, into: dict[str, dict[str, Any]]) -> None:
         if not isinstance(points, list):
             return
         for point in points:
             if isinstance(point, dict) and point.get("date") and is_valid_price(point.get("value")):
-                into[str(point["date"])] = float(point["value"])
+                entry = into.setdefault(str(point["date"]), {})
+                entry["value"] = float(point["value"])
+                # 取得時刻は再取得(yfinance終値)側には無いので、既存の記録を保持する
+                if point.get("fetched_at"):
+                    entry["fetched_at"] = point["fetched_at"]
 
     merged_items: list[dict[str, Any]] = []
     seen: set[str] = set()
     for item in rebuilt.get("items", []):
         item_id = str(item["id"])
         seen.add(item_id)
-        points_by_date: dict[str, float] = {}
+        points_by_date: dict[str, dict[str, Any]] = {}
         collect(existing_by_id.get(item_id, {}).get("points"), points_by_date)
         collect(item.get("points"), points_by_date)
-        item["points"] = [{"date": date, "value": points_by_date[date]} for date in sorted(points_by_date)]
+        item["points"] = [{"date": date, **points_by_date[date]} for date in sorted(points_by_date)]
         merged_items.append(item)
 
     for item_id, item in existing_by_id.items():
@@ -448,7 +452,12 @@ def normalize_history(history: dict[str, Any], current_values: dict[str, dict[st
         points = [point for point in entry.get("points", []) if isinstance(point, dict) and point.get("date")]
         points = [point for point in points if point["date"] != today]
         today_price = current["price"] if is_valid_price(current["price"]) else None
-        points.append({"date": today, "value": today_price, "status": current["status"]})
+        points.append({
+            "date": today,
+            "value": today_price,
+            "status": current["status"],
+            "fetched_at": now_jst().strftime("%H:%M"),
+        })
         points.sort(key=lambda point: point["date"])
 
         baseline_point = next((point for point in points if is_valid_price(point.get("value"))), None)
@@ -475,14 +484,15 @@ def normalize_history(history: dict[str, Any], current_values: dict[str, dict[st
                 prev_value = value
             else:
                 value = None
-            normalized_points.append(
-                {
-                    "date": point["date"],
-                    "value": value,
-                    "change_from_base_pct": round(change, 4) if change is not None else None,
-                    "change_from_prev_pct": round(change_prev, 4) if change_prev is not None else None,
-                }
-            )
+            normalized_point = {
+                "date": point["date"],
+                "value": value,
+                "change_from_base_pct": round(change, 4) if change is not None else None,
+                "change_from_prev_pct": round(change_prev, 4) if change_prev is not None else None,
+            }
+            if point.get("fetched_at"):
+                normalized_point["fetched_at"] = point["fetched_at"]
+            normalized_points.append(normalized_point)
 
         entry["name"] = current["name"]
         entry["category"] = current["category"]

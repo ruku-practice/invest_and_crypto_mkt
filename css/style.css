@@ -160,6 +160,33 @@ h1 {
   font-weight: 800;
 }
 
+.date-nav {
+  display: flex;
+  gap: 6px;
+}
+
+.date-nav-btn {
+  min-height: 34px;
+  padding: 5px 12px;
+  border: 1px solid var(--line);
+  background: #f6f7f3;
+  color: var(--ink);
+  font: inherit;
+  font-size: 13px;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.date-nav-btn:hover {
+  background: var(--accent-weak);
+}
+
+.date-nav-btn.today {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
 .market-layout {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -438,6 +465,14 @@ h1 {
   .date-control {
     align-items: stretch;
     flex-direction: column;
+  }
+
+  .date-nav {
+    width: 100%;
+  }
+
+  .date-nav-btn {
+    flex: 1;
   }
 
   .panel-header {

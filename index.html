@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>一般＆暗号通貨マーケット情報</title>
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/style.css?v=2">
 </head>
 <body>
   <main class="page-shell">
@@ -32,6 +32,11 @@
         <span>表示日</span>
         <input id="selected-date" type="date">
       </label>
+      <div class="date-nav" role="group" aria-label="表示日の移動">
+        <button type="button" id="prev-day-btn" class="date-nav-btn">← 前の日へ</button>
+        <button type="button" id="next-day-btn" class="date-nav-btn">次の日へ →</button>
+        <button type="button" id="today-btn" class="date-nav-btn today">本日</button>
+      </div>
     </section>
 
     <section class="market-layout" aria-label="マーケットデータ">
@@ -104,6 +109,6 @@
     </section>
   </main>
 
-  <script src="js/app.js"></script>
+  <script src="js/app.js?v=2"></script>
 </body>
 </html>

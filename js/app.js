@@ -88,6 +88,44 @@ function changeClass(value) {
   return 'flat';
 }
 
+function fetchTimeFor(date) {
+  // その日の取得時刻の記録があれば表示。無い日は市場終値ベースの補完データ。
+  for (const item of historyData?.items || []) {
+    const point = item.points.find((p) => p.date === date && p.fetched_at);
+    if (point) return point.fetched_at;
+  }
+  if (dashboardData?.display_date === date && dashboardData.display_time) {
+    return dashboardData.display_time;
+  }
+  return '終値';
+}
+
+function updateFetchTimeDisplay() {
+  setText('updated-date', selectedDate);
+  setText('updated-time', fetchTimeFor(selectedDate));
+}
+
+function setSelectedDate(date) {
+  if (!date) return;
+  selectedDate = date;
+  const dateInput = document.getElementById('selected-date');
+  if (dateInput) dateInput.value = slashToInputDate(date);
+  updateFetchTimeDisplay();
+  renderAll();
+}
+
+function shiftSelectedDate(offset) {
+  const dates = allDates(historyData);
+  if (!dates.length) return;
+  let index = dates.indexOf(selectedDate);
+  if (index === -1) {
+    index = dates.findIndex((date) => dateMs(date) >= dateMs(selectedDate));
+    if (index === -1) index = dates.length - 1;
+  }
+  const nextIndex = Math.min(dates.length - 1, Math.max(0, index + offset));
+  setSelectedDate(dates[nextIndex]);
+}
+
 function numericPointsUpTo(item, date) {
   return item.points.filter((point) => point.date <= date && typeof point.value === 'number');
 }
@@ -498,9 +536,19 @@ function bindControls() {
   const dateInput = document.getElementById('selected-date');
   if (dateInput) {
     dateInput.addEventListener('change', () => {
-      selectedDate = inputToSlashDate(dateInput.value);
-      setText('updated-date', selectedDate);
-      renderAll();
+      setSelectedDate(inputToSlashDate(dateInput.value));
+    });
+  }
+
+  const prevButton = document.getElementById('prev-day-btn');
+  const nextButton = document.getElementById('next-day-btn');
+  const todayButton = document.getElementById('today-btn');
+  if (prevButton) prevButton.addEventListener('click', () => shiftSelectedDate(-1));
+  if (nextButton) nextButton.addEventListener('click', () => shiftSelectedDate(1));
+  if (todayButton) {
+    todayButton.addEventListener('click', () => {
+      const dates = allDates(historyData);
+      if (dates.length) setSelectedDate(dates[dates.length - 1]);
     });
   }
 
@@ -517,7 +565,7 @@ function setupDateInput(data) {
   dateInput.min = slashToInputDate(dates[0]);
   dateInput.max = slashToInputDate(dates[dates.length - 1]);
   dateInput.value = slashToInputDate(selectedDate);
-  setText('updated-date', selectedDate);
+  updateFetchTimeDisplay();
   syncChartControls(dates);
 }
 
@@ -534,7 +582,7 @@ async function loadDashboard() {
     dashboardData = await latestResponse.json();
     historyData = await historyResponse.json();
     setupDateInput(historyData);
-    setText('updated-time', dashboardData.display_time || '--:--');
+    updateFetchTimeDisplay();
     renderNews(dashboardData.news || {});
     renderAll();
 
