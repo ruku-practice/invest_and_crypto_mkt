@@ -4,8 +4,8 @@ on:
   repository_dispatch:
     types: [run-daily-data]
   schedule:
-    # フォールバック専用: 朝 7:00 JST = 22:00 UTC
-    - cron: "0 22 * * *"
+    # 朝 6:00 JST = 21:00 UTC
+    - cron: "0 21 * * *"
   workflow_dispatch:
 
 permissions:
