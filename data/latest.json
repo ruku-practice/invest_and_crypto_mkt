@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-02T21:25:48+09:00",
-  "display_date": "2026/07/02",
-  "display_time": "21:25",
+  "generated_at": "2026-07-03T05:15:36+09:00",
+  "display_date": "2026/07/03",
+  "display_time": "05:15",
   "source": "web-fetch",
   "markets": [
     {
@@ -9,10 +9,10 @@
       "name": "日経225",
       "category": "index",
       "currency": "JPY",
-      "price": 68733.1484375,
-      "display_price": "¥68,733",
-      "change_rate": -2.4715338282268906,
-      "display_change_rate": "-2.47%",
+      "price": 70474.9609375,
+      "display_price": "¥70,475",
+      "change_rate": 0.5889622598273858,
+      "display_change_rate": "+0.59%",
       "status": "ok"
     },
     {
@@ -20,10 +20,10 @@
       "name": "NYダウ",
       "category": "index",
       "currency": "USD",
-      "price": 52305.23828125,
-      "display_price": "$52,305.24",
-      "change_rate": -0.02668415745743502,
-      "display_change_rate": "-0.03%",
+      "price": 52900.0703125,
+      "display_price": "$52,900.07",
+      "change_rate": 1.137232236762853,
+      "display_change_rate": "+1.14%",
       "status": "ok"
     },
     {
@@ -31,10 +31,10 @@
       "name": "S&P500",
       "category": "index",
       "currency": "USD",
-      "price": 7483.22998046875,
-      "display_price": "$7,483.23",
-      "change_rate": -0.21508346187620875,
-      "display_change_rate": "-0.22%",
+      "price": 7483.240234375,
+      "display_price": "$7,483.24",
+      "change_rate": 0.00013702513856905796,
+      "display_change_rate": "+0.00%",
       "status": "ok"
     },
     {
@@ -42,10 +42,10 @@
       "name": "NYSE FANG+",
       "category": "index",
       "currency": "USD",
-      "price": 17110.939453125,
-      "display_price": "$17,110.94",
-      "change_rate": 1.1602341298896368,
-      "display_change_rate": "+1.16%",
+      "price": 17100.640625,
+      "display_price": "$17,100.64",
+      "change_rate": -0.06018856038392251,
+      "display_change_rate": "-0.06%",
       "status": "ok"
     },
     {
@@ -53,10 +53,10 @@
       "name": "ドル円",
       "category": "fx",
       "currency": "JPY",
-      "price": 161.56700134277344,
-      "display_price": "¥162",
-      "change_rate": -0.6524120075560247,
-      "display_change_rate": "-0.65%",
+      "price": 161.09800720214844,
+      "display_price": "¥161",
+      "change_rate": -0.9407966174481919,
+      "display_change_rate": "-0.94%",
       "status": "ok"
     }
   ],
@@ -66,10 +66,10 @@
       "name": "BTC",
       "category": "crypto",
       "currency": "JPY",
-      "price": 9882288.0,
-      "display_price": "¥9,882,288",
-      "change_rate": 3.829629279836676,
-      "display_change_rate": "+3.83%",
+      "price": 9888976.0,
+      "display_price": "¥9,888,976",
+      "change_rate": 1.6540602272912386,
+      "display_change_rate": "+1.65%",
       "status": "ok"
     },
     {
@@ -77,10 +77,10 @@
       "name": "ETH",
       "category": "crypto",
       "currency": "JPY",
-      "price": 266880.0,
-      "display_price": "¥266,880",
-      "change_rate": 4.525110447240624,
-      "display_change_rate": "+4.53%",
+      "price": 273662.0,
+      "display_price": "¥273,662",
+      "change_rate": 4.599563413618514,
+      "display_change_rate": "+4.60%",
       "status": "ok"
     },
     {
@@ -88,10 +88,10 @@
       "name": "SOL",
       "category": "crypto",
       "currency": "JPY",
-      "price": 13214.62,
-      "display_price": "¥13,215",
-      "change_rate": 9.05401073988816,
-      "display_change_rate": "+9.05%",
+      "price": 12992.69,
+      "display_price": "¥12,993",
+      "change_rate": 4.136361750903612,
+      "display_change_rate": "+4.14%",
       "status": "ok"
     },
     {
@@ -99,8 +99,8 @@
       "name": "GCHO",
       "category": "crypto",
       "currency": "USD",
-      "price": 0.00018524,
-      "display_price": "$0.000185",
+      "price": 0.00018645,
+      "display_price": "$0.000186",
       "change_rate": null,
       "display_change_rate": "--",
       "status": "ok"
@@ -110,11 +110,11 @@
       "name": "1億BONSAI",
       "category": "crypto",
       "currency": "USD",
-      "price": 3.361e-09,
-      "display_price": "$0",
+      "price": null,
+      "display_price": "--",
       "change_rate": null,
       "display_change_rate": "--",
-      "status": "ok"
+      "status": "error"
     }
   ],
   "news": {
