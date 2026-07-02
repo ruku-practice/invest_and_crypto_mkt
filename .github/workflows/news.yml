@@ -30,6 +30,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # requests がブロックされた場合のフォールバック用
+      - name: Install Playwright Chromium
+        run: python -m playwright install --with-deps chromium
+
       - name: Build market news JSON
         run: python scripts/fetch_market_news.py
 
@@ -42,5 +46,6 @@ jobs:
             echo "No news changes"
           else
             git commit -m "Update market news"
+            git pull --rebase origin main
             git push
           fi

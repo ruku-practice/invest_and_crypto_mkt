@@ -1,15 +1,39 @@
 {
-  "generated_at": "2026-07-02T08:25:35+09:00",
+  "generated_at": "2026-07-03T05:21:11+09:00",
   "items": [
+    {
+      "category": "nikkei",
+      "source": "kabutan",
+      "title": "4日ぶり反落、AI半導体株が軒並み安",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607020965",
+      "published_at": "2026-07-02T16:36:30+09:00",
+      "summary_for_post": "4日ぶり反落、AI半導体株が軒並み安"
+    },
+    {
+      "category": "overseas",
+      "source": "kabutan",
+      "title": "ダウ平均は上昇　予想下回る米雇用統計にポジティブな反応　半導体は下落＝米国株序盤",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607030016",
+      "published_at": "2026-07-03T01:18:00+09:00",
+      "summary_for_post": "ダウ平均は上昇　予想下回る米雇用統計にポジティブな反応　半導体は下落＝米国株序盤"
+    },
+    {
+      "category": "fx",
+      "source": "kabutan",
+      "title": "NY外為：円高値圏でもみ合い、米連休狙った当局の介入警戒",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607030028",
+      "published_at": "2026-07-03T02:35:41+09:00",
+      "summary_for_post": "NY外為：円高値圏でもみ合い、米連休狙った当局の介入警戒"
+    },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ビットコイン急落し21カ月ぶり安値更新、メジャーSQ前に大荒れ",
-      "url": "https://coinpost.jp/?p=720139",
-      "published_at": "06/26 10:25",
-      "summary_for_post": "ビットコイン急落し21カ月ぶり安値更新、メジャーSQ前に大荒れ"
+      "title": "SBIクリプト、ビットコインマイニングプールを7月末に終了",
+      "url": "https://coinpost.jp/?p=721776",
+      "published_at": "07/03 05:00",
+      "summary_for_post": "SBIクリプト、ビットコインマイニングプールを7月末に終了"
     }
   ],
-  "post_text": "・日経平均：未取得\n・海外：未取得\n・ドル円：未取得\n・クリプト(06/26)：ビットコイン急落し21カ月ぶり安値更新、メジャーSQ前に大荒れ",
+  "post_text": "・日経平均：4日ぶり反落、AI半導体株が軒並み安\n・海外：ダウ平均は上昇　予想下回る米雇用統計にポジティブな反応　半導体は下落＝米国株序盤\n・ドル円：NY外為：円高値圏でもみ合い、米連休狙った当局の介入警戒\n・クリプト(07/03)：SBIクリプト、ビットコインマイニングプールを7月末に終了",
   "status": "ok"
 }
