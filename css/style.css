@@ -207,7 +207,7 @@ h1 {
 
 .quote-row {
   display: grid;
-  grid-template-columns: minmax(100px, 1fr) minmax(130px, auto) minmax(82px, auto);
+  grid-template-columns: minmax(90px, 1fr) minmax(120px, auto) minmax(78px, auto) minmax(78px, auto);
   align-items: center;
   min-height: 58px;
   gap: 12px;
@@ -466,7 +466,18 @@ h1 {
   }
 
   .quote-change {
-    grid-column: 2;
+    grid-column: auto;
+  }
+
+  .quote-change[data-label]::before {
+    content: attr(data-label) " ";
+    font-size: 10px;
+    font-weight: 700;
+    opacity: 0.75;
+  }
+
+  .quote-change[data-label="前日比"] {
+    justify-self: start;
   }
 
   .news-item {

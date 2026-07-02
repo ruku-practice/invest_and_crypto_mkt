@@ -88,9 +88,28 @@ function changeClass(value) {
   return 'flat';
 }
 
-function pointOnOrBefore(item, date) {
-  const points = item.points.filter((point) => point.date <= date && typeof point.value === 'number');
-  return points[points.length - 1] || null;
+function numericPointsUpTo(item, date) {
+  return item.points.filter((point) => point.date <= date && typeof point.value === 'number');
+}
+
+function dayChangeFor(item, points) {
+  const point = points[points.length - 1];
+  if (!point) return undefined;
+  if (typeof point.change_from_prev_pct === 'number') return point.change_from_prev_pct;
+  const prev = points[points.length - 2];
+  if (!prev || !prev.value) return undefined;
+  return ((point.value / prev.value) - 1) * 100;
+}
+
+function yearBaseChangeFor(item, points) {
+  const point = points[points.length - 1];
+  if (!point) return undefined;
+  const jan1 = `${point.date.slice(0, 4)}/01/01`;
+  const allNumeric = item.points.filter((p) => typeof p.value === 'number');
+  const before = allNumeric.filter((p) => p.date <= jan1);
+  const base = before[before.length - 1] || allNumeric.find((p) => p.date >= jan1);
+  if (!base || !base.value) return undefined;
+  return ((point.value / base.value) - 1) * 100;
 }
 
 function renderQuoteList(id, items) {
@@ -99,14 +118,17 @@ function renderQuoteList(id, items) {
   root.innerHTML = '';
 
   items.forEach((item) => {
-    const point = pointOnOrBefore(item, selectedDate);
-    const change = point?.change_from_base_pct;
+    const points = numericPointsUpTo(item, selectedDate);
+    const point = points[points.length - 1] || null;
+    const dayChange = dayChangeFor(item, points);
+    const baseChange = yearBaseChangeFor(item, points);
     const row = document.createElement('article');
     row.className = `quote-row ${point ? '' : 'is-error'}`;
     row.innerHTML = `
       <div class="quote-name">${item.name}</div>
       <div class="quote-price">${point ? formatValue(item, point.value) : '--'}</div>
-      <div class="quote-change ${changeClass(change)}">${formatPct(change)}</div>
+      <div class="quote-change ${changeClass(dayChange)}" data-label="前日比">${formatPct(dayChange)}</div>
+      <div class="quote-change ${changeClass(baseChange)}" data-label="1/1比">${formatPct(baseChange)}</div>
     `;
     root.appendChild(row);
   });

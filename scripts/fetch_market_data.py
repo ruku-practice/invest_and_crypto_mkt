@@ -87,6 +87,11 @@ def latest_numeric(points: list[dict[str, Any]]) -> float | None:
     return None
 
 
+def is_valid_price(value: Any) -> bool:
+    # 取得失敗時の 0 や NaN を履歴・前日比計算に混ぜない。
+    return isinstance(value, (int, float)) and math.isfinite(value) and value > 0
+
+
 def fetch_yfinance_series(ticker: str) -> tuple[float | None, float | None, str]:
     try:
         hist = yf.Ticker(ticker).history(period="7d", interval="1d")
@@ -222,6 +227,8 @@ def fetch_gcho_price() -> tuple[float | None, float | None, str]:
                 price_text = left + ("0" * int(value)) + right
                 break
         price = float(price_text)
+        if not is_valid_price(price):
+            return None, None, "error"
         return price, None, "ok"
     except Exception:
         return None, None, "error"
@@ -240,6 +247,8 @@ def fetch_bonsai_price() -> tuple[float | None, float | None, str]:
             return None, None, "error"
         raw = match.group(1).strip().replace("$", "")
         price = float(raw)
+        if not is_valid_price(price):
+            return None, None, "error"
         return price, None, "ok"
     except Exception:
         return None, None, "error"
@@ -372,6 +381,45 @@ def build_historical_history(current_values: dict[str, dict[str, Any]]) -> dict[
     }
 
 
+def merge_history(existing: dict[str, Any], rebuilt: dict[str, Any]) -> dict[str, Any]:
+    """既存履歴と再取得履歴を日付単位で統合する。
+
+    yfinance で再取得できる銘柄は再取得値を優先しつつ、GCHO / BONSAI のように
+    日次で積み上げるしかない銘柄の過去ポイントを消さないために必要。
+    """
+    existing_items = existing.get("items") if isinstance(existing, dict) else None
+    existing_by_id: dict[str, dict[str, Any]] = {}
+    if isinstance(existing_items, list):
+        for item in existing_items:
+            if isinstance(item, dict) and item.get("id"):
+                existing_by_id[str(item["id"])] = item
+
+    def collect(points: Any, into: dict[str, float]) -> None:
+        if not isinstance(points, list):
+            return
+        for point in points:
+            if isinstance(point, dict) and point.get("date") and is_valid_price(point.get("value")):
+                into[str(point["date"])] = float(point["value"])
+
+    merged_items: list[dict[str, Any]] = []
+    seen: set[str] = set()
+    for item in rebuilt.get("items", []):
+        item_id = str(item["id"])
+        seen.add(item_id)
+        points_by_date: dict[str, float] = {}
+        collect(existing_by_id.get(item_id, {}).get("points"), points_by_date)
+        collect(item.get("points"), points_by_date)
+        item["points"] = [{"date": date, "value": points_by_date[date]} for date in sorted(points_by_date)]
+        merged_items.append(item)
+
+    for item_id, item in existing_by_id.items():
+        if item_id not in seen:
+            merged_items.append(item)
+
+    rebuilt["items"] = merged_items
+    return rebuilt
+
+
 def normalize_history(history: dict[str, Any], current_values: dict[str, dict[str, Any]]) -> dict[str, Any]:
     items = history.get("items")
     if not isinstance(items, list):
@@ -399,28 +447,40 @@ def normalize_history(history: dict[str, Any], current_values: dict[str, dict[st
 
         points = [point for point in entry.get("points", []) if isinstance(point, dict) and point.get("date")]
         points = [point for point in points if point["date"] != today]
-        points.append({"date": today, "value": current["price"], "status": current["status"]})
+        today_price = current["price"] if is_valid_price(current["price"]) else None
+        points.append({"date": today, "value": today_price, "status": current["status"]})
         points.sort(key=lambda point: point["date"])
 
-        baseline_point = next((point for point in points if isinstance(point.get("value"), (int, float))), None)
+        baseline_point = next((point for point in points if is_valid_price(point.get("value"))), None)
         if baseline_point:
             baseline_value = float(baseline_point["value"])
             baseline_date = baseline_point["date"]
         else:
-            baseline_value = current["price"]
+            baseline_value = today_price
             baseline_date = today
 
         normalized_points = []
+        prev_value: float | None = None
         for point in points:
             value = point.get("value")
             change = None
-            if isinstance(value, (int, float)) and baseline_value not in (None, 0):
-                change = ((float(value) / float(baseline_value)) - 1) * 100
+            change_prev = None
+            if is_valid_price(value):
+                value = float(value)
+                if baseline_value:
+                    change = ((value / baseline_value) - 1) * 100
+                # 前日比は直近の有効値（休日や取得失敗はスキップ）と比較する。
+                if prev_value:
+                    change_prev = ((value / prev_value) - 1) * 100
+                prev_value = value
+            else:
+                value = None
             normalized_points.append(
                 {
                     "date": point["date"],
                     "value": value,
                     "change_from_base_pct": round(change, 4) if change is not None else None,
+                    "change_from_prev_pct": round(change_prev, 4) if change_prev is not None else None,
                 }
             )
 
@@ -463,7 +523,9 @@ def build_latest_payload(current_values: dict[str, dict[str, Any]]) -> dict[str,
 
 def main() -> None:
     current_values = fetch_current_values()
-    history = build_historical_history(current_values)
+    existing_history = load_json(HISTORY_PATH, {})
+    history = merge_history(existing_history, build_historical_history(current_values))
+    history = normalize_history(history, current_values)
     latest = build_latest_payload(current_values)
 
     write_json(HISTORY_PATH, history)
