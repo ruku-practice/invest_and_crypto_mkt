@@ -178,6 +178,13 @@ function renderQuotePanels() {
   renderQuoteList('crypto-list', items.filter((item) => item.category === 'crypto'));
 }
 
+const NEWS_CATEGORY_LABELS = {
+  nikkei: '日経平均',
+  overseas: '海外',
+  fx: '外為',
+  crypto: 'クリプト',
+};
+
 function formatNewsTime(value) {
   if (!value) return '';
   if (!value.includes('T')) return value;
@@ -212,8 +219,11 @@ function renderNews(news) {
     const link = item.url
       ? `<a href="${item.url}" target="_blank" rel="noopener">${item.title}</a>`
       : `<span>${item.title}</span>`;
+    const categoryLabel = NEWS_CATEGORY_LABELS[item.category] || '';
+    const categoryTag = categoryLabel ? `<span class="news-category">${categoryLabel}</span>` : '<span class="news-category"></span>';
     article.innerHTML = `
       <span class="news-source">${item.source || item.category || 'news'}</span>
+      ${categoryTag}
       ${link}
       <time>${formatNewsTime(item.published_at)}</time>
     `;

@@ -389,8 +389,9 @@ h1 {
 
 .news-item {
   display: grid;
-  grid-template-columns: 120px 1fr auto;
+  grid-template-columns: 92px 78px 1fr auto;
   gap: 12px;
+  align-items: center;
   padding: 10px 0;
   border-bottom: 1px solid var(--line);
 }
@@ -400,6 +401,22 @@ h1 {
   font-size: 12px;
   font-weight: 900;
   text-transform: uppercase;
+}
+
+.news-category {
+  justify-self: start;
+  padding: 2px 8px;
+  border: 1px solid var(--accent);
+  background: var(--accent-weak);
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 900;
+  white-space: nowrap;
+}
+
+.news-category:empty {
+  border: 0;
+  background: transparent;
 }
 
 .post-box {
