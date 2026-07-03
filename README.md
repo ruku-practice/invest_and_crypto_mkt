@@ -29,14 +29,40 @@ python3 -m http.server 8000
 
 ブラウザで `http://localhost:8000/` を開く。
 
-## 次の実装
+## 毎朝の自動更新（Google Cloud）
 
-1. `history.json` の前日比再計算をWeb側で継続する
-2. `GitHub Actions` で毎朝 6:00 / 6:10 JST 更新を回す
+定期実行は Cloud Scheduler → Cloud Run Job 方式（CNP TIMES / FiNANCiE TIMES と同じ構成）。
+GitHub Actions の `schedule` は発火が不安定だったため廃止した。
 
-## GitHub Actions
+- GCPプロジェクト: `writeinfo2spreadsheet` / リージョン `asia-northeast1`
+- Cloud Run Job `invest-daily`（`JOB_MODE=data`）… 市場データ更新
+- Cloud Run Job `invest-news`（`JOB_MODE=news`）… 市況ニュース更新
+- Cloud Scheduler `invest-daily-trigger`（毎日 06:00 JST）→ invest-daily 実行
+- Cloud Scheduler `invest-news-trigger`（毎日 06:10 JST）→ invest-news 実行
+- 各Jobは `deploy/cloudrun/`（Dockerfile / run.sh）から作られ、起動時にリポジトリを
+  clone → 取得スクリプト実行 → `data/` の差分を main へ push する。
+- push用トークンは Secret Manager の `gh-token` を参照。
 
-- `.github/workflows/daily.yml` は毎日 06:00 JST にマーケットデータを更新する。
-- `.github/workflows/news.yml` は毎日 06:10 JST にニュースを更新する。
+### イメージ再ビルド（スクリプト依存を変えたとき）
 
-GitHubリポジトリ作成後、このままActionsを有効化すれば、Web側の取得結果を自動コミットできる。
+```bash
+gcloud run jobs deploy invest-daily \
+  --source deploy/cloudrun --region asia-northeast1 \
+  --project writeinfo2spreadsheet \
+  --service-account 289412336991-compute@developer.gserviceaccount.com \
+  --set-secrets GH_TOKEN=gh-token:latest --set-env-vars JOB_MODE=data \
+  --tasks 1 --max-retries 1 --task-timeout 1800 --memory 2Gi --cpu 2
+# invest-news は同じイメージを --image 指定で参照（JOB_MODE=news）
+```
+
+### 手動実行
+
+```bash
+gcloud run jobs execute invest-daily --region asia-northeast1 --project writeinfo2spreadsheet
+gcloud run jobs execute invest-news  --region asia-northeast1 --project writeinfo2spreadsheet
+```
+
+## GitHub Actions（手動フォールバック）
+
+- `.github/workflows/daily.yml` / `news.yml` は `schedule` を廃止し、`workflow_dispatch`
+  （手動）と `repository_dispatch` のみ。Cloud Run が使えないときの緊急用。

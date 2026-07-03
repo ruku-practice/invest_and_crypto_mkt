@@ -1,11 +1,10 @@
 name: Daily market data
 
 on:
+  # 定期実行は Cloud Scheduler → Cloud Run Job (invest-daily) に移行済み。
+  # ここは手動フォールバック専用（GitHub Actions の schedule は発火が不安定なため廃止）。
   repository_dispatch:
     types: [run-daily-data]
-  schedule:
-    # 朝 6:00 JST = 21:00 UTC
-    - cron: "0 21 * * *"
   workflow_dispatch:
 
 permissions:

@@ -1,11 +1,10 @@
 name: Daily market news
 
 on:
+  # 定期実行は Cloud Scheduler → Cloud Run Job (invest-news) に移行済み。
+  # ここは手動フォールバック専用（GitHub Actions の schedule は発火が不安定なため廃止）。
   repository_dispatch:
     types: [run-daily-news]
-  schedule:
-    # 朝 6:10 JST = 21:10 UTC
-    - cron: "10 21 * * *"
   workflow_dispatch:
 
 permissions:
