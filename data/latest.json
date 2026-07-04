@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T06:00:28+09:00",
-  "display_date": "2026/07/04",
+  "generated_at": "2026-07-05T06:00:44+09:00",
+  "display_date": "2026/07/05",
   "display_time": "06:00",
   "source": "web-fetch",
   "markets": [
@@ -9,10 +9,10 @@
       "name": "日経225",
       "category": "index",
       "currency": "JPY",
-      "price": 68733.1484375,
-      "display_price": "¥68,733",
-      "change_rate": -2.4715338282268906,
-      "display_change_rate": "-2.47%",
+      "price": 69744.0703125,
+      "display_price": "¥69,744",
+      "change_rate": 1.470792329438031,
+      "display_change_rate": "+1.47%",
       "status": "ok"
     },
     {
@@ -66,10 +66,10 @@
       "name": "BTC",
       "category": "crypto",
       "currency": "JPY",
-      "price": 10117502.0,
-      "display_price": "¥10,117,502",
-      "change_rate": 2.1085988984883635,
-      "display_change_rate": "+2.11%",
+      "price": 10197810.0,
+      "display_price": "¥10,197,810",
+      "change_rate": 0.7015233783889618,
+      "display_change_rate": "+0.70%",
       "status": "ok"
     },
     {
@@ -77,10 +77,10 @@
       "name": "ETH",
       "category": "crypto",
       "currency": "JPY",
-      "price": 284720.0,
-      "display_price": "¥284,720",
-      "change_rate": 3.7598799765038806,
-      "display_change_rate": "+3.76%",
+      "price": 288212.0,
+      "display_price": "¥288,212",
+      "change_rate": 1.1397978801195199,
+      "display_change_rate": "+1.14%",
       "status": "ok"
     },
     {
@@ -88,10 +88,10 @@
       "name": "SOL",
       "category": "crypto",
       "currency": "JPY",
-      "price": 13336.27,
-      "display_price": "¥13,336",
-      "change_rate": 2.3165581236898305,
-      "display_change_rate": "+2.32%",
+      "price": 13220.37,
+      "display_price": "¥13,220",
+      "change_rate": -0.9081731205330897,
+      "display_change_rate": "-0.91%",
       "status": "ok"
     },
     {
@@ -99,8 +99,8 @@
       "name": "GCHO",
       "category": "crypto",
       "currency": "USD",
-      "price": 0.00018796,
-      "display_price": "$0.000188",
+      "price": 0.00018956,
+      "display_price": "$0.00019",
       "change_rate": null,
       "display_change_rate": "--",
       "status": "ok"
