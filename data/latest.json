@@ -118,23 +118,31 @@
     }
   ],
   "news": {
-    "generated_at": "2026-07-06T06:10:15+09:00",
+    "generated_at": "2026-07-07T06:10:14+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "急反発、朝安もキオクシア上昇で買い安心感",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202607031076",
-        "published_at": "2026-07-03T16:55:09+09:00",
-        "summary_for_post": "急反発、朝安もキオクシア上昇で買い安心感"
+        "title": "小反落、AI・半導体関連の一角が安い",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202607061168",
+        "published_at": "2026-07-06T18:15:17+09:00",
+        "summary_for_post": "小反落、AI・半導体関連の一角が安い"
+      },
+      {
+        "category": "overseas",
+        "source": "kabutan",
+        "title": "ダウ平均が続伸　ナスダックは大幅高　半導体に買戻し",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202607070040",
+        "published_at": "2026-07-07T05:32:00+09:00",
+        "summary_for_post": "ダウ平均が続伸　ナスダックは大幅高　半導体に買戻し"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：円高値圏でもみ合い、米連休狙った当局の介入警戒",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202607030028",
-        "published_at": "2026-07-03T02:35:41+09:00",
-        "summary_for_post": "NY外為：円高値圏でもみ合い、米連休狙った当局の介入警戒"
+        "title": "NY外為：円続落、リスク選好や介入の可能性試す",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202607070019",
+        "published_at": "2026-07-07T02:16:06+09:00",
+        "summary_for_post": "NY外為：円続落、リスク選好や介入の可能性試す"
       },
       {
         "category": "crypto",
@@ -145,7 +153,7 @@
         "summary_for_post": "ビットコイン雇用統計下振れで持ち直し、FOMC議事録と中東情勢が焦点"
       }
     ],
-    "post_text": "",
+    "post_text": "・日経平均：小反落、AI・半導体関連の一角が安い\n・海外：ダウ平均が続伸　ナスダックは大幅高　半導体に買戻し\n・ドル円：NY外為：円続落、リスク選好や介入の可能性試す\n・クリプト(07/05)：ビットコイン雇用統計下振れで持ち直し、FOMC議事録と中東情勢が焦点",
     "status": "ok"
   }
 }
