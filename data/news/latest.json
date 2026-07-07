@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-07-07T06:10:14+09:00",
+  "generated_at": "2026-07-08T06:10:14+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "小反落、AI・半導体関連の一角が安い",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607061168",
-      "published_at": "2026-07-06T18:15:17+09:00",
-      "summary_for_post": "小反落、AI・半導体関連の一角が安い"
+      "title": "続急落、米株高も韓国株急落が重荷",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607071308",
+      "published_at": "2026-07-07T18:13:35+09:00",
+      "summary_for_post": "続急落、米株高も韓国株急落が重荷"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均が続伸　ナスダックは大幅高　半導体に買戻し",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607070040",
-      "published_at": "2026-07-07T05:32:00+09:00",
-      "summary_for_post": "ダウ平均が続伸　ナスダックは大幅高　半導体に買戻し"
+      "title": "ダウ平均は下げに転じる　ナスダックは大幅安　半導体株の売り再燃",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607080046",
+      "published_at": "2026-07-08T05:32:00+09:00",
+      "summary_for_post": "ダウ平均は下げに転じる　ナスダックは大幅安　半導体株の売り再燃"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：円続落、リスク選好や介入の可能性試す",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607070019",
-      "published_at": "2026-07-07T02:16:06+09:00",
-      "summary_for_post": "NY外為：円続落、リスク選好や介入の可能性試す"
+      "title": "NY外為：ドル高値から反落、米3年債入札は好調",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607080025",
+      "published_at": "2026-07-08T02:21:53+09:00",
+      "summary_for_post": "NY外為：ドル高値から反落、米3年債入札は好調"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ビットコイン雇用統計下振れで持ち直し、FOMC議事録と中東情勢が焦点",
-      "url": "https://coinpost.jp/?p=722031",
-      "published_at": "07/05 11:30",
-      "summary_for_post": "ビットコイン雇用統計下振れで持ち直し、FOMC議事録と中東情勢が焦点"
+      "title": "ビットコイン乱高下、DAT企業のBTC売却で急落もStrive買い増しで反発",
+      "url": "https://coinpost.jp/?p=722454",
+      "published_at": "07/07 09:05",
+      "summary_for_post": "ビットコイン乱高下、DAT企業のBTC売却で急落もStrive買い増しで反発"
     }
   ],
-  "post_text": "・日経平均：小反落、AI・半導体関連の一角が安い\n・海外：ダウ平均が続伸　ナスダックは大幅高　半導体に買戻し\n・ドル円：NY外為：円続落、リスク選好や介入の可能性試す\n・クリプト(07/05)：ビットコイン雇用統計下振れで持ち直し、FOMC議事録と中東情勢が焦点",
+  "post_text": "・日経平均：続急落、米株高も韓国株急落が重荷\n・海外：ダウ平均は下げに転じる　ナスダックは大幅安　半導体株の売り再燃\n・ドル円：NY外為：ドル高値から反落、米3年債入札は好調\n・クリプト(07/07)：ビットコイン乱高下、DAT企業のBTC売却で急落もStrive買い増しで反発",
   "status": "ok"
 }
