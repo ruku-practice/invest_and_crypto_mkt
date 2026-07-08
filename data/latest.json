@@ -118,42 +118,42 @@
     }
   ],
   "news": {
-    "generated_at": "2026-07-08T06:10:14+09:00",
+    "generated_at": "2026-07-09T06:10:16+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "続急落、米株高も韓国株急落が重荷",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202607071308",
-        "published_at": "2026-07-07T18:13:35+09:00",
-        "summary_for_post": "続急落、米株高も韓国株急落が重荷"
+        "title": "大幅に3日続落、韓国株安響き6万7000円割れ",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202607081057",
+        "published_at": "2026-07-08T18:16:02+09:00",
+        "summary_for_post": "大幅に3日続落、韓国株安響き6万7000円割れ"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は下げに転じる　ナスダックは大幅安　半導体株の売り再燃",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202607080046",
-        "published_at": "2026-07-08T05:32:00+09:00",
-        "summary_for_post": "ダウ平均は下げに転じる　ナスダックは大幅安　半導体株の売り再燃"
+        "title": "ダウ平均は大幅安　中東情勢の緊迫化が再燃　トランプ発言で動揺",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202607090061",
+        "published_at": "2026-07-09T05:32:00+09:00",
+        "summary_for_post": "ダウ平均は大幅安　中東情勢の緊迫化が再燃　トランプ発言で動揺"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル高値から反落、米3年債入札は好調",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202607080025",
-        "published_at": "2026-07-08T02:21:53+09:00",
-        "summary_for_post": "NY外為：ドル高値から反落、米3年債入札は好調"
+        "title": "NY外為：ドル高値から反落、米10年債入札は好調",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202607090023",
+        "published_at": "2026-07-09T02:19:39+09:00",
+        "summary_for_post": "NY外為：ドル高値から反落、米10年債入札は好調"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "ビットコイン乱高下、DAT企業のBTC売却で急落もStrive買い増しで反発",
-        "url": "https://coinpost.jp/?p=722454",
-        "published_at": "07/07 09:05",
-        "summary_for_post": "ビットコイン乱高下、DAT企業のBTC売却で急落もStrive買い増しで反発"
+        "title": "ビットコイン・イーサリアム上昇も、ウィンターミュートは一時的な反発と分析",
+        "url": "https://coinpost.jp/?p=722790",
+        "published_at": "07/08 06:30",
+        "summary_for_post": "ビットコイン・イーサリアム上昇も、ウィンターミュートは一時的な反発と分析"
       }
     ],
-    "post_text": "・日経平均：続急落、米株高も韓国株急落が重荷\n・海外：ダウ平均は下げに転じる　ナスダックは大幅安　半導体株の売り再燃\n・ドル円：NY外為：ドル高値から反落、米3年債入札は好調\n・クリプト(07/07)：ビットコイン乱高下、DAT企業のBTC売却で急落もStrive買い増しで反発",
+    "post_text": "・日経平均：大幅に3日続落、韓国株安響き6万7000円割れ\n・海外：ダウ平均は大幅安　中東情勢の緊迫化が再燃　トランプ発言で動揺\n・ドル円：NY外為：ドル高値から反落、米10年債入札は好調\n・クリプト(07/08)：ビットコイン・イーサリアム上昇も、ウィンターミュートは一時的な反発と分析",
     "status": "ok"
   }
 }
