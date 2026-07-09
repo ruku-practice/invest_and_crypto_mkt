@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-09T06:10:16+09:00",
+  "generated_at": "2026-07-10T06:10:14+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "大幅に3日続落、韓国株安響き6万7000円割れ",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607081057",
-      "published_at": "2026-07-08T18:16:02+09:00",
-      "summary_for_post": "大幅に3日続落、韓国株安響き6万7000円割れ"
+      "title": "4日ぶり反発、半導体関連株中心に買い戻し",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607090988",
+      "published_at": "2026-07-09T16:34:43+09:00",
+      "summary_for_post": "4日ぶり反発、半導体関連株中心に買い戻し"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は大幅安　中東情勢の緊迫化が再燃　トランプ発言で動揺",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607090061",
-      "published_at": "2026-07-09T05:32:00+09:00",
-      "summary_for_post": "ダウ平均は大幅安　中東情勢の緊迫化が再燃　トランプ発言で動揺"
+      "title": "ダウ平均は反発　イラン情勢を楽観視　原油高も一服",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607100048",
+      "published_at": "2026-07-10T05:34:00+09:00",
+      "summary_for_post": "ダウ平均は反発　イラン情勢を楽観視　原油高も一服"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル高値から反落、米10年債入札は好調",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607090023",
-      "published_at": "2026-07-09T02:19:39+09:00",
-      "summary_for_post": "NY外為：ドル高値から反落、米10年債入札は好調"
+      "title": "NY外為：ドル軟調、米30年債入札も好調、最高落札利回りは2007年来で最高",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607100029",
+      "published_at": "2026-07-10T03:25:05+09:00",
+      "summary_for_post": "NY外為：ドル軟調、米30年債入札も好調、最高落札利回りは2007年来で最高"
     },
     {
       "category": "crypto",
@@ -34,6 +34,6 @@
       "summary_for_post": "ビットコイン・イーサリアム上昇も、ウィンターミュートは一時的な反発と分析"
     }
   ],
-  "post_text": "・日経平均：大幅に3日続落、韓国株安響き6万7000円割れ\n・海外：ダウ平均は大幅安　中東情勢の緊迫化が再燃　トランプ発言で動揺\n・ドル円：NY外為：ドル高値から反落、米10年債入札は好調\n・クリプト(07/08)：ビットコイン・イーサリアム上昇も、ウィンターミュートは一時的な反発と分析",
+  "post_text": "・日経平均：4日ぶり反発、半導体関連株中心に買い戻し\n・海外：ダウ平均は反発　イラン情勢を楽観視　原油高も一服\n・ドル円：NY外為：ドル軟調、米30年債入札も好調、最高落札利回りは2007年来で最高\n・クリプト(07/08)：ビットコイン・イーサリアム上昇も、ウィンターミュートは一時的な反発と分析",
   "status": "ok"
 }
