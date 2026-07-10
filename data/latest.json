@@ -118,31 +118,31 @@
     }
   ],
   "news": {
-    "generated_at": "2026-07-10T06:10:14+09:00",
+    "generated_at": "2026-07-11T06:10:15+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "4日ぶり反発、半導体関連株中心に買い戻し",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202607090988",
-        "published_at": "2026-07-09T16:34:43+09:00",
-        "summary_for_post": "4日ぶり反発、半導体関連株中心に買い戻し"
+        "title": "続伸、AI・半導体関連中心に買いが流入",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202607100970",
+        "published_at": "2026-07-10T16:29:37+09:00",
+        "summary_for_post": "続伸、AI・半導体関連中心に買いが流入"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は反発　イラン情勢を楽観視　原油高も一服",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202607100048",
-        "published_at": "2026-07-10T05:34:00+09:00",
-        "summary_for_post": "ダウ平均は反発　イラン情勢を楽観視　原油高も一服"
+        "title": "ダウ平均、ナスダックとも続伸　ＳＫハイニックスは堅調なスタート",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202607110048",
+        "published_at": "2026-07-11T05:31:00+09:00",
+        "summary_for_post": "ダウ平均、ナスダックとも続伸　ＳＫハイニックスは堅調なスタート"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル軟調、米30年債入札も好調、最高落札利回りは2007年来で最高",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202607100029",
-        "published_at": "2026-07-10T03:25:05+09:00",
-        "summary_for_post": "NY外為：ドル軟調、米30年債入札も好調、最高落札利回りは2007年来で最高"
+        "title": "NY外為：ドル買いに転じる、米長期金利が上昇、FRBはインフレ高止まりと指摘半年に一度の報告書",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202607110034",
+        "published_at": "2026-07-11T03:35:14+09:00",
+        "summary_for_post": "NY外為：ドル買いに転じる、米長期金利が上昇、FRBはインフレ高止まりと指摘半年に一度の報告書"
       },
       {
         "category": "crypto",
@@ -153,7 +153,7 @@
         "summary_for_post": "ビットコイン・イーサリアム上昇も、ウィンターミュートは一時的な反発と分析"
       }
     ],
-    "post_text": "・日経平均：4日ぶり反発、半導体関連株中心に買い戻し\n・海外：ダウ平均は反発　イラン情勢を楽観視　原油高も一服\n・ドル円：NY外為：ドル軟調、米30年債入札も好調、最高落札利回りは2007年来で最高\n・クリプト(07/08)：ビットコイン・イーサリアム上昇も、ウィンターミュートは一時的な反発と分析",
+    "post_text": "・日経平均：続伸、AI・半導体関連中心に買いが流入\n・海外：ダウ平均、ナスダックとも続伸　ＳＫハイニックスは堅調なスタート\n・ドル円：NY外為：ドル買いに転じる、米長期金利が上昇、FRBはインフレ高止まりと指摘半年に一度の報告書\n・クリプト(07/08)：ビットコイン・イーサリアム上昇も、ウィンターミュートは一時的な反発と分析",
     "status": "ok"
   }
 }
