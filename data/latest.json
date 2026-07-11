@@ -118,16 +118,8 @@
     }
   ],
   "news": {
-    "generated_at": "2026-07-11T06:10:15+09:00",
+    "generated_at": "2026-07-12T06:10:15+09:00",
     "items": [
-      {
-        "category": "nikkei",
-        "source": "kabutan",
-        "title": "続伸、AI・半導体関連中心に買いが流入",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202607100970",
-        "published_at": "2026-07-10T16:29:37+09:00",
-        "summary_for_post": "続伸、AI・半導体関連中心に買いが流入"
-      },
       {
         "category": "overseas",
         "source": "kabutan",
@@ -147,13 +139,13 @@
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "ビットコイン・イーサリアム上昇も、ウィンターミュートは一時的な反発と分析",
-        "url": "https://coinpost.jp/?p=722790",
-        "published_at": "07/08 06:30",
-        "summary_for_post": "ビットコイン・イーサリアム上昇も、ウィンターミュートは一時的な反発と分析"
+        "title": "ビットコイン6.4万ドル台へ上昇、現物主導の買いと原油安が追い風",
+        "url": "https://coinpost.jp/?p=723907",
+        "published_at": "07/11 10:20",
+        "summary_for_post": "ビットコイン6.4万ドル台へ上昇、現物主導の買いと原油安が追い風"
       }
     ],
-    "post_text": "・日経平均：続伸、AI・半導体関連中心に買いが流入\n・海外：ダウ平均、ナスダックとも続伸　ＳＫハイニックスは堅調なスタート\n・ドル円：NY外為：ドル買いに転じる、米長期金利が上昇、FRBはインフレ高止まりと指摘半年に一度の報告書\n・クリプト(07/08)：ビットコイン・イーサリアム上昇も、ウィンターミュートは一時的な反発と分析",
+    "post_text": "",
     "status": "ok"
   }
 }
