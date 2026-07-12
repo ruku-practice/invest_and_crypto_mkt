@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T06:00:41+09:00",
-  "display_date": "2026/07/12",
+  "generated_at": "2026-07-13T06:00:45+09:00",
+  "display_date": "2026/07/13",
   "display_time": "06:00",
   "source": "web-fetch",
   "markets": [
@@ -53,10 +53,10 @@
       "name": "ドル円",
       "category": "fx",
       "currency": "JPY",
-      "price": 161.6719970703125,
+      "price": 161.69700622558594,
       "display_price": "¥162",
-      "change_rate": -0.5334131419029164,
-      "display_change_rate": "-0.53%",
+      "change_rate": -0.4101921861334845,
+      "display_change_rate": "-0.41%",
       "status": "ok"
     }
   ],
@@ -66,10 +66,10 @@
       "name": "BTC",
       "category": "crypto",
       "currency": "JPY",
-      "price": 10401389.0,
-      "display_price": "¥10,401,389",
-      "change_rate": 0.8274786915063713,
-      "display_change_rate": "+0.83%",
+      "price": 10374808.0,
+      "display_price": "¥10,374,808",
+      "change_rate": -0.31407180867181816,
+      "display_change_rate": "-0.31%",
       "status": "ok"
     },
     {
@@ -77,10 +77,10 @@
       "name": "ETH",
       "category": "crypto",
       "currency": "JPY",
-      "price": 295020.0,
-      "display_price": "¥295,020",
-      "change_rate": 1.9774014081532534,
-      "display_change_rate": "+1.98%",
+      "price": 294339.0,
+      "display_price": "¥294,339",
+      "change_rate": -0.3142585048756741,
+      "display_change_rate": "-0.31%",
       "status": "ok"
     },
     {
@@ -88,10 +88,10 @@
       "name": "SOL",
       "category": "crypto",
       "currency": "JPY",
-      "price": 12629.16,
-      "display_price": "¥12,629",
-      "change_rate": 0.4749926770491467,
-      "display_change_rate": "+0.47%",
+      "price": 12524.46,
+      "display_price": "¥12,524",
+      "change_rate": -0.8409001307840941,
+      "display_change_rate": "-0.84%",
       "status": "ok"
     },
     {
