@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-07-13T06:10:18+09:00",
+  "generated_at": "2026-07-14T06:10:11+09:00",
   "items": [
+    {
+      "category": "nikkei",
+      "source": "kabutan",
+      "title": "3日ぶり反落、韓国株急落で一気に値を崩す",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607131001",
+      "published_at": "2026-07-13T17:19:38+09:00",
+      "summary_for_post": "3日ぶり反落、韓国株急落で一気に値を崩す"
+    },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均、ナスダックとも続伸　ＳＫハイニックスは堅調なスタート",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607110048",
-      "published_at": "2026-07-11T05:31:00+09:00",
-      "summary_for_post": "ダウ平均、ナスダックとも続伸　ＳＫハイニックスは堅調なスタート"
+      "title": "ダウ平均は下落　中東情勢が再び緊迫化　半導体に売り",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607140040",
+      "published_at": "2026-07-14T05:32:00+09:00",
+      "summary_for_post": "ダウ平均は下落　中東情勢が再び緊迫化　半導体に売り"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル買いに転じる、米長期金利が上昇、FRBはインフレ高止まりと指摘半年に一度の報告書",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607110034",
-      "published_at": "2026-07-11T03:35:14+09:00",
-      "summary_for_post": "NY外為：ドル買いに転じる、米長期金利が上昇、FRBはインフレ高止まりと指摘半年に一度の報告書"
+      "title": "NY外為：ドル一段高、年内の利上げ織り込む、原油高でインフレ懸念が再燃",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607140007",
+      "published_at": "2026-07-14T00:40:53+09:00",
+      "summary_for_post": "NY外為：ドル一段高、年内の利上げ織り込む、原油高でインフレ懸念が再燃"
     },
     {
       "category": "crypto",
@@ -26,6 +34,6 @@
       "summary_for_post": "ビットコイン6.4万ドル台へ上昇、現物主導の買いと原油安が追い風"
     }
   ],
-  "post_text": "",
+  "post_text": "・日経平均：3日ぶり反落、韓国株急落で一気に値を崩す\n・海外：ダウ平均は下落　中東情勢が再び緊迫化　半導体に売り\n・ドル円：NY外為：ドル一段高、年内の利上げ織り込む、原油高でインフレ懸念が再燃\n・クリプト(07/11)：ビットコイン6.4万ドル台へ上昇、現物主導の買いと原油安が追い風",
   "status": "ok"
 }
