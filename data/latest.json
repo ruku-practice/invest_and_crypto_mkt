@@ -118,31 +118,31 @@
     }
   ],
   "news": {
-    "generated_at": "2026-07-15T06:10:25+09:00",
+    "generated_at": "2026-07-16T06:10:15+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "反発、朝安も韓国株持ち直しで切り返す",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202607141094",
-        "published_at": "2026-07-14T18:12:37+09:00",
-        "summary_for_post": "反発、朝安も韓国株持ち直しで切り返す"
+        "title": "大幅続伸、半導体関連中心に買い優勢",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202607151097",
+        "published_at": "2026-07-15T17:54:05+09:00",
+        "summary_for_post": "大幅続伸、半導体関連中心に買い優勢"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は反発　米ＣＰＩが予想以上のインフレ鈍化を示す　ＩＢＭが大幅安",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202607150055",
-        "published_at": "2026-07-15T05:37:00+09:00",
-        "summary_for_post": "ダウ平均は反発　米ＣＰＩが予想以上のインフレ鈍化を示す　ＩＢＭが大幅安"
+        "title": "ダウ平均は続伸　米ＰＰＩもインフレ鈍化を示す内容",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202607160056",
+        "published_at": "2026-07-16T05:31:00+09:00",
+        "summary_for_post": "ダウ平均は続伸　米ＰＰＩもインフレ鈍化を示す内容"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル底堅い、ウォーシュFRB議長は物価安定を公約",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202607150025",
-        "published_at": "2026-07-15T02:39:29+09:00",
-        "summary_for_post": "NY外為：ドル底堅い、ウォーシュFRB議長は物価安定を公約"
+        "title": "NY外為：ドル続落、NY連銀総裁は据え置き示唆、クック理事はタカ派姿勢維持",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202607160028",
+        "published_at": "2026-07-16T02:35:45+09:00",
+        "summary_for_post": "NY外為：ドル続落、NY連銀総裁は据え置き示唆、クック理事はタカ派姿勢維持"
       },
       {
         "category": "crypto",
@@ -153,7 +153,7 @@
         "summary_for_post": "ビットコイン6.4万ドル台へ上昇、現物主導の買いと原油安が追い風"
       }
     ],
-    "post_text": "・日経平均：反発、朝安も韓国株持ち直しで切り返す\n・海外：ダウ平均は反発　米ＣＰＩが予想以上のインフレ鈍化を示す　ＩＢＭが大幅安\n・ドル円：NY外為：ドル底堅い、ウォーシュFRB議長は物価安定を公約\n・クリプト(07/11)：ビットコイン6.4万ドル台へ上昇、現物主導の買いと原油安が追い風",
+    "post_text": "・日経平均：大幅続伸、半導体関連中心に買い優勢\n・海外：ダウ平均は続伸　米ＰＰＩもインフレ鈍化を示す内容\n・ドル円：NY外為：ドル続落、NY連銀総裁は据え置き示唆、クック理事はタカ派姿勢維持\n・クリプト(07/11)：ビットコイン6.4万ドル台へ上昇、現物主導の買いと原油安が追い風",
     "status": "ok"
   }
 }
