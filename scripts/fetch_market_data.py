@@ -42,6 +42,8 @@ CRYPTOS = [
     {"id": "bonsai_100m", "name": "1億BONSAI", "category": "crypto", "url": "https://www.geckoterminal.com/base/pools/0x4fe87203b27a105a772f195d3f30dea714d1ecf0", "currency": "USD"},
 ]
 
+AUTHORITATIVE_HISTORY_IDS = {item["id"] for item in MARKETS} | {"btc", "eth", "sol"}
+
 
 def now_jst() -> datetime:
     return datetime.now(JST).replace(microsecond=0)
@@ -92,21 +94,25 @@ def is_valid_price(value: Any) -> bool:
     return isinstance(value, (int, float)) and math.isfinite(value) and value > 0
 
 
-def fetch_yfinance_series(ticker: str) -> tuple[float | None, float | None, str]:
+def fetch_yfinance_series(ticker: str) -> tuple[float | None, float | None, str, str | None]:
     try:
         hist = yf.Ticker(ticker).history(period="7d", interval="1d")
         close_series = hist["Close"] if "Close" in hist else None
         if close_series is None:
-            return None, None, "error"
-        closes = [float(value) for value in close_series.dropna().tolist()]
+            return None, None, "error", None
+        close_series = close_series.dropna()
+        closes = [float(value) for value in close_series.tolist()]
         if not closes:
-            return None, None, "error"
+            return None, None, "error", None
         current = closes[-1]
         previous = closes[-2] if len(closes) >= 2 else None
         change = ((current / previous) - 1) * 100 if previous else None
-        return current, change, "ok"
+        # yfinanceの最新値は「実行日」ではなく、最後に成立した取引日の値。
+        # 休場中に実行日の履歴として保存すると同じ終値が複製され、前日比が0%になる。
+        price_date = close_series.index[-1].date().isoformat()
+        return current, change, "ok", price_date
     except Exception:
-        return None, None, "error"
+        return None, None, "error", None
 
 
 def fetch_yfinance_history(ticker: str, start: datetime, end: datetime | None = None) -> dict[str, float]:
@@ -258,7 +264,7 @@ def fetch_current_values() -> dict[str, dict[str, Any]]:
     values: dict[str, dict[str, Any]] = {}
 
     for item in MARKETS:
-        price, change, status = fetch_yfinance_series(item["ticker"])
+        price, change, status, price_date = fetch_yfinance_series(item["ticker"])
         values[item["id"]] = {
             "id": item["id"],
             "name": item["name"],
@@ -268,6 +274,7 @@ def fetch_current_values() -> dict[str, dict[str, Any]]:
             "display_price": format_price(price, item["currency"]),
             "change_rate": change,
             "display_change_rate": format_change(change),
+            "price_date": price_date.replace("-", "/") if price_date else None,
             "status": status,
         }
 
@@ -291,6 +298,7 @@ def fetch_current_values() -> dict[str, dict[str, Any]]:
             "display_price": format_price(price, item["currency"]),
             "change_rate": change,
             "display_change_rate": format_change(change),
+            "price_date": now_jst().strftime("%Y/%m/%d"),
             "status": status,
         }
 
@@ -411,8 +419,20 @@ def merge_history(existing: dict[str, Any], rebuilt: dict[str, Any]) -> dict[str
         item_id = str(item["id"])
         seen.add(item_id)
         points_by_date: dict[str, dict[str, Any]] = {}
-        collect(existing_by_id.get(item_id, {}).get("points"), points_by_date)
+        existing_points = existing_by_id.get(item_id, {}).get("points")
+        existing_fetched_at = {
+            str(point["date"]): point["fetched_at"]
+            for point in existing_points or []
+            if isinstance(point, dict) and point.get("date") and point.get("fetched_at")
+        }
+        # yfinanceで全期間を再取得できる銘柄は再取得結果を正本にする。
+        # 既存側を先に混ぜると、旧ロジックが休場日に複製した値が永久に残る。
+        if item_id not in AUTHORITATIVE_HISTORY_IDS:
+            collect(existing_points, points_by_date)
         collect(item.get("points"), points_by_date)
+        for date, point in points_by_date.items():
+            if not point.get("fetched_at") and date in existing_fetched_at:
+                point["fetched_at"] = existing_fetched_at[date]
         item["points"] = [{"date": date, **points_by_date[date]} for date in sorted(points_by_date)]
         merged_items.append(item)
 
@@ -436,6 +456,7 @@ def normalize_history(history: dict[str, Any], current_values: dict[str, dict[st
 
     today = now_jst().strftime("%Y/%m/%d")
     for item_id, current in current_values.items():
+        price_date = current.get("price_date") or today
         entry = by_id.get(item_id)
         if not entry:
             entry = {
@@ -443,17 +464,17 @@ def normalize_history(history: dict[str, Any], current_values: dict[str, dict[st
                 "name": current["name"],
                 "category": current["category"],
                 "currency": current["currency"],
-                "baseline_date": today,
+                "baseline_date": price_date,
                 "baseline_value": current["price"],
                 "points": [],
             }
             by_id[item_id] = entry
 
         points = [point for point in entry.get("points", []) if isinstance(point, dict) and point.get("date")]
-        points = [point for point in points if point["date"] != today]
+        points = [point for point in points if point["date"] != price_date]
         today_price = current["price"] if is_valid_price(current["price"]) else None
         points.append({
-            "date": today,
+            "date": price_date,
             "value": today_price,
             "status": current["status"],
             "fetched_at": now_jst().strftime("%H:%M"),
@@ -466,7 +487,7 @@ def normalize_history(history: dict[str, Any], current_values: dict[str, dict[st
             baseline_date = baseline_point["date"]
         else:
             baseline_value = today_price
-            baseline_date = today
+            baseline_date = price_date
 
         normalized_points = []
         prev_value: float | None = None
