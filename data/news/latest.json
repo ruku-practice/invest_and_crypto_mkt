@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-07-17T06:10:15+09:00",
+  "generated_at": "2026-07-18T06:10:15+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "3日ぶり急反落、米半導体株安に追随",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607161037",
-      "published_at": "2026-07-16T17:05:37+09:00",
-      "summary_for_post": "3日ぶり急反落、米半導体株安に追随"
+      "title": "大幅続落、AI・半導体関連が軒並み安",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607171066",
+      "published_at": "2026-07-17T16:49:28+09:00",
+      "summary_for_post": "大幅続落、AI・半導体関連が軒並み安"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は反落　ナスダックは大幅安　半導体が本日も下落",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607170060",
-      "published_at": "2026-07-17T05:39:00+09:00",
-      "summary_for_post": "ダウ平均は反落　ナスダックは大幅安　半導体が本日も下落"
+      "title": "ダウ平均は続落　ナスダックは下げ渋るも大幅安　中国の新ＡＩモデル発表でＡＩ関連に売り",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607180042",
+      "published_at": "2026-07-18T05:33:00+09:00",
+      "summary_for_post": "ダウ平均は続落　ナスダックは下げ渋るも大幅安　中国の新ＡＩモデル発表でＡＩ関連に売り"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル高値、FRB高官のタカ派発言で",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607170032",
-      "published_at": "2026-07-17T03:57:53+09:00",
-      "summary_for_post": "NY外為：ドル高値、FRB高官のタカ派発言で"
+      "title": "NY外為：ドル続伸、NY原油価格は82ドル台で推移、米イラン軍事衝突激化リスク",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607180033",
+      "published_at": "2026-07-18T04:08:28+09:00",
+      "summary_for_post": "NY外為：ドル続伸、NY原油価格は82ドル台で推移、米イラン軍事衝突激化リスク"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "中小企業を永続保有しビットコインを積み立てる新会社、米オレンジ・ジュースが設立",
-      "url": "https://coinpost.jp/?p=725497",
-      "published_at": "07/17 05:00",
-      "summary_for_post": "中小企業を永続保有しビットコインを積み立てる新会社、米オレンジ・ジュースが設立"
+      "title": "ビットコイン長期保有者、37万BTC買い増しで保有量最高＝アナリスト",
+      "url": "https://coinpost.jp/?p=725809",
+      "published_at": "07/17 17:04",
+      "summary_for_post": "ビットコイン長期保有者、37万BTC買い増しで保有量最高＝アナリスト"
     }
   ],
-  "post_text": "・日経平均：3日ぶり急反落、米半導体株安に追随\n・海外：ダウ平均は反落　ナスダックは大幅安　半導体が本日も下落\n・ドル円：NY外為：ドル高値、FRB高官のタカ派発言で\n・クリプト(07/17)：中小企業を永続保有しビットコインを積み立てる新会社、米オレンジ・ジュースが設立",
+  "post_text": "・日経平均：大幅続落、AI・半導体関連が軒並み安\n・海外：ダウ平均は続落　ナスダックは下げ渋るも大幅安　中国の新ＡＩモデル発表でＡＩ関連に売り\n・ドル円：NY外為：ドル続伸、NY原油価格は82ドル台で推移、米イラン軍事衝突激化リスク\n・クリプト(07/17)：ビットコイン長期保有者、37万BTC買い増しで保有量最高＝アナリスト",
   "status": "ok"
 }
