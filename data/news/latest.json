@@ -1,14 +1,6 @@
 {
-  "generated_at": "2026-07-19T06:10:18+09:00",
+  "generated_at": "2026-07-20T06:10:17+09:00",
   "items": [
-    {
-      "category": "nikkei",
-      "source": "kabutan",
-      "title": "大幅続落、AI・半導体関連が軒並み安",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607171066",
-      "published_at": "2026-07-17T16:49:28+09:00",
-      "summary_for_post": "大幅続落、AI・半導体関連が軒並み安"
-    },
     {
       "category": "overseas",
       "source": "kabutan",
@@ -28,10 +20,10 @@
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "量子脅威が現実となる『Qデイ』後でもビットコイン所有権を証明、Project Elevenが技術開発",
-      "url": "https://coinpost.jp/?p=725901",
-      "published_at": "07/18 14:00",
-      "summary_for_post": "量子脅威が現実となる『Qデイ』後でもビットコイン所有権を証明、Project Elevenが技術開発"
+      "title": "ビットコインCPI下振れで持ち直すも上値重く、米株決算と中東情勢が焦点",
+      "url": "https://coinpost.jp/?p=725786",
+      "published_at": "07/19 11:30",
+      "summary_for_post": "ビットコインCPI下振れで持ち直すも上値重く、米株決算と中東情勢が焦点"
     }
   ],
   "post_text": "",
