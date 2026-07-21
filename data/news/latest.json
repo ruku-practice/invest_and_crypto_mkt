@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-07-21T06:10:25+09:00",
+  "generated_at": "2026-07-22T06:10:15+09:00",
   "items": [
+    {
+      "category": "nikkei",
+      "source": "kabutan",
+      "title": "3日ぶり急反発、半導体関連を中心に買い戻し",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607211108",
+      "published_at": "2026-07-21T17:52:06+09:00",
+      "summary_for_post": "3日ぶり急反発、半導体関連を中心に買い戻し"
+    },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は３日続落　ナスダックは小反発　半導体に買い戻し",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607210051",
-      "published_at": "2026-07-21T05:34:00+09:00",
-      "summary_for_post": "ダウ平均は３日続落　ナスダックは小反発　半導体に買い戻し"
+      "title": "ダウ平均が反発　半導体が本日も上昇し、投資家心理を支える",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607220062",
+      "published_at": "2026-07-22T05:33:00+09:00",
+      "summary_for_post": "ダウ平均が反発　半導体が本日も上昇し、投資家心理を支える"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル高値探る展開、米10年債利回りは4.58％まで上昇",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607210002",
-      "published_at": "2026-07-21T00:10:11+09:00",
-      "summary_for_post": "NY外為：ドル高値探る展開、米10年債利回りは4.58％まで上昇"
+      "title": "NY外為：カナダドル下落、米がカナダに50％追加関税発表",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607220022",
+      "published_at": "2026-07-22T02:33:24+09:00",
+      "summary_for_post": "NY外為：カナダドル下落、米がカナダに50％追加関税発表"
     },
     {
       "category": "crypto",
@@ -26,6 +34,6 @@
       "summary_for_post": "ビットコインCPI下振れで持ち直すも上値重く、米株決算と中東情勢が焦点"
     }
   ],
-  "post_text": "・日経平均：未取得\n・海外：ダウ平均は３日続落　ナスダックは小反発　半導体に買い戻し\n・ドル円：NY外為：ドル高値探る展開、米10年債利回りは4.58％まで上昇\n・クリプト(07/19)：ビットコインCPI下振れで持ち直すも上値重く、米株決算と中東情勢が焦点",
+  "post_text": "・日経平均：3日ぶり急反発、半導体関連を中心に買い戻し\n・海外：ダウ平均が反発　半導体が本日も上昇し、投資家心理を支える\n・ドル円：NY外為：カナダドル下落、米がカナダに50％追加関税発表\n・クリプト(07/19)：ビットコインCPI下振れで持ち直すも上値重く、米株決算と中東情勢が焦点",
   "status": "ok"
 }
