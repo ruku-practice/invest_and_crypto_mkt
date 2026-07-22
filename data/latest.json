@@ -128,42 +128,42 @@
     }
   ],
   "news": {
-    "generated_at": "2026-07-22T06:10:15+09:00",
+    "generated_at": "2026-07-23T06:10:12+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "3日ぶり急反発、半導体関連を中心に買い戻し",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202607211108",
-        "published_at": "2026-07-21T17:52:06+09:00",
-        "summary_for_post": "3日ぶり急反発、半導体関連を中心に買い戻し"
+        "title": "小反落、朝高も戻り売りで後場に値を消す",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202607221192",
+        "published_at": "2026-07-22T18:05:40+09:00",
+        "summary_for_post": "小反落、朝高も戻り売りで後場に値を消す"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均が反発　半導体が本日も上昇し、投資家心理を支える",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202607220062",
-        "published_at": "2026-07-22T05:33:00+09:00",
-        "summary_for_post": "ダウ平均が反発　半導体が本日も上昇し、投資家心理を支える"
+        "title": "ダウ平均は横ばい　アルファベットの決算待ちの雰囲気も　中東情勢は依然重石に",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202607230078",
+        "published_at": "2026-07-23T05:34:00+09:00",
+        "summary_for_post": "ダウ平均は横ばい　アルファベットの決算待ちの雰囲気も　中東情勢は依然重石に"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：カナダドル下落、米がカナダに50％追加関税発表",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202607220022",
-        "published_at": "2026-07-22T02:33:24+09:00",
-        "summary_for_post": "NY外為：カナダドル下落、米がカナダに50％追加関税発表"
+        "title": "NY外為：ドル底堅い、原油や米長期金利は上昇",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202607230026",
+        "published_at": "2026-07-23T02:23:38+09:00",
+        "summary_for_post": "NY外為：ドル底堅い、原油や米長期金利は上昇"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "ビットコインCPI下振れで持ち直すも上値重く、米株決算と中東情勢が焦点",
-        "url": "https://coinpost.jp/?p=725786",
-        "published_at": "07/19 11:30",
-        "summary_for_post": "ビットコインCPI下振れで持ち直すも上値重く、米株決算と中東情勢が焦点"
+        "title": "ビットコイン上昇、現物主導の買いを確認　オプション市場は7万ドルを意識",
+        "url": "https://coinpost.jp/?p=726363",
+        "published_at": "07/22 09:00",
+        "summary_for_post": "ビットコイン上昇、現物主導の買いを確認　オプション市場は7万ドルを意識"
       }
     ],
-    "post_text": "・日経平均：3日ぶり急反発、半導体関連を中心に買い戻し\n・海外：ダウ平均が反発　半導体が本日も上昇し、投資家心理を支える\n・ドル円：NY外為：カナダドル下落、米がカナダに50％追加関税発表\n・クリプト(07/19)：ビットコインCPI下振れで持ち直すも上値重く、米株決算と中東情勢が焦点",
+    "post_text": "・日経平均：小反落、朝高も戻り売りで後場に値を消す\n・海外：ダウ平均は横ばい　アルファベットの決算待ちの雰囲気も　中東情勢は依然重石に\n・ドル円：NY外為：ドル底堅い、原油や米長期金利は上昇\n・クリプト(07/22)：ビットコイン上昇、現物主導の買いを確認　オプション市場は7万ドルを意識",
     "status": "ok"
   }
 }
