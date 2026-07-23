@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-23T06:10:12+09:00",
+  "generated_at": "2026-07-24T06:10:22+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "小反落、朝高も戻り売りで後場に値を消す",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607221192",
-      "published_at": "2026-07-22T18:05:40+09:00",
-      "summary_for_post": "小反落、朝高も戻り売りで後場に値を消す"
+      "title": "反発、米半導体株高で主力株の一角が高い",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607231275",
+      "published_at": "2026-07-23T16:37:10+09:00",
+      "summary_for_post": "反発、米半導体株高で主力株の一角が高い"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は横ばい　アルファベットの決算待ちの雰囲気も　中東情勢は依然重石に",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607230078",
-      "published_at": "2026-07-23T05:34:00+09:00",
-      "summary_for_post": "ダウ平均は横ばい　アルファベットの決算待ちの雰囲気も　中東情勢は依然重石に"
+      "title": "ダウ平均は大幅安で始まる　６４５ドル安　ナスダックも１．８％の大幅安＝米国株オープン",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607231567",
+      "published_at": "2026-07-23T22:31:00+09:00",
+      "summary_for_post": "ダウ平均は大幅安で始まる　６４５ドル安　ナスダックも１．８％の大幅安＝米国株オープン"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル底堅い、原油や米長期金利は上昇",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607230026",
-      "published_at": "2026-07-23T02:23:38+09:00",
-      "summary_for_post": "NY外為：ドル底堅い、原油や米長期金利は上昇"
+      "title": "NY外為：ドル続伸、年内の利上げ観測強まる",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607231583",
+      "published_at": "2026-07-23T23:50:04+09:00",
+      "summary_for_post": "NY外為：ドル続伸、年内の利上げ観測強まる"
     },
     {
       "category": "crypto",
@@ -34,6 +34,6 @@
       "summary_for_post": "ビットコイン上昇、現物主導の買いを確認　オプション市場は7万ドルを意識"
     }
   ],
-  "post_text": "・日経平均：小反落、朝高も戻り売りで後場に値を消す\n・海外：ダウ平均は横ばい　アルファベットの決算待ちの雰囲気も　中東情勢は依然重石に\n・ドル円：NY外為：ドル底堅い、原油や米長期金利は上昇\n・クリプト(07/22)：ビットコイン上昇、現物主導の買いを確認　オプション市場は7万ドルを意識",
+  "post_text": "・日経平均：反発、米半導体株高で主力株の一角が高い\n・海外：ダウ平均は大幅安で始まる　６４５ドル安　ナスダックも１．８％の大幅安＝米国株オープン\n・ドル円：NY外為：ドル続伸、年内の利上げ観測強まる\n・クリプト(07/22)：ビットコイン上昇、現物主導の買いを確認　オプション市場は7万ドルを意識",
   "status": "ok"
 }
