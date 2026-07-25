@@ -128,34 +128,34 @@
     }
   ],
   "news": {
-    "generated_at": "2026-07-25T06:10:44+09:00",
+    "generated_at": "2026-07-26T06:10:36+09:00",
     "items": [
       {
-        "category": "nikkei",
+        "category": "overseas",
         "source": "kabutan",
-        "title": "大幅反落、AI・半導体株安で6万5000円台割れ",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202607241128",
-        "published_at": "2026-07-24T16:42:55+09:00",
-        "summary_for_post": "大幅反落、AI・半導体株安で6万5000円台割れ"
+        "title": "ダウ平均は反発、マグニフィセントセブンはまちまちな動き",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202607250066",
+        "published_at": "2026-07-25T06:06:00+09:00",
+        "summary_for_post": "ダウ平均は反発、マグニフィセントセブンはまちまちな動き"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル買い後退、米イラン協議再開期待に原油反落",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202607250013",
-        "published_at": "2026-07-25T00:53:54+09:00",
-        "summary_for_post": "NY外為：ドル買い後退、米イラン協議再開期待に原油反落"
+        "title": "NY外為：ドル上値抑制、原油反落や米イラン協議再開期待",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202607250111",
+        "published_at": "2026-07-25T03:44:37+09:00",
+        "summary_for_post": "NY外為：ドル上値抑制、原油反落や米イラン協議再開期待"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "ビットコイン上昇、現物主導の買いを確認　オプション市場は7万ドルを意識",
-        "url": "https://coinpost.jp/?p=726363",
-        "published_at": "07/22 09:00",
-        "summary_for_post": "ビットコイン上昇、現物主導の買いを確認　オプション市場は7万ドルを意識"
+        "title": "米国務省、ビットコイン政策研究所やパランティアと提携",
+        "url": "https://coinpost.jp/?p=727306",
+        "published_at": "07/25 13:10",
+        "summary_for_post": "米国務省、ビットコイン政策研究所やパランティアと提携"
       }
     ],
-    "post_text": "・日経平均：大幅反落、AI・半導体株安で6万5000円台割れ\n・海外：未取得\n・ドル円：NY外為：ドル買い後退、米イラン協議再開期待に原油反落\n・クリプト(07/22)：ビットコイン上昇、現物主導の買いを確認　オプション市場は7万ドルを意識",
+    "post_text": "",
     "status": "ok"
   }
 }
