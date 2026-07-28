@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-07-28T06:10:18+09:00",
+  "generated_at": "2026-07-29T06:10:15+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "反発、中東リスクの後退で買い優勢",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607271031",
-      "published_at": "2026-07-27T18:19:14+09:00",
-      "summary_for_post": "反発、中東リスクの後退で買い優勢"
+      "title": "急反落、半導体関連中心にリスク回避の売り優勢",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607281225",
+      "published_at": "2026-07-28T18:04:06+09:00",
+      "summary_for_post": "急反落、半導体関連中心にリスク回避の売り優勢"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均はプラスもナスダックは下落　決算ラッシュ控え半導体に売り",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607280069",
-      "published_at": "2026-07-28T05:32:00+09:00",
-      "summary_for_post": "ダウ平均はプラスもナスダックは下落　決算ラッシュ控え半導体に売り"
+      "title": "ダウ平均は大幅高　半導体への売りは加速　ローテーションの動きも",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607290095",
+      "published_at": "2026-07-29T05:35:00+09:00",
+      "summary_for_post": "ダウ平均は大幅高　半導体への売りは加速　ローテーションの動きも"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル強含む、米5年債入札は低調",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607280025",
-      "published_at": "2026-07-28T02:30:07+09:00",
-      "summary_for_post": "NY外為：ドル強含む、米5年債入札は低調"
+      "title": "NY外為：ドル一段安、原油続落や冴えない米7月消費者信頼感指数で金利低下",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607290021",
+      "published_at": "2026-07-29T02:17:43+09:00",
+      "summary_for_post": "NY外為：ドル一段安、原油続落や冴えない米7月消費者信頼感指数で金利低下"
     },
     {
       "category": "crypto",
@@ -34,6 +34,6 @@
       "summary_for_post": "ビットコイン原油高で上値重く、クラリティ法案とFOMCが焦点"
     }
   ],
-  "post_text": "・日経平均：反発、中東リスクの後退で買い優勢\n・海外：ダウ平均はプラスもナスダックは下落　決算ラッシュ控え半導体に売り\n・ドル円：NY外為：ドル強含む、米5年債入札は低調\n・クリプト(07/26)：ビットコイン原油高で上値重く、クラリティ法案とFOMCが焦点",
+  "post_text": "・日経平均：急反落、半導体関連中心にリスク回避の売り優勢\n・海外：ダウ平均は大幅高　半導体への売りは加速　ローテーションの動きも\n・ドル円：NY外為：ドル一段安、原油続落や冴えない米7月消費者信頼感指数で金利低下\n・クリプト(07/26)：ビットコイン原油高で上値重く、クラリティ法案とFOMCが焦点",
   "status": "ok"
 }
