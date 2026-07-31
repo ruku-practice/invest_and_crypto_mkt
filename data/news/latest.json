@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-07-31T06:10:18+09:00",
+  "generated_at": "2026-08-01T06:10:16+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "3日ぶり反発、半導体関連の一角が買われる",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607301281",
-      "published_at": "2026-07-30T17:01:52+09:00",
-      "summary_for_post": "3日ぶり反発、半導体関連の一角が買われる"
+      "title": "大幅続伸、AI・半導体関連中心に買い優勢",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202607311256",
+      "published_at": "2026-07-31T16:38:51+09:00",
+      "summary_for_post": "大幅続伸、AI・半導体関連中心に買い優勢"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は大幅反発　ＩＴ・ハイテク株に買い戻し強まる　半導体も大幅高",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607310117",
-      "published_at": "2026-07-31T05:32:00+09:00",
-      "summary_for_post": "ダウ平均は大幅反発　ＩＴ・ハイテク株に買い戻し強まる　半導体も大幅高"
+      "title": "ダウ平均は続伸　アマゾンの好決算で投資家心理改善",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608010054",
+      "published_at": "2026-08-01T05:32:00+09:00",
+      "summary_for_post": "ダウ平均は続伸　アマゾンの好決算で投資家心理改善"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：円、買い一服も高値圏維持",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202607310036",
-      "published_at": "2026-07-31T04:02:36+09:00",
-      "summary_for_post": "NY外為：円、買い一服も高値圏維持"
+      "title": "NY外為：円底堅い、円安是正で日米協調介入などを警戒",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608010006",
+      "published_at": "2026-08-01T00:15:24+09:00",
+      "summary_for_post": "NY外為：円底堅い、円安是正で日米協調介入などを警戒"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ビットコイン短期保有者の実現時価総額が62%減＝アナリスト分析",
-      "url": "https://coinpost.jp/?p=728755",
-      "published_at": "07/30 17:37",
-      "summary_for_post": "ビットコイン短期保有者の実現時価総額が62%減＝アナリスト分析"
+      "title": "ビットコイン専門ウォレット『コールドカード』流出被害が110億円相当に、ギャラクシーが算出",
+      "url": "https://coinpost.jp/?p=729181",
+      "published_at": "08/01 05:50",
+      "summary_for_post": "ビットコイン専門ウォレット『コールドカード』流出被害が110億円相当に、ギャラクシーが算出"
     }
   ],
-  "post_text": "・日経平均：3日ぶり反発、半導体関連の一角が買われる\n・海外：ダウ平均は大幅反発　ＩＴ・ハイテク株に買い戻し強まる　半導体も大幅高\n・ドル円：NY外為：円、買い一服も高値圏維持\n・クリプト(07/30)：ビットコイン短期保有者の実現時価総額が62%減＝アナリスト分析",
+  "post_text": "・日経平均：大幅続伸、AI・半導体関連中心に買い優勢\n・海外：ダウ平均は続伸　アマゾンの好決算で投資家心理改善\n・ドル円：NY外為：円底堅い、円安是正で日米協調介入などを警戒\n・クリプト(08/01)：ビットコイン専門ウォレット『コールドカード』流出被害が110億円相当に、ギャラクシーが算出",
   "status": "ok"
 }
