@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T06:00:34+09:00",
-  "display_date": "2026/07/31",
+  "generated_at": "2026-08-01T06:00:52+09:00",
+  "display_date": "2026/08/01",
   "display_time": "06:00",
   "source": "web-fetch",
   "markets": [
@@ -9,11 +9,11 @@
       "name": "日経225",
       "category": "index",
       "currency": "JPY",
-      "price": 61434.19140625,
-      "display_price": "¥61,434",
-      "change_rate": -1.4923941869365187,
-      "display_change_rate": "-1.49%",
-      "price_date": "2026/07/29",
+      "price": 61867.4296875,
+      "display_price": "¥61,867",
+      "change_rate": 0.7052071026459883,
+      "display_change_rate": "+0.71%",
+      "price_date": "2026/07/30",
       "status": "ok"
     },
     {
@@ -21,11 +21,11 @@
       "name": "NYダウ",
       "category": "index",
       "currency": "USD",
-      "price": 52208.05859375,
-      "display_price": "$52,208.06",
-      "change_rate": 1.1898986228147779,
-      "display_change_rate": "+1.19%",
-      "price_date": "2026/07/30",
+      "price": 52485.03125,
+      "display_price": "$52,485.03",
+      "change_rate": 0.5305170575393925,
+      "display_change_rate": "+0.53%",
+      "price_date": "2026/07/31",
       "status": "ok"
     },
     {
@@ -33,11 +33,11 @@
       "name": "S&P500",
       "category": "index",
       "currency": "USD",
-      "price": 7437.6298828125,
-      "display_price": "$7,437.63",
-      "change_rate": 1.6604359135647728,
-      "display_change_rate": "+1.66%",
-      "price_date": "2026/07/30",
+      "price": 7489.72021484375,
+      "display_price": "$7,489.72",
+      "change_rate": 0.700361981598796,
+      "display_change_rate": "+0.70%",
+      "price_date": "2026/07/31",
       "status": "ok"
     },
     {
@@ -45,11 +45,11 @@
       "name": "NYSE FANG+",
       "category": "index",
       "currency": "USD",
-      "price": 16973.05859375,
-      "display_price": "$16,973.06",
-      "change_rate": 2.908438528763946,
-      "display_change_rate": "+2.91%",
-      "price_date": "2026/07/30",
+      "price": 17261.35546875,
+      "display_price": "$17,261.36",
+      "change_rate": 1.6985441198351214,
+      "display_change_rate": "+1.70%",
+      "price_date": "2026/07/31",
       "status": "ok"
     },
     {
@@ -57,11 +57,11 @@
       "name": "ドル円",
       "category": "fx",
       "currency": "JPY",
-      "price": 159.44500732421875,
-      "display_price": "¥159",
-      "change_rate": -2.3606831938130624,
-      "display_change_rate": "-2.36%",
-      "price_date": "2026/07/31",
+      "price": 157.39999389648438,
+      "display_price": "¥157",
+      "change_rate": -1.7373908492607892,
+      "display_change_rate": "-1.74%",
+      "price_date": "2026/08/01",
       "status": "ok"
     }
   ],
@@ -71,11 +71,11 @@
       "name": "BTC",
       "category": "crypto",
       "currency": "JPY",
-      "price": 10331434.0,
-      "display_price": "¥10,331,434",
-      "change_rate": -0.36863357079803727,
-      "display_change_rate": "-0.37%",
-      "price_date": "2026/07/31",
+      "price": 9913495.0,
+      "display_price": "¥9,913,495",
+      "change_rate": -3.9504353215939667,
+      "display_change_rate": "-3.95%",
+      "price_date": "2026/08/01",
       "status": "ok"
     },
     {
@@ -83,11 +83,11 @@
       "name": "ETH",
       "category": "crypto",
       "currency": "JPY",
-      "price": 306506.0,
-      "display_price": "¥306,506",
-      "change_rate": -0.373852092513141,
-      "display_change_rate": "-0.37%",
-      "price_date": "2026/07/31",
+      "price": 293372.0,
+      "display_price": "¥293,372",
+      "change_rate": -4.175454763928112,
+      "display_change_rate": "-4.18%",
+      "price_date": "2026/08/01",
       "status": "ok"
     },
     {
@@ -95,11 +95,11 @@
       "name": "SOL",
       "category": "crypto",
       "currency": "JPY",
-      "price": 11874.34,
-      "display_price": "¥11,874",
-      "change_rate": 0.0826030389214604,
-      "display_change_rate": "+0.08%",
-      "price_date": "2026/07/31",
+      "price": 11492.71,
+      "display_price": "¥11,493",
+      "change_rate": -3.151395656276459,
+      "display_change_rate": "-3.15%",
+      "price_date": "2026/08/01",
       "status": "ok"
     },
     {
@@ -111,7 +111,7 @@
       "display_price": "$0.000177",
       "change_rate": null,
       "display_change_rate": "--",
-      "price_date": "2026/07/31",
+      "price_date": "2026/08/01",
       "status": "ok"
     },
     {
@@ -123,7 +123,7 @@
       "display_price": "--",
       "change_rate": null,
       "display_change_rate": "--",
-      "price_date": "2026/07/31",
+      "price_date": "2026/08/01",
       "status": "error"
     }
   ],
