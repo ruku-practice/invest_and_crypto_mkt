@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03T06:00:53+09:00",
-  "display_date": "2026/08/03",
-  "display_time": "06:00",
+  "generated_at": "2026-08-04T06:01:10+09:00",
+  "display_date": "2026/08/04",
+  "display_time": "06:01",
   "source": "web-fetch",
   "markets": [
     {
@@ -21,11 +21,11 @@
       "name": "NYダウ",
       "category": "index",
       "currency": "USD",
-      "price": 52485.03125,
-      "display_price": "$52,485.03",
-      "change_rate": 0.5305170575393925,
-      "display_change_rate": "+0.53%",
-      "price_date": "2026/07/31",
+      "price": 53178.41015625,
+      "display_price": "$53,178.41",
+      "change_rate": 1.3210983965070922,
+      "display_change_rate": "+1.32%",
+      "price_date": "2026/08/03",
       "status": "ok"
     },
     {
@@ -33,11 +33,11 @@
       "name": "S&P500",
       "category": "index",
       "currency": "USD",
-      "price": 7489.72021484375,
-      "display_price": "$7,489.72",
-      "change_rate": 0.700361981598796,
-      "display_change_rate": "+0.70%",
-      "price_date": "2026/07/31",
+      "price": 7600.5,
+      "display_price": "$7,600.50",
+      "change_rate": 1.479091100582064,
+      "display_change_rate": "+1.48%",
+      "price_date": "2026/08/03",
       "status": "ok"
     },
     {
@@ -45,11 +45,11 @@
       "name": "NYSE FANG+",
       "category": "index",
       "currency": "USD",
-      "price": 17261.349609375,
-      "display_price": "$17,261.35",
-      "change_rate": 1.6985095982178455,
-      "display_change_rate": "+1.70%",
-      "price_date": "2026/07/31",
+      "price": 17752.15234375,
+      "display_price": "$17,752.15",
+      "change_rate": 2.843362457060916,
+      "display_change_rate": "+2.84%",
+      "price_date": "2026/08/03",
       "status": "ok"
     },
     {
@@ -57,11 +57,11 @@
       "name": "ドル円",
       "category": "fx",
       "currency": "JPY",
-      "price": 157.11300659179688,
+      "price": 157.18299865722656,
       "display_price": "¥157",
-      "change_rate": -1.9165529994847441,
-      "display_change_rate": "-1.92%",
-      "price_date": "2026/08/03",
+      "change_rate": -0.2532028235082695,
+      "display_change_rate": "-0.25%",
+      "price_date": "2026/08/04",
       "status": "ok"
     }
   ],
@@ -71,11 +71,11 @@
       "name": "BTC",
       "category": "crypto",
       "currency": "JPY",
-      "price": 9969144.0,
-      "display_price": "¥9,969,144",
-      "change_rate": 1.1289561504361987,
-      "display_change_rate": "+1.13%",
-      "price_date": "2026/08/03",
+      "price": 10020944.0,
+      "display_price": "¥10,020,944",
+      "change_rate": 0.49519704063022074,
+      "display_change_rate": "+0.50%",
+      "price_date": "2026/08/04",
       "status": "ok"
     },
     {
@@ -83,11 +83,11 @@
       "name": "ETH",
       "category": "crypto",
       "currency": "JPY",
-      "price": 295779.0,
-      "display_price": "¥295,779",
-      "change_rate": 2.296576065373316,
-      "display_change_rate": "+2.30%",
-      "price_date": "2026/08/03",
+      "price": 293519.0,
+      "display_price": "¥293,519",
+      "change_rate": -0.7619165740810045,
+      "display_change_rate": "-0.76%",
+      "price_date": "2026/08/04",
       "status": "ok"
     },
     {
@@ -95,11 +95,11 @@
       "name": "SOL",
       "category": "crypto",
       "currency": "JPY",
-      "price": 11570.46,
-      "display_price": "¥11,570",
-      "change_rate": 2.7938757088224695,
-      "display_change_rate": "+2.79%",
-      "price_date": "2026/08/03",
+      "price": 11597.9,
+      "display_price": "¥11,598",
+      "change_rate": 0.21381527514271145,
+      "display_change_rate": "+0.21%",
+      "price_date": "2026/08/04",
       "status": "ok"
     },
     {
@@ -107,11 +107,11 @@
       "name": "GCHO",
       "category": "crypto",
       "currency": "USD",
-      "price": 0.0001691,
-      "display_price": "$0.000169",
+      "price": 0.00017155,
+      "display_price": "$0.000172",
       "change_rate": null,
       "display_change_rate": "--",
-      "price_date": "2026/08/03",
+      "price_date": "2026/08/04",
       "status": "ok"
     },
     {
@@ -123,7 +123,7 @@
       "display_price": "--",
       "change_rate": null,
       "display_change_rate": "--",
-      "price_date": "2026/08/03",
+      "price_date": "2026/08/04",
       "status": "error"
     }
   ],
