@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-08-03T06:10:19+09:00",
+  "generated_at": "2026-08-04T06:10:18+09:00",
   "items": [
+    {
+      "category": "nikkei",
+      "source": "kabutan",
+      "title": "3日ぶり反落、円高を警戒し売り優勢",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608031022",
+      "published_at": "2026-08-03T18:12:37+09:00",
+      "summary_for_post": "3日ぶり反落、円高を警戒し売り優勢"
+    },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は続伸　アマゾンの好決算で投資家心理改善",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608010054",
-      "published_at": "2026-08-01T05:32:00+09:00",
-      "summary_for_post": "ダウ平均は続伸　アマゾンの好決算で投資家心理改善"
+      "title": "ダウ平均は大幅続伸　トランプ大統領がイランへの攻撃計画を撤回　アマゾンが３兆ドル突破",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608040093",
+      "published_at": "2026-08-04T05:31:00+09:00",
+      "summary_for_post": "ダウ平均は大幅続伸　トランプ大統領がイランへの攻撃計画を撤回　アマゾンが３兆ドル突破"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：円底堅い、円安是正で日米協調介入などを警戒",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608010006",
-      "published_at": "2026-08-01T00:15:24+09:00",
-      "summary_for_post": "NY外為：円底堅い、円安是正で日米協調介入などを警戒"
+      "title": "NY外為：円じり安、当局の介入見られず",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608040024",
+      "published_at": "2026-08-04T02:32:23+09:00",
+      "summary_for_post": "NY外為：円じり安、当局の介入見られず"
     },
     {
       "category": "crypto",
@@ -26,6 +34,6 @@
       "summary_for_post": "ビットコインFOMC通過も上値重く、クラリティ法案とFRB政策観測が焦点"
     }
   ],
-  "post_text": "",
+  "post_text": "・日経平均：3日ぶり反落、円高を警戒し売り優勢\n・海外：ダウ平均は大幅続伸　トランプ大統領がイランへの攻撃計画を撤回　アマゾンが３兆ドル突破\n・ドル円：NY外為：円じり安、当局の介入見られず\n・クリプト(08/02)：ビットコインFOMC通過も上値重く、クラリティ法案とFRB政策観測が焦点",
   "status": "ok"
 }
