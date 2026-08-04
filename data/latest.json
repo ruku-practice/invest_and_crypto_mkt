@@ -128,31 +128,31 @@
     }
   ],
   "news": {
-    "generated_at": "2026-08-04T06:10:18+09:00",
+    "generated_at": "2026-08-05T06:10:13+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "3日ぶり反落、円高を警戒し売り優勢",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608031022",
-        "published_at": "2026-08-03T18:12:37+09:00",
-        "summary_for_post": "3日ぶり反落、円高を警戒し売り優勢"
+        "title": "反発、米株高を受けAIインフラ関連が高い",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608041204",
+        "published_at": "2026-08-04T18:10:16+09:00",
+        "summary_for_post": "反発、米株高を受けAIインフラ関連が高い"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は大幅続伸　トランプ大統領がイランへの攻撃計画を撤回　アマゾンが３兆ドル突破",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608040093",
-        "published_at": "2026-08-04T05:31:00+09:00",
-        "summary_for_post": "ダウ平均は大幅続伸　トランプ大統領がイランへの攻撃計画を撤回　アマゾンが３兆ドル突破"
+        "title": "ダウ平均、Ｓ＆Ｐ５００は最高値更新　ＩＴ・ハイテク株への買い続く",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608050144",
+        "published_at": "2026-08-05T05:34:00+09:00",
+        "summary_for_post": "ダウ平均、Ｓ＆Ｐ５００は最高値更新　ＩＴ・ハイテク株への買い続く"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：円じり安、当局の介入見られず",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608040024",
-        "published_at": "2026-08-04T02:32:23+09:00",
-        "summary_for_post": "NY外為：円じり安、当局の介入見られず"
+        "title": "NY外為：ドルもみ合い続く、原油安も利上げ観測根強く",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608050034",
+        "published_at": "2026-08-05T02:38:48+09:00",
+        "summary_for_post": "NY外為：ドルもみ合い続く、原油安も利上げ観測根強く"
       },
       {
         "category": "crypto",
@@ -163,7 +163,7 @@
         "summary_for_post": "ビットコインFOMC通過も上値重く、クラリティ法案とFRB政策観測が焦点"
       }
     ],
-    "post_text": "・日経平均：3日ぶり反落、円高を警戒し売り優勢\n・海外：ダウ平均は大幅続伸　トランプ大統領がイランへの攻撃計画を撤回　アマゾンが３兆ドル突破\n・ドル円：NY外為：円じり安、当局の介入見られず\n・クリプト(08/02)：ビットコインFOMC通過も上値重く、クラリティ法案とFRB政策観測が焦点",
+    "post_text": "・日経平均：反発、米株高を受けAIインフラ関連が高い\n・海外：ダウ平均、Ｓ＆Ｐ５００は最高値更新　ＩＴ・ハイテク株への買い続く\n・ドル円：NY外為：ドルもみ合い続く、原油安も利上げ観測根強く\n・クリプト(08/02)：ビットコインFOMC通過も上値重く、クラリティ法案とFRB政策観測が焦点",
     "status": "ok"
   }
 }
