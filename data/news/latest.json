@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-08-05T06:10:13+09:00",
+  "generated_at": "2026-08-06T06:10:16+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "反発、米株高を受けAIインフラ関連が高い",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608041204",
-      "published_at": "2026-08-04T18:10:16+09:00",
-      "summary_for_post": "反発、米株高を受けAIインフラ関連が高い"
+      "title": "続急騰、欧米株高を受けリスクオンの買い優勢",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608051346",
+      "published_at": "2026-08-05T17:04:06+09:00",
+      "summary_for_post": "続急騰、欧米株高を受けリスクオンの買い優勢"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均、Ｓ＆Ｐ５００は最高値更新　ＩＴ・ハイテク株への買い続く",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608050144",
-      "published_at": "2026-08-05T05:34:00+09:00",
-      "summary_for_post": "ダウ平均、Ｓ＆Ｐ５００は最高値更新　ＩＴ・ハイテク株への買い続く"
+      "title": "ダウ平均は最高値更新が続く　ＩＴ・ハイテク株は戻り売り",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608060132",
+      "published_at": "2026-08-06T05:33:00+09:00",
+      "summary_for_post": "ダウ平均は最高値更新が続く　ＩＴ・ハイテク株は戻り売り"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドルもみ合い続く、原油安も利上げ観測根強く",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608050034",
-      "published_at": "2026-08-05T02:38:48+09:00",
-      "summary_for_post": "NY外為：ドルもみ合い続く、原油安も利上げ観測根強く"
+      "title": "NY外為：ドルもみ合い、カシュカリ米MN連銀総裁は速やかな利上げ推奨",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608060036",
+      "published_at": "2026-08-06T03:08:47+09:00",
+      "summary_for_post": "NY外為：ドルもみ合い、カシュカリ米MN連銀総裁は速やかな利上げ推奨"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ビットコインFOMC通過も上値重く、クラリティ法案とFRB政策観測が焦点",
-      "url": "https://coinpost.jp/?p=729103",
-      "published_at": "08/02 11:30",
-      "summary_for_post": "ビットコインFOMC通過も上値重く、クラリティ法案とFRB政策観測が焦点"
+      "title": "イーサリアム利回りの大幅削減提案、アーベ創設者が反論",
+      "url": "https://coinpost.jp/?p=729846",
+      "published_at": "08/05 12:30",
+      "summary_for_post": "イーサリアム利回りの大幅削減提案、アーベ創設者が反論"
     }
   ],
-  "post_text": "・日経平均：反発、米株高を受けAIインフラ関連が高い\n・海外：ダウ平均、Ｓ＆Ｐ５００は最高値更新　ＩＴ・ハイテク株への買い続く\n・ドル円：NY外為：ドルもみ合い続く、原油安も利上げ観測根強く\n・クリプト(08/02)：ビットコインFOMC通過も上値重く、クラリティ法案とFRB政策観測が焦点",
+  "post_text": "・日経平均：続急騰、欧米株高を受けリスクオンの買い優勢\n・海外：ダウ平均は最高値更新が続く　ＩＴ・ハイテク株は戻り売り\n・ドル円：NY外為：ドルもみ合い、カシュカリ米MN連銀総裁は速やかな利上げ推奨\n・クリプト(08/05)：イーサリアム利回りの大幅削減提案、アーベ創設者が反論",
   "status": "ok"
 }
