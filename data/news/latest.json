@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-08-06T06:10:16+09:00",
+  "generated_at": "2026-08-07T06:10:25+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "続急騰、欧米株高を受けリスクオンの買い優勢",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608051346",
-      "published_at": "2026-08-05T17:04:06+09:00",
-      "summary_for_post": "続急騰、欧米株高を受けリスクオンの買い優勢"
+      "title": "3日ぶり反落、AI・半導体関連の一角が安い",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608061517",
+      "published_at": "2026-08-06T17:18:16+09:00",
+      "summary_for_post": "3日ぶり反落、AI・半導体関連の一角が安い"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は最高値更新が続く　ＩＴ・ハイテク株は戻り売り",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608060132",
-      "published_at": "2026-08-06T05:33:00+09:00",
-      "summary_for_post": "ダウ平均は最高値更新が続く　ＩＴ・ハイテク株は戻り売り"
+      "title": "ダウ平均は６日ぶり反落　ナスダックは横ばい　明日の米雇用統計を前に調整も",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608070144",
+      "published_at": "2026-08-07T05:31:00+09:00",
+      "summary_for_post": "ダウ平均は６日ぶり反落　ナスダックは横ばい　明日の米雇用統計を前に調整も"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドルもみ合い、カシュカリ米MN連銀総裁は速やかな利上げ推奨",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608060036",
-      "published_at": "2026-08-06T03:08:47+09:00",
-      "summary_for_post": "NY外為：ドルもみ合い、カシュカリ米MN連銀総裁は速やかな利上げ推奨"
+      "title": "NY外為：ドル・円200DMA上回る、原油高や年内の米利上げ観測でドル買い強まる",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608070010",
+      "published_at": "2026-08-07T00:37:42+09:00",
+      "summary_for_post": "NY外為：ドル・円200DMA上回る、原油高や年内の米利上げ観測でドル買い強まる"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "イーサリアム利回りの大幅削減提案、アーベ創設者が反論",
-      "url": "https://coinpost.jp/?p=729846",
-      "published_at": "08/05 12:30",
-      "summary_for_post": "イーサリアム利回りの大幅削減提案、アーベ創設者が反論"
+      "title": "ビットコイン、価格反発も新規需要は戻らず＝アナリスト",
+      "url": "https://coinpost.jp/?p=730272",
+      "published_at": "08/06 18:00",
+      "summary_for_post": "ビットコイン、価格反発も新規需要は戻らず＝アナリスト"
     }
   ],
-  "post_text": "・日経平均：続急騰、欧米株高を受けリスクオンの買い優勢\n・海外：ダウ平均は最高値更新が続く　ＩＴ・ハイテク株は戻り売り\n・ドル円：NY外為：ドルもみ合い、カシュカリ米MN連銀総裁は速やかな利上げ推奨\n・クリプト(08/05)：イーサリアム利回りの大幅削減提案、アーベ創設者が反論",
+  "post_text": "・日経平均：3日ぶり反落、AI・半導体関連の一角が安い\n・海外：ダウ平均は６日ぶり反落　ナスダックは横ばい　明日の米雇用統計を前に調整も\n・ドル円：NY外為：ドル・円200DMA上回る、原油高や年内の米利上げ観測でドル買い強まる\n・クリプト(08/06)：ビットコイン、価格反発も新規需要は戻らず＝アナリスト",
   "status": "ok"
 }
