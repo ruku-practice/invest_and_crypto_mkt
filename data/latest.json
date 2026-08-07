@@ -128,42 +128,42 @@
     }
   ],
   "news": {
-    "generated_at": "2026-08-07T06:10:25+09:00",
+    "generated_at": "2026-08-08T06:10:25+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "3日ぶり反落、AI・半導体関連の一角が安い",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608061517",
-        "published_at": "2026-08-06T17:18:16+09:00",
-        "summary_for_post": "3日ぶり反落、AI・半導体関連の一角が安い"
+        "title": "小幅続落、AI・半導体関連が軟調も後半下げ渋る",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608071512",
+        "published_at": "2026-08-07T16:40:04+09:00",
+        "summary_for_post": "小幅続落、AI・半導体関連が軟調も後半下げ渋る"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は６日ぶり反落　ナスダックは横ばい　明日の米雇用統計を前に調整も",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608070144",
-        "published_at": "2026-08-07T05:31:00+09:00",
-        "summary_for_post": "ダウ平均は６日ぶり反落　ナスダックは横ばい　明日の米雇用統計を前に調整も"
+        "title": "ダウ平均は反発　ナスダックは大幅高　米雇用統計を受け９月の米利上げ期待が後退",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608080062",
+        "published_at": "2026-08-08T05:35:00+09:00",
+        "summary_for_post": "ダウ平均は反発　ナスダックは大幅高　米雇用統計を受け９月の米利上げ期待が後退"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル・円200DMA上回る、原油高や年内の米利上げ観測でドル買い強まる",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608070010",
-        "published_at": "2026-08-07T00:37:42+09:00",
-        "summary_for_post": "NY外為：ドル・円200DMA上回る、原油高や年内の米利上げ観測でドル買い強まる"
+        "title": "NY外為：ドル売り一服も上値限定的、過剰な利上げ観測は後退",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608080030",
+        "published_at": "2026-08-08T03:28:13+09:00",
+        "summary_for_post": "NY外為：ドル売り一服も上値限定的、過剰な利上げ観測は後退"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "ビットコイン、価格反発も新規需要は戻らず＝アナリスト",
-        "url": "https://coinpost.jp/?p=730272",
-        "published_at": "08/06 18:00",
-        "summary_for_post": "ビットコイン、価格反発も新規需要は戻らず＝アナリスト"
+        "title": "ビットコインFOMC通過も上値重く、クラリティ法案とFRB政策観測が焦点",
+        "url": "https://coinpost.jp/?p=729103",
+        "published_at": "08/02 11:30",
+        "summary_for_post": "ビットコインFOMC通過も上値重く、クラリティ法案とFRB政策観測が焦点"
       }
     ],
-    "post_text": "・日経平均：3日ぶり反落、AI・半導体関連の一角が安い\n・海外：ダウ平均は６日ぶり反落　ナスダックは横ばい　明日の米雇用統計を前に調整も\n・ドル円：NY外為：ドル・円200DMA上回る、原油高や年内の米利上げ観測でドル買い強まる\n・クリプト(08/06)：ビットコイン、価格反発も新規需要は戻らず＝アナリスト",
+    "post_text": "・日経平均：小幅続落、AI・半導体関連が軟調も後半下げ渋る\n・海外：ダウ平均は反発　ナスダックは大幅高　米雇用統計を受け９月の米利上げ期待が後退\n・ドル円：NY外為：ドル売り一服も上値限定的、過剰な利上げ観測は後退\n・クリプト(08/02)：ビットコインFOMC通過も上値重く、クラリティ法案とFRB政策観測が焦点",
     "status": "ok"
   }
 }
