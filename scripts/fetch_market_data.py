@@ -38,8 +38,10 @@ CRYPTOS = [
     {"id": "btc", "name": "BTC", "category": "crypto", "cg_id": "bitcoin", "currency": "JPY"},
     {"id": "eth", "name": "ETH", "category": "crypto", "cg_id": "ethereum", "currency": "JPY"},
     {"id": "sol", "name": "SOL", "category": "crypto", "cg_id": "solana", "currency": "JPY"},
-    {"id": "gcho", "name": "GCHO", "category": "crypto", "url": "https://jup.ag/tokens/gcho94FhdhJNDhVEnHHskXP7PcSKDqCs3GKEj5zrewn", "currency": "USD"},
-    {"id": "bonsai_100m", "name": "1億BONSAI", "category": "crypto", "url": "https://www.geckoterminal.com/base/pools/0x4fe87203b27a105a772f195d3f30dea714d1ecf0", "currency": "USD"},
+    # GCHO/1億BONSAIは取得元がUSD建てのため、ドル円レートで円換算して保存する（2026-08-08ルク決裁）。
+    # 1億BONSAIは名前のとおり「価格×1億」の表示値（spec.md §データ項目）。
+    {"id": "gcho", "name": "GCHO", "category": "crypto", "url": "https://jup.ag/tokens/gcho94FhdhJNDhVEnHHskXP7PcSKDqCs3GKEj5zrewn", "currency": "JPY", "usd_source": True, "unit_multiplier": 1},
+    {"id": "bonsai_100m", "name": "1億BONSAI", "category": "crypto", "url": "https://www.geckoterminal.com/base/pools/0x4fe87203b27a105a772f195d3f30dea714d1ecf0", "currency": "JPY", "usd_source": True, "unit_multiplier": 100_000_000},
 ]
 
 def now_jst() -> datetime:
@@ -64,7 +66,11 @@ def format_price(value: float | None, currency: str) -> str:
     if value is None or not math.isfinite(value):
         return "--"
     if currency == "JPY":
-        return f"¥{value:,.0f}"
+        if abs(value) >= 1:
+            return f"¥{value:,.0f}"
+        # GCHOのような1円未満の価格は整数表示だと¥0になるため、有効数字3桁で出す。
+        decimals = min(12, 2 - math.floor(math.log10(abs(value)))) if value else 2
+        return f"¥{value:,.{decimals}f}".rstrip("0").rstrip(".")
     if currency == "USD":
         if abs(value) >= 1:
             return f"${value:,.2f}"
@@ -282,6 +288,7 @@ def fetch_current_values() -> dict[str, dict[str, Any]]:
         }
 
     crypto_prices = fetch_coin_gecko_price()
+    usdjpy_rate = values.get("usdjpy", {}).get("price")
     for item in CRYPTOS:
         if item["id"] in crypto_prices:
             price, change, status = crypto_prices[item["id"]]
@@ -291,6 +298,13 @@ def fetch_current_values() -> dict[str, dict[str, Any]]:
             price, change, status = fetch_bonsai_price()
         else:
             price, change, status = None, None, "error"
+
+        if item.get("usd_source") and status == "ok":
+            # 円換算できない値を混ぜると履歴の単位が崩れるため、レート欠損時は欠損扱い。
+            if is_valid_price(usdjpy_rate) and is_valid_price(price):
+                price = price * item.get("unit_multiplier", 1) * float(usdjpy_rate)
+            else:
+                price, status = None, "error"
 
         values[item["id"]] = {
             "id": item["id"],

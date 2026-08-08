@@ -32054,279 +32054,279 @@
       "id": "gcho",
       "name": "GCHO",
       "category": "crypto",
-      "currency": "USD",
+      "currency": "JPY",
       "baseline_date": "2026/06/28",
-      "baseline_value": 0.00016555,
+      "baseline_value": 0.026786816537475586,
       "points": [
         {
           "date": "2026/06/28",
-          "value": 0.00016555,
+          "value": 0.026786816537475586,
           "change_from_base_pct": 0.0,
           "change_from_prev_pct": null,
           "fetched_at": "06:59"
         },
         {
           "date": "2026/07/02",
-          "value": 0.00018524,
+          "value": 0.030108724631347658,
           "change_from_base_pct": 11.8937,
           "change_from_prev_pct": 11.8937,
           "fetched_at": "21:25"
         },
         {
           "date": "2026/07/03",
-          "value": 0.00018645,
+          "value": 0.030102167005920413,
           "change_from_base_pct": 12.6246,
           "change_from_prev_pct": 0.6532,
           "fetched_at": "10:50"
         },
         {
           "date": "2026/07/04",
-          "value": 0.00018796,
+          "value": 0.03034595500366211,
           "change_from_base_pct": 13.5367,
           "change_from_prev_pct": 0.8099,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/05",
-          "value": 0.00018956,
+          "value": 0.030604273411865234,
           "change_from_base_pct": 14.5032,
           "change_from_prev_pct": 0.8512,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/06",
-          "value": 0.00018956,
+          "value": 0.03060484033325195,
           "change_from_base_pct": 14.5032,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/07",
-          "value": 0.00018956,
+          "value": 0.03072540079406738,
           "change_from_base_pct": 14.5032,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/08",
-          "value": 0.00018956,
+          "value": 0.030777531529541016,
           "change_from_base_pct": 14.5032,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/09",
-          "value": 0.00018956,
+          "value": 0.03081089311767578,
           "change_from_base_pct": 14.5032,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/10",
-          "value": 0.00018075,
+          "value": 0.029347113441467284,
           "change_from_base_pct": 9.1815,
           "change_from_prev_pct": -4.6476,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/11",
-          "value": 0.00018075,
+          "value": 0.029347113441467284,
           "change_from_base_pct": 9.1815,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/12",
-          "value": 0.00018075,
+          "value": 0.029347113441467284,
           "change_from_base_pct": 9.1815,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/13",
-          "value": 0.00018075,
+          "value": 0.029259449581146242,
           "change_from_base_pct": 9.1815,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/14",
-          "value": 0.0001777,
+          "value": 0.028863633451843264,
           "change_from_base_pct": 7.3392,
           "change_from_prev_pct": -1.6874,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/15",
-          "value": 0.00017385,
+          "value": 0.02819620933456421,
           "change_from_base_pct": 5.0136,
           "change_from_prev_pct": -2.1666,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/16",
-          "value": 0.00017938,
+          "value": 0.029072476476745608,
           "change_from_base_pct": 8.354,
           "change_from_prev_pct": 3.1809,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/17",
-          "value": 0.00017938,
+          "value": 0.029127008150024416,
           "change_from_base_pct": 8.354,
           "change_from_prev_pct": 0.0,
           "fetched_at": "10:44"
         },
         {
           "date": "2026/07/18",
-          "value": 0.00017367,
+          "value": 0.028199841149597168,
           "change_from_base_pct": 4.9049,
           "change_from_prev_pct": -3.1832,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/19",
-          "value": 0.00017367,
+          "value": 0.028199841149597168,
           "change_from_base_pct": 4.9049,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/20",
-          "value": 0.00017367,
+          "value": 0.028223457895202638,
           "change_from_base_pct": 4.9049,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/21",
-          "value": 0.00017367,
+          "value": 0.028219117205200196,
           "change_from_base_pct": 4.9049,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/22",
-          "value": 0.0001809,
+          "value": 0.029520348239135744,
           "change_from_base_pct": 9.2721,
           "change_from_prev_pct": 4.1631,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/23",
-          "value": 0.0001809,
+          "value": 0.029501351751708985,
           "change_from_base_pct": 9.2721,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/24",
-          "value": 0.0001809,
+          "value": 0.029637208932495118,
           "change_from_base_pct": 9.2721,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/25",
-          "value": 0.0001809,
+          "value": 0.029637208932495118,
           "change_from_base_pct": 9.2721,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:01"
         },
         {
           "date": "2026/07/26",
-          "value": 0.0001809,
+          "value": 0.029637208932495118,
           "change_from_base_pct": 9.2721,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:01"
         },
         {
           "date": "2026/07/27",
-          "value": 0.0001809,
+          "value": 0.02959722853088379,
           "change_from_base_pct": 9.2721,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:01"
         },
         {
           "date": "2026/07/28",
-          "value": 0.00017685,
+          "value": 0.028962900659179686,
           "change_from_base_pct": 6.8257,
           "change_from_prev_pct": -2.2388,
           "fetched_at": "06:01"
         },
         {
           "date": "2026/07/29",
-          "value": 0.00017685,
+          "value": 0.028979348119354247,
           "change_from_base_pct": 6.8257,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/07/30",
-          "value": 0.00017685,
+          "value": 0.028879605539703368,
           "change_from_base_pct": 6.8257,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:01"
         },
         {
           "date": "2026/07/31",
-          "value": 0.00017685,
+          "value": 0.028328363312530514,
           "change_from_base_pct": 6.8257,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/08/01",
-          "value": 0.00017685,
+          "value": 0.028328363312530514,
           "change_from_base_pct": 6.8257,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/08/02",
-          "value": 0.00017685,
+          "value": 0.028328363312530514,
           "change_from_base_pct": 6.8257,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:01"
         },
         {
           "date": "2026/08/03",
-          "value": 0.0001691,
+          "value": 0.026647116323852537,
           "change_from_base_pct": 2.1444,
           "change_from_prev_pct": -4.3822,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/08/04",
-          "value": 0.00017155,
+          "value": 0.02702410114364624,
           "change_from_base_pct": 3.6243,
           "change_from_prev_pct": 1.4488,
           "fetched_at": "06:01"
         },
         {
           "date": "2026/08/05",
-          "value": 0.00017208,
+          "value": 0.02713563959106445,
           "change_from_base_pct": 3.9444,
           "change_from_prev_pct": 0.3089,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/08/06",
-          "value": 0.00017208,
+          "value": 0.027119809050292966,
           "change_from_base_pct": 3.9444,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/08/07",
-          "value": 0.00017208,
+          "value": 0.027144758759765623,
           "change_from_base_pct": 3.9444,
           "change_from_prev_pct": 0.0,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/08/08",
-          "value": 0.0001685736295,
+          "value": 0.026591646362364073,
           "change_from_base_pct": 1.8264,
           "change_from_prev_pct": -2.0376,
           "fetched_at": "15:36"
@@ -32337,27 +32337,27 @@
       "id": "bonsai_100m",
       "name": "1億BONSAI",
       "category": "crypto",
-      "currency": "USD",
+      "currency": "JPY",
       "baseline_date": "2026/07/02",
-      "baseline_value": 3.361e-09,
+      "baseline_value": 54.629358392333984,
       "points": [
         {
           "date": "2026/07/02",
-          "value": 3.361e-09,
+          "value": 54.629358392333984,
           "change_from_base_pct": 0.0,
           "change_from_prev_pct": null,
           "fetched_at": "21:25"
         },
         {
           "date": "2026/07/17",
-          "value": 2.572e-09,
+          "value": 41.76310902099609,
           "change_from_base_pct": -23.4752,
           "change_from_prev_pct": -23.4752,
           "fetched_at": "10:44"
         },
         {
           "date": "2026/08/08",
-          "value": 4.70720386674688e-09,
+          "value": 74.25378509755927,
           "change_from_base_pct": 40.0537,
           "change_from_prev_pct": 0.0,
           "fetched_at": "15:36"
