@@ -70,7 +70,11 @@ function formatPct(value) {
 function formatValue(item, value) {
   if (typeof value !== 'number') return '--';
   const abs = Math.abs(value);
-  const decimals = abs < 1 ? 4 : abs < 100 ? 2 : 0;
+  // 1億BONSAIのような極小価格(1e-9台)は4桁固定だと"0.0000"になるため、
+  // 有効数字が3桁見えるまで小数桁を広げる。
+  const decimals = abs === 0 ? 0
+    : abs < 0.001 ? Math.min(12, 2 - Math.floor(Math.log10(abs)))
+    : abs < 1 ? 4 : abs < 100 ? 2 : 0;
   const formatted = value.toLocaleString('ja-JP', {
     minimumFractionDigits: decimals,
     maximumFractionDigits: decimals,

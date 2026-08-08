@@ -214,12 +214,21 @@ def get_crypto_news_from_coinpost(fetcher: HtmlFetcher) -> dict[str, Any] | None
             print(f"[coinpost] market section is stale ({entry['time']}), falling back to latest list")
             break
 
+    # フォールバック側にも鮮度判定を入れる。掲載順先頭が古い記事のままだと、
+    # 市況解説枠の古い記事をそのまま拾い直してしまう（2026-08-08に8/2の記事が6日間残留）。
+    candidates: list[tuple[datetime | None, dict[str, Any]]] = []
     for article in soup.find_all("div", class_="homelist-in"):
         entry = extract(article)
         if entry and any(keyword in entry["title"] for keyword in keywords):
-            return entry
+            candidates.append((parse_coinpost_time(entry["time"]), entry))
 
-    return None
+    if not candidates:
+        return None
+
+    fresh = [item for item in candidates if item[0] and item[0] >= now_jst() - timedelta(days=3)]
+    pool = fresh or candidates
+    pool.sort(key=lambda item: item[0] or datetime.min.replace(tzinfo=JST), reverse=True)
+    return pool[0][1]
 
 
 def build_items(fetcher: HtmlFetcher) -> list[dict[str, Any]]:

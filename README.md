@@ -14,8 +14,8 @@ Googleスプレッドシート由来の「一般＆暗号通貨マーケット�
 - `scripts/fetch_market_news.py`: Kabutan / CoinPost 由来の市況ニュースを `data/news/latest.json` に保存
 - `data/latest.json`: Web表示用の最新データ
 - `data/history.json`: 2026年1月1日基準の推移グラフ用データ
-- 詳細仕様: [[ruku_data/00_products/invest_and_crypto_mkt/spec.md|仕様書]]
-- 作業状況: [[ruku_data/00_products/invest_and_crypto_mkt/progress.md|進捗ログ]]
+- 詳細仕様: [[ruku_data/00_products/apps/invest_and_crypto_mkt/spec.md|仕様書]]
+- 作業状況: [[ruku_data/00_products/apps/invest_and_crypto_mkt/progress.md|進捗ログ]]
 
 トップページでは、表示日を切り替えて各指標の価格と2026年1月1日比を確認できる。グラフは `data/history.json` を使った「2026年1月1日からの増減比較推移」で、全期間 / 90日 / 30日 / 7日に加えて 2026/1/1・2025/1/1・2024/1/1 の開始日プリセットとカスタム範囲に対応する。
 

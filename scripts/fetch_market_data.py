@@ -42,9 +42,6 @@ CRYPTOS = [
     {"id": "bonsai_100m", "name": "1億BONSAI", "category": "crypto", "url": "https://www.geckoterminal.com/base/pools/0x4fe87203b27a105a772f195d3f30dea714d1ecf0", "currency": "USD"},
 ]
 
-AUTHORITATIVE_HISTORY_IDS = {item["id"] for item in MARKETS} | {"btc", "eth", "sol"}
-
-
 def now_jst() -> datetime:
     return datetime.now(JST).replace(microsecond=0)
 
@@ -71,7 +68,10 @@ def format_price(value: float | None, currency: str) -> str:
     if currency == "USD":
         if abs(value) >= 1:
             return f"${value:,.2f}"
-        return f"${value:,.6f}".rstrip("0").rstrip(".")
+        # BONSAIのような極小価格（1e-9台）は6桁固定だと "$0" になるため、
+        # 有効数字が3桁見えるまで小数桁を広げる。
+        decimals = min(12, 2 - math.floor(math.log10(abs(value)))) if value else 6
+        return f"${value:,.{decimals}f}".rstrip("0").rstrip(".")
     return f"{value:,.4f}".rstrip("0").rstrip(".")
 
 
@@ -96,7 +96,8 @@ def is_valid_price(value: Any) -> bool:
 
 def fetch_yfinance_series(ticker: str) -> tuple[float | None, float | None, str, str | None]:
     try:
-        hist = yf.Ticker(ticker).history(period="7d", interval="1d")
+        tk = yf.Ticker(ticker)
+        hist = tk.history(period="7d", interval="1d")
         close_series = hist["Close"] if "Close" in hist else None
         if close_series is None:
             return None, None, "error", None
@@ -106,10 +107,26 @@ def fetch_yfinance_series(ticker: str) -> tuple[float | None, float | None, str,
             return None, None, "error", None
         current = closes[-1]
         previous = closes[-2] if len(closes) >= 2 else None
-        change = ((current / previous) - 1) * 100 if previous else None
         # yfinanceの最新値は「実行日」ではなく、最後に成立した取引日の値。
         # 休場中に実行日の履歴として保存すると同じ終値が複製され、前日比が0%になる。
         price_date = close_series.index[-1].date().isoformat()
+
+        # Yahooの日足は前営業日の終値の反映が朝まで遅れることがある（^N225で実測）。
+        # 分足の最終バーが日足より新しい日付なら、その値を当日終値として採用する。
+        # ジョブは市場が閉まっている06:00 JSTに走るため、分足の最終値＝その日の引け値。
+        try:
+            intra = tk.history(period="5d", interval="15m")
+            iclose = intra["Close"].dropna() if intra is not None and "Close" in intra else None
+            if iclose is not None and len(iclose):
+                intra_date = iclose.index[-1].date()
+                if intra_date > close_series.index[-1].date():
+                    previous = current
+                    current = float(iclose.iloc[-1])
+                    price_date = intra_date.isoformat()
+        except Exception:
+            pass
+
+        change = ((current / previous) - 1) * 100 if previous else None
         return current, change, "ok", price_date
     except Exception:
         return None, None, "error", None
@@ -192,47 +209,18 @@ def fetch_gecko_terminal_price(url: str, selector: str) -> float | None:
         return None
 
 
+GECKO_API_HEADERS = {"Accept": "application/json", "User-Agent": "Mozilla/5.0"}
+
+
 def fetch_gcho_price() -> tuple[float | None, float | None, str]:
-    # Web側では失敗時にダッシュボードを壊さないことを優先する。
+    # jup.agのタイトルスクレイプは値が数日間張り付く事故があったため、
+    # GeckoTerminal公式APIから取得する（2026-08-08実測でAPI値とタイトル値の乖離を確認）。
+    url = "https://api.geckoterminal.com/api/v2/networks/solana/tokens/gcho94FhdhJNDhVEnHHskXP7PcSKDqCs3GKEj5zrewn"
     try:
-        from playwright.sync_api import sync_playwright
-
-        url = "https://jup.ag/tokens/gcho94FhdhJNDhVEnHHskXP7PcSKDqCs3GKEj5zrewn"
-        with sync_playwright() as p:
-            browser = p.chromium.launch(
-                headless=True,
-                args=["--no-sandbox", "--disable-dev-shm-usage", "--disable-blink-features=AutomationControlled"],
-            )
-            context = browser.new_context(
-                viewport={"width": 1920, "height": 1080},
-                user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            )
-            page = context.new_page()
-            page.goto(url, wait_until="domcontentloaded", timeout=60_000)
-            try:
-                page.wait_for_function("document.title.includes('$')", timeout=45_000)
-            except Exception:
-                pass
-            title = page.title()
-            browser.close()
-
-        if "$" not in title:
-            return None, None, "error"
-
-        price_start = title.find("$") + 1
-        price_end = price_start
-        while price_end < len(title) and (title[price_end].isdigit() or title[price_end] == "." or title[price_end] in "₀₁₂₃₄₅₆₇₈₉"):
-            price_end += 1
-        price_text = title[price_start:price_end]
-        subs = {"₀": "0", "₁": "1", "₂": "2", "₃": "3", "₄": "4", "₅": "5", "₆": "6", "₇": "7", "₈": "8", "₉": "9"}
-        for key, value in subs.items():
-            if key in price_text:
-                left, right = price_text.split(key, 1)
-                if left.endswith("0"):
-                    left = left[:-1]
-                price_text = left + ("0" * int(value)) + right
-                break
-        price = float(price_text)
+        response = requests.get(url, headers=GECKO_API_HEADERS, timeout=30)
+        response.raise_for_status()
+        attributes = response.json().get("data", {}).get("attributes", {})
+        price = float(attributes.get("price_usd"))
         if not is_valid_price(price):
             return None, None, "error"
         return price, None, "ok"
@@ -241,6 +229,21 @@ def fetch_gcho_price() -> tuple[float | None, float | None, str]:
 
 
 def fetch_bonsai_price() -> tuple[float | None, float | None, str]:
+    # HTMLスクレイプはCloud RunのIPがブロックされ6日連続で取得失敗した（2026-08-08確認）。
+    # GeckoTerminal公式APIを正とし、HTML正規表現は最終フォールバックに残す。
+    api_url = "https://api.geckoterminal.com/api/v2/networks/base/pools/0x4fe87203b27a105a772f195d3f30dea714d1ecf0"
+    try:
+        response = requests.get(api_url, headers=GECKO_API_HEADERS, timeout=30)
+        response.raise_for_status()
+        attributes = response.json().get("data", {}).get("attributes", {})
+        price = float(attributes.get("base_token_price_usd"))
+        change_raw = (attributes.get("price_change_percentage") or {}).get("h24")
+        change = float(change_raw) if change_raw is not None else None
+        if is_valid_price(price):
+            return price, change, "ok"
+    except Exception:
+        pass
+
     url = "https://www.geckoterminal.com/base/pools/0x4fe87203b27a105a772f195d3f30dea714d1ecf0"
     try:
         response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=30)
@@ -425,11 +428,32 @@ def merge_history(existing: dict[str, Any], rebuilt: dict[str, Any]) -> dict[str
             for point in existing_points or []
             if isinstance(point, dict) and point.get("date") and point.get("fetched_at")
         }
-        # yfinanceで全期間を再取得できる銘柄は再取得結果を正本にする。
-        # 既存側を先に混ぜると、旧ロジックが休場日に複製した値が永久に残る。
-        if item_id not in AUTHORITATIVE_HISTORY_IDS:
-            collect(existing_points, points_by_date)
-        collect(item.get("points"), points_by_date)
+        # 再取得結果を正としつつ、再取得に無い日付は既存ポイントで穴埋めする。
+        # Yahooの日足は特定日が欠けることがあり（2026-08-08にBTC-USDの8/7バー欠損を実測）、
+        # 再取得側だけを正にすると06:00に実測済みの日次ポイントまで消えてしまう。
+        # ただし、直前の再取得終値と完全一致する値は旧ロジックが休場日に複製した値
+        # とみなして残さない。
+        rebuilt_points: dict[str, dict[str, Any]] = {}
+        collect(item.get("points"), rebuilt_points)
+        rebuilt_dates = sorted(rebuilt_points)
+
+        def previous_rebuilt_value(date: str) -> float | None:
+            candidate = None
+            for rebuilt_date in rebuilt_dates:
+                if rebuilt_date >= date:
+                    break
+                candidate = rebuilt_points[rebuilt_date]["value"]
+            return candidate
+
+        existing_by_date: dict[str, dict[str, Any]] = {}
+        collect(existing_points, existing_by_date)
+        for date, point in existing_by_date.items():
+            if date in rebuilt_points:
+                continue
+            if point["value"] == previous_rebuilt_value(date):
+                continue
+            points_by_date[date] = point
+        points_by_date.update(rebuilt_points)
         for date, point in points_by_date.items():
             if not point.get("fetched_at") and date in existing_fetched_at:
                 point["fetched_at"] = existing_fetched_at[date]
@@ -511,6 +535,14 @@ def normalize_history(history: dict[str, Any], current_values: dict[str, dict[st
                 "change_from_base_pct": round(change, 4) if change is not None else None,
                 "change_from_prev_pct": round(change_prev, 4) if change_prev is not None else None,
             }
+            # 当日ポイントの前日比は取得元の実測変動率を正とする。
+            # 特にBTC/ETH/SOLは、履歴側の直近ポイント（06:00 JST時点ではまだ
+            # 取引中のUTC日足＝ほぼ同時刻の値）との比較になり毎日ほぼ0%になるため、
+            # CoinGeckoの24時間変動率で上書きしないと前日比が死ぬ。
+            if point["date"] == price_date:
+                source_change = current.get("change_rate")
+                if isinstance(source_change, (int, float)) and math.isfinite(source_change):
+                    normalized_point["change_from_prev_pct"] = round(float(source_change), 4)
             if point.get("fetched_at"):
                 normalized_point["fetched_at"] = point["fetched_at"]
             normalized_points.append(normalized_point)

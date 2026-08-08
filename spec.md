@@ -8,7 +8,7 @@ Googleスプレッドシートで運用している「一般＆暗号通貨マ�
 
 ## 作業場所
 
-`/Users/kurokzhr/.hermes/ruku_data/00_products/invest_and_crypto_mkt`
+`/Users/kurokzhr/.hermes/ruku_data/00_products/apps/invest_and_crypto_mkt`
 
 元スクリプトは参照のみとし、直接編集しない。移植・改修する場合はこのフォルダ配下へコピーして作業する。
 

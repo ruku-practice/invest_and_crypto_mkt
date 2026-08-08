@@ -118,6 +118,41 @@ class FetchMarketDataTests(unittest.TestCase):
             ["2026/07/02", "2026/07/03"],
         )
 
+    def test_merge_history_keeps_measured_point_when_rebuild_misses_a_day(self):
+        # Yahooの日足に無い日付でも、06:00に実測した値（直前終値と不一致）は残す。
+        # 2026-08-08にBTC-USDの8/7バーがYahoo側で欠損し、実測ポイントが消えた回帰。
+        existing = {
+            "items": [
+                {
+                    "id": "btc",
+                    "points": [
+                        {"date": "2026/08/06", "value": 10127709.0, "fetched_at": "06:00"},
+                        {"date": "2026/08/07", "value": 10243284.0, "fetched_at": "06:00"},
+                    ],
+                },
+            ]
+        }
+        rebuilt = {
+            "items": [
+                {
+                    "id": "btc",
+                    "points": [
+                        {"date": "2026/08/06", "value": 10127709.0},
+                        {"date": "2026/08/08", "value": 10245835.0},
+                    ],
+                },
+            ]
+        }
+
+        merged = market_data.merge_history(existing, rebuilt)
+        by_id = {item["id"]: item for item in merged["items"]}
+
+        self.assertEqual(
+            [point["date"] for point in by_id["btc"]["points"]],
+            ["2026/08/06", "2026/08/07", "2026/08/08"],
+        )
+        self.assertEqual(by_id["btc"]["points"][1]["value"], 10243284.0)
+
 
 if __name__ == "__main__":
     unittest.main()
