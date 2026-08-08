@@ -4,6 +4,13 @@
 
 ダッシュボードの数字の信ぴょう性を回復する（前日比0%張り付き・価格の停止・ニュースとの食い違いの解消）。
 
+## 現在の状態
+
+- **状態**：稼働中
+- **最終確認**：2026-08-08 11:39 JST
+- **検証方法**：`python3 -m unittest discover -s tests`（4件PASS）→ スクラッチパッドで `fetch_market_data.py` / `fetch_market_news.py` を実走しJSON検品 → mainへpush（`f864e29`）→ `gcloud run jobs execute invest-daily / invest-news`（両方 Completed=True）→ `raw.githubusercontent.com` の latest.json と本番ページのブラウザ表示で、日経8/7終値・BTC前日比+0.6%・BONSAI $0.00000000471・クリプトニュース08/08を実測確認
+- **次のアクション**：明朝6時の定期実行後に前日比が実勢値で出続けるかを1回確認（特にクリプト3種が0%に戻っていないか）
+
 ## 進捗ログ
 
 - 2026-07-17 10:20 JST: データ取得、履歴生成、画面表示を調査。yfinanceの最終取引日終値を実行日の日付へ複製していることを原因として特定。次のアクションは、実際の取引日を保存する修正と回帰テストの実行。
