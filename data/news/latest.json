@@ -1,14 +1,6 @@
 {
-  "generated_at": "2026-08-08T11:37:14+09:00",
+  "generated_at": "2026-08-09T06:10:13+09:00",
   "items": [
-    {
-      "category": "nikkei",
-      "source": "kabutan",
-      "title": "小幅続落、AI・半導体関連が軟調も後半下げ渋る",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608071512",
-      "published_at": "2026-08-07T16:40:04+09:00",
-      "summary_for_post": "小幅続落、AI・半導体関連が軟調も後半下げ渋る"
-    },
     {
       "category": "overseas",
       "source": "kabutan",
@@ -34,6 +26,6 @@
       "summary_for_post": "ビットコインのeCashフォーク、8月23日から3段階で開始"
     }
   ],
-  "post_text": "・日経平均：小幅続落、AI・半導体関連が軟調も後半下げ渋る\n・海外：ダウ平均は反発　ナスダックは大幅高　米雇用統計を受け９月の米利上げ期待が後退\n・ドル円：NY外為：ドル売り一服も上値限定的、過剰な利上げ観測は後退\n・クリプト(08/08)：ビットコインのeCashフォーク、8月23日から3段階で開始",
+  "post_text": "",
   "status": "ok"
 }
