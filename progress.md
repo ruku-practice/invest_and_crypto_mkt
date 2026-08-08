@@ -7,8 +7,8 @@
 ## 現在の状態
 
 - **状態**：稼働中
-- **最終確認**：2026-08-08 15:25 JST
-- **検証方法**：`python3 -m unittest discover -s tests`（4件PASS）→ スクラッチパッドで `fetch_market_data.py` を実走し、GCHO ¥0.0266・1億BONSAI ¥74（×1億＋円換算）・BTC前日比+0.67%をJSONで実測確認。履歴一括変換はGCHO39点・BONSAI3点の変換ログで確認
+- **最終確認**：2026-08-08 15:38 JST
+- **検証方法**：`python3 -m unittest discover -s tests`（4件PASS）→ スクラッチパッド実走でGCHO ¥0.0266・1億BONSAI ¥74を確認 → push後に `gcloud run jobs execute invest-daily`（invest-daily-9d8xt Completed=True）→ 本番ページのDOMで GCHO ¥0.0266／1億BONSAI ¥74.25（いずれも円建て・×1億復元）を実測確認
 - **次のアクション**：明朝6時の定期実行後に前日比が実勢値で出続けるか・GCHO/BONSAIが円建てのままかを1回確認
 
 ## 進捗ログ
