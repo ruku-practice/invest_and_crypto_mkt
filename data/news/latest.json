@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:10:17+09:00",
+  "generated_at": "2026-08-12T06:10:20+09:00",
   "items": [
     {
       "category": "nikkei",
@@ -12,18 +12,18 @@
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は小反落　ただ、最高値圏での推移は継続",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608110124",
-      "published_at": "2026-08-11T05:36:00+09:00",
-      "summary_for_post": "ダウ平均は小反落　ただ、最高値圏での推移は継続"
+      "title": "ダウ平均は続落　明日の米ＣＰＩに注目",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608120106",
+      "published_at": "2026-08-12T05:32:00+09:00",
+      "summary_for_post": "ダウ平均は続落　明日の米ＣＰＩに注目"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル高値圏、NY原油82ドル台",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608110031",
-      "published_at": "2026-08-11T03:49:31+09:00",
-      "summary_for_post": "NY外為：ドル高値圏、NY原油82ドル台"
+      "title": "NY外為：ドル高止まり、米3年債入札は好調、2025年来の高利回りに強い需要",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608120024",
+      "published_at": "2026-08-12T02:33:17+09:00",
+      "summary_for_post": "NY外為：ドル高止まり、米3年債入札は好調、2025年来の高利回りに強い需要"
     },
     {
       "category": "crypto",
@@ -34,6 +34,6 @@
       "summary_for_post": "ビットコイン1020万円台で上げ渋り、CPIと利上げ観測が焦点"
     }
   ],
-  "post_text": "・日経平均：3日ぶり急反発、米ハイテク株高が追い風\n・海外：ダウ平均は小反落　ただ、最高値圏での推移は継続\n・ドル円：NY外為：ドル高値圏、NY原油82ドル台\n・クリプト(08/09)：ビットコイン1020万円台で上げ渋り、CPIと利上げ観測が焦点",
+  "post_text": "・日経平均：3日ぶり急反発、米ハイテク株高が追い風\n・海外：ダウ平均は続落　明日の米ＣＰＩに注目\n・ドル円：NY外為：ドル高止まり、米3年債入札は好調、2025年来の高利回りに強い需要\n・クリプト(08/09)：ビットコイン1020万円台で上げ渋り、CPIと利上げ観測が焦点",
   "status": "ok"
 }
