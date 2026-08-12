@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-08-12T06:10:20+09:00",
+  "generated_at": "2026-08-13T06:10:13+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "3日ぶり急反発、米ハイテク株高が追い風",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608101057",
-      "published_at": "2026-08-10T18:05:08+09:00",
-      "summary_for_post": "3日ぶり急反発、米ハイテク株高が追い風"
+      "title": "続伸、AI・半導体関連が買われ6万7000円台回復",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608121265",
+      "published_at": "2026-08-12T18:17:15+09:00",
+      "summary_for_post": "続伸、AI・半導体関連が買われ6万7000円台回復"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は続落　明日の米ＣＰＩに注目",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608120106",
-      "published_at": "2026-08-12T05:32:00+09:00",
-      "summary_for_post": "ダウ平均は続落　明日の米ＣＰＩに注目"
+      "title": "ダウ平均は小幅安　米ＣＰＩは方向感を決定づけず",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608130119",
+      "published_at": "2026-08-13T05:37:00+09:00",
+      "summary_for_post": "ダウ平均は小幅安　米ＣＰＩは方向感を決定づけず"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル高止まり、米3年債入札は好調、2025年来の高利回りに強い需要",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608120024",
-      "published_at": "2026-08-12T02:33:17+09:00",
-      "summary_for_post": "NY外為：ドル高止まり、米3年債入札は好調、2025年来の高利回りに強い需要"
+      "title": "NY外為：ドル伸び悩む、米10年債入札も順調、最高落札利回りは2007年来で最高",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608130019",
+      "published_at": "2026-08-13T02:28:14+09:00",
+      "summary_for_post": "NY外為：ドル伸び悩む、米10年債入札も順調、最高落札利回りは2007年来で最高"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ビットコイン1020万円台で上げ渋り、CPIと利上げ観測が焦点",
-      "url": "https://coinpost.jp/?p=730494",
-      "published_at": "08/09 11:30",
-      "summary_for_post": "ビットコイン1020万円台で上げ渋り、CPIと利上げ観測が焦点"
+      "title": "イーサリアム創成期ウォレット、11年ぶり始動　含み益6000倍超",
+      "url": "https://coinpost.jp/?p=730849",
+      "published_at": "08/12 16:59",
+      "summary_for_post": "イーサリアム創成期ウォレット、11年ぶり始動　含み益6000倍超"
     }
   ],
-  "post_text": "・日経平均：3日ぶり急反発、米ハイテク株高が追い風\n・海外：ダウ平均は続落　明日の米ＣＰＩに注目\n・ドル円：NY外為：ドル高止まり、米3年債入札は好調、2025年来の高利回りに強い需要\n・クリプト(08/09)：ビットコイン1020万円台で上げ渋り、CPIと利上げ観測が焦点",
+  "post_text": "・日経平均：続伸、AI・半導体関連が買われ6万7000円台回復\n・海外：ダウ平均は小幅安　米ＣＰＩは方向感を決定づけず\n・ドル円：NY外為：ドル伸び悩む、米10年債入札も順調、最高落札利回りは2007年来で最高\n・クリプト(08/12)：イーサリアム創成期ウォレット、11年ぶり始動　含み益6000倍超",
   "status": "ok"
 }
