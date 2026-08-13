@@ -128,42 +128,42 @@
     }
   ],
   "news": {
-    "generated_at": "2026-08-13T06:10:13+09:00",
+    "generated_at": "2026-08-14T06:10:12+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "続伸、AI・半導体関連が買われ6万7000円台回復",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608121265",
-        "published_at": "2026-08-12T18:17:15+09:00",
-        "summary_for_post": "続伸、AI・半導体関連が買われ6万7000円台回復"
+        "title": "3日続伸、AI・半導体関連株を中心に買い優勢",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608131172",
+        "published_at": "2026-08-13T17:00:40+09:00",
+        "summary_for_post": "3日続伸、AI・半導体関連株を中心に買い優勢"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は小幅安　米ＣＰＩは方向感を決定づけず",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608130119",
-        "published_at": "2026-08-13T05:37:00+09:00",
-        "summary_for_post": "ダウ平均は小幅安　米ＣＰＩは方向感を決定づけず"
+        "title": "ダウ平均は小幅高　ＡＩ・ハイテク株には買い続く　ＰＰＩはインフレの落ち着きを示す",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608140126",
+        "published_at": "2026-08-14T05:34:00+09:00",
+        "summary_for_post": "ダウ平均は小幅高　ＡＩ・ハイテク株には買い続く　ＰＰＩはインフレの落ち着きを示す"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル伸び悩む、米10年債入札も順調、最高落札利回りは2007年来で最高",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608130019",
-        "published_at": "2026-08-13T02:28:14+09:00",
-        "summary_for_post": "NY外為：ドル伸び悩む、米10年債入札も順調、最高落札利回りは2007年来で最高"
+        "title": "NY外為：ドル買い強まる、米30年債入札は低調、最高落札利回りは2001年来で最高",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608140028",
+        "published_at": "2026-08-14T03:35:00+09:00",
+        "summary_for_post": "NY外為：ドル買い強まる、米30年債入札は低調、最高落札利回りは2001年来で最高"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "イーサリアム創成期ウォレット、11年ぶり始動　含み益6000倍超",
-        "url": "https://coinpost.jp/?p=730849",
-        "published_at": "08/12 16:59",
-        "summary_for_post": "イーサリアム創成期ウォレット、11年ぶり始動　含み益6000倍超"
+        "title": "米フィデリティ、イーサリアムETF「FETH」にステーキング機能追加へ",
+        "url": "https://coinpost.jp/?p=730922",
+        "published_at": "08/13 12:56",
+        "summary_for_post": "米フィデリティ、イーサリアムETF「FETH」にステーキング機能追加へ"
       }
     ],
-    "post_text": "・日経平均：続伸、AI・半導体関連が買われ6万7000円台回復\n・海外：ダウ平均は小幅安　米ＣＰＩは方向感を決定づけず\n・ドル円：NY外為：ドル伸び悩む、米10年債入札も順調、最高落札利回りは2007年来で最高\n・クリプト(08/12)：イーサリアム創成期ウォレット、11年ぶり始動　含み益6000倍超",
+    "post_text": "・日経平均：3日続伸、AI・半導体関連株を中心に買い優勢\n・海外：ダウ平均は小幅高　ＡＩ・ハイテク株には買い続く　ＰＰＩはインフレの落ち着きを示す\n・ドル円：NY外為：ドル買い強まる、米30年債入札は低調、最高落札利回りは2001年来で最高\n・クリプト(08/13)：米フィデリティ、イーサリアムETF「FETH」にステーキング機能追加へ",
     "status": "ok"
   }
 }
