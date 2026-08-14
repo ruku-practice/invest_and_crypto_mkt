@@ -128,42 +128,42 @@
     }
   ],
   "news": {
-    "generated_at": "2026-08-14T06:10:12+09:00",
+    "generated_at": "2026-08-15T06:10:26+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "3日続伸、AI・半導体関連株を中心に買い優勢",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608131172",
-        "published_at": "2026-08-13T17:00:40+09:00",
-        "summary_for_post": "3日続伸、AI・半導体関連株を中心に買い優勢"
+        "title": "4日続伸、AI・半導体に加え幅広い業種が買われる",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608141215",
+        "published_at": "2026-08-14T16:36:37+09:00",
+        "summary_for_post": "4日続伸、AI・半導体に加え幅広い業種が買われる"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は小幅高　ＡＩ・ハイテク株には買い続く　ＰＰＩはインフレの落ち着きを示す",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608140126",
-        "published_at": "2026-08-14T05:34:00+09:00",
-        "summary_for_post": "ダウ平均は小幅高　ＡＩ・ハイテク株には買い続く　ＰＰＩはインフレの落ち着きを示す"
+        "title": "ダウ平均は反落　堅調な値動きが続く中、同時に高値警戒感も",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608150135",
+        "published_at": "2026-08-15T05:47:00+09:00",
+        "summary_for_post": "ダウ平均は反落　堅調な値動きが続く中、同時に高値警戒感も"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル買い強まる、米30年債入札は低調、最高落札利回りは2001年来で最高",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608140028",
-        "published_at": "2026-08-14T03:35:00+09:00",
-        "summary_for_post": "NY外為：ドル買い強まる、米30年債入札は低調、最高落札利回りは2001年来で最高"
+        "title": "NY外為：ドル安値から反発、原油は一段高、82ドル台",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608150028",
+        "published_at": "2026-08-15T03:35:02+09:00",
+        "summary_for_post": "NY外為：ドル安値から反発、原油は一段高、82ドル台"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "米フィデリティ、イーサリアムETF「FETH」にステーキング機能追加へ",
-        "url": "https://coinpost.jp/?p=730922",
-        "published_at": "08/13 12:56",
-        "summary_for_post": "米フィデリティ、イーサリアムETF「FETH」にステーキング機能追加へ"
+        "title": "米Cboe、ビットコインなど3倍レバレッジETFを申請",
+        "url": "https://coinpost.jp/?p=731026",
+        "published_at": "08/15 06:05",
+        "summary_for_post": "米Cboe、ビットコインなど3倍レバレッジETFを申請"
       }
     ],
-    "post_text": "・日経平均：3日続伸、AI・半導体関連株を中心に買い優勢\n・海外：ダウ平均は小幅高　ＡＩ・ハイテク株には買い続く　ＰＰＩはインフレの落ち着きを示す\n・ドル円：NY外為：ドル買い強まる、米30年債入札は低調、最高落札利回りは2001年来で最高\n・クリプト(08/13)：米フィデリティ、イーサリアムETF「FETH」にステーキング機能追加へ",
+    "post_text": "・日経平均：4日続伸、AI・半導体に加え幅広い業種が買われる\n・海外：ダウ平均は反落　堅調な値動きが続く中、同時に高値警戒感も\n・ドル円：NY外為：ドル安値から反発、原油は一段高、82ドル台\n・クリプト(08/15)：米Cboe、ビットコインなど3倍レバレッジETFを申請",
     "status": "ok"
   }
 }
