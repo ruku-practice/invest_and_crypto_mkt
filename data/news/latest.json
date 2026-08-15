@@ -1,14 +1,6 @@
 {
-  "generated_at": "2026-08-15T06:10:26+09:00",
+  "generated_at": "2026-08-16T06:10:23+09:00",
   "items": [
-    {
-      "category": "nikkei",
-      "source": "kabutan",
-      "title": "4日続伸、AI・半導体に加え幅広い業種が買われる",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608141215",
-      "published_at": "2026-08-14T16:36:37+09:00",
-      "summary_for_post": "4日続伸、AI・半導体に加え幅広い業種が買われる"
-    },
     {
       "category": "overseas",
       "source": "kabutan",
@@ -28,12 +20,12 @@
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "米Cboe、ビットコインなど3倍レバレッジETFを申請",
-      "url": "https://coinpost.jp/?p=731026",
-      "published_at": "08/15 06:05",
-      "summary_for_post": "米Cboe、ビットコインなど3倍レバレッジETFを申請"
+      "title": "イーサリアム、ポスト量子暗号のハッシュ関数を従来型へ転換方針",
+      "url": "https://coinpost.jp/?p=731073",
+      "published_at": "08/15 13:45",
+      "summary_for_post": "イーサリアム、ポスト量子暗号のハッシュ関数を従来型へ転換方針"
     }
   ],
-  "post_text": "・日経平均：4日続伸、AI・半導体に加え幅広い業種が買われる\n・海外：ダウ平均は反落　堅調な値動きが続く中、同時に高値警戒感も\n・ドル円：NY外為：ドル安値から反発、原油は一段高、82ドル台\n・クリプト(08/15)：米Cboe、ビットコインなど3倍レバレッジETFを申請",
+  "post_text": "",
   "status": "ok"
 }
