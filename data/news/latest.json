@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-08-17T06:10:29+09:00",
+  "generated_at": "2026-08-18T06:10:24+09:00",
   "items": [
+    {
+      "category": "nikkei",
+      "source": "kabutan",
+      "title": "5連騰、半導体関連が高く6万9000円台乗せ",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608170957",
+      "published_at": "2026-08-17T17:08:30+09:00",
+      "summary_for_post": "5連騰、半導体関連が高く6万9000円台乗せ"
+    },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は反落　堅調な値動きが続く中、同時に高値警戒感も",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608150135",
-      "published_at": "2026-08-15T05:47:00+09:00",
-      "summary_for_post": "ダウ平均は反落　堅調な値動きが続く中、同時に高値警戒感も"
+      "title": "ダウ平均は続落　ナスダックも下げに転じる　半導体は上昇",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608180046",
+      "published_at": "2026-08-18T05:32:00+09:00",
+      "summary_for_post": "ダウ平均は続落　ナスダックも下げに転じる　半導体は上昇"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル安値から反発、原油は一段高、82ドル台",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608150028",
-      "published_at": "2026-08-15T03:35:02+09:00",
-      "summary_for_post": "NY外為：ドル安値から反発、原油は一段高、82ドル台"
+      "title": "NY外為：ドル買戻し続く、米長期金利が上昇、30年債利回りは2007年来で最高",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608180019",
+      "published_at": "2026-08-18T02:29:25+09:00",
+      "summary_for_post": "NY外為：ドル買戻し続く、米長期金利が上昇、30年債利回りは2007年来で最高"
     },
     {
       "category": "crypto",
@@ -26,6 +34,6 @@
       "summary_for_post": "ビットコインCPI通過も中東リスクで上値重く、来週も軟調継続か"
     }
   ],
-  "post_text": "",
+  "post_text": "・日経平均：5連騰、半導体関連が高く6万9000円台乗せ\n・海外：ダウ平均は続落　ナスダックも下げに転じる　半導体は上昇\n・ドル円：NY外為：ドル買戻し続く、米長期金利が上昇、30年債利回りは2007年来で最高\n・クリプト(08/16)：ビットコインCPI通過も中東リスクで上値重く、来週も軟調継続か",
   "status": "ok"
 }
