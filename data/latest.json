@@ -128,31 +128,31 @@
     }
   ],
   "news": {
-    "generated_at": "2026-08-18T06:10:24+09:00",
+    "generated_at": "2026-08-19T06:10:18+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "5連騰、半導体関連が高く6万9000円台乗せ",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608170957",
-        "published_at": "2026-08-17T17:08:30+09:00",
-        "summary_for_post": "5連騰、半導体関連が高く6万9000円台乗せ"
+        "title": "6日ぶり急反落、半導体関連株に利益確定売り",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608181077",
+        "published_at": "2026-08-18T18:10:14+09:00",
+        "summary_for_post": "6日ぶり急反落、半導体関連株に利益確定売り"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は続落　ナスダックも下げに転じる　半導体は上昇",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608180046",
-        "published_at": "2026-08-18T05:32:00+09:00",
-        "summary_for_post": "ダウ平均は続落　ナスダックも下げに転じる　半導体は上昇"
+        "title": "ダウ平均は３日続落　ナスダックは大幅安　半導体株が下げ先導",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608190048",
+        "published_at": "2026-08-19T05:36:00+09:00",
+        "summary_for_post": "ダウ平均は３日続落　ナスダックは大幅安　半導体株が下げ先導"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル買戻し続く、米長期金利が上昇、30年債利回りは2007年来で最高",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608180019",
-        "published_at": "2026-08-18T02:29:25+09:00",
-        "summary_for_post": "NY外為：ドル買戻し続く、米長期金利が上昇、30年債利回りは2007年来で最高"
+        "title": "NY外為：ドル安値から反発、原油高に連れ、トランプ米大統領はイランとの和平協議していないと断言",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608190019",
+        "published_at": "2026-08-19T02:11:02+09:00",
+        "summary_for_post": "NY外為：ドル安値から反発、原油高に連れ、トランプ米大統領はイランとの和平協議していないと断言"
       },
       {
         "category": "crypto",
@@ -163,7 +163,7 @@
         "summary_for_post": "ビットコインCPI通過も中東リスクで上値重く、来週も軟調継続か"
       }
     ],
-    "post_text": "・日経平均：5連騰、半導体関連が高く6万9000円台乗せ\n・海外：ダウ平均は続落　ナスダックも下げに転じる　半導体は上昇\n・ドル円：NY外為：ドル買戻し続く、米長期金利が上昇、30年債利回りは2007年来で最高\n・クリプト(08/16)：ビットコインCPI通過も中東リスクで上値重く、来週も軟調継続か",
+    "post_text": "・日経平均：6日ぶり急反落、半導体関連株に利益確定売り\n・海外：ダウ平均は３日続落　ナスダックは大幅安　半導体株が下げ先導\n・ドル円：NY外為：ドル安値から反発、原油高に連れ、トランプ米大統領はイランとの和平協議していないと断言\n・クリプト(08/16)：ビットコインCPI通過も中東リスクで上値重く、来週も軟調継続か",
     "status": "ok"
   }
 }
