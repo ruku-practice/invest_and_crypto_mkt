@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-08-20T06:10:22+09:00",
+  "generated_at": "2026-08-21T06:10:29+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "続急落、AI・半導体関連中心に売り優勢",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608191110",
-      "published_at": "2026-08-19T18:17:07+09:00",
-      "summary_for_post": "続急落、AI・半導体関連中心に売り優勢"
+      "title": "3日ぶり反発、金利低下でリスクオフ巻き戻し",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608201120",
+      "published_at": "2026-08-20T17:17:45+09:00",
+      "summary_for_post": "3日ぶり反発、金利低下でリスクオフ巻き戻し"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は４日ぶり反発　米財務省の発表で利回り急低下",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608200053",
-      "published_at": "2026-08-20T05:32:00+09:00",
-      "summary_for_post": "ダウ平均は４日ぶり反発　米財務省の発表で利回り急低下"
+      "title": "ダウ平均は大幅反落　米国債利回りが再上昇　ウォルマートが決算受け下落",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608210056",
+      "published_at": "2026-08-21T05:35:00+09:00",
+      "summary_for_post": "ダウ平均は大幅反落　米国債利回りが再上昇　ウォルマートが決算受け下落"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル下げ止まる、FOMC議事要旨で利上げの可能性示唆",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608200026",
-      "published_at": "2026-08-20T03:44:51+09:00",
-      "summary_for_post": "NY外為：ドル下げ止まる、FOMC議事要旨で利上げの可能性示唆"
+      "title": "NY外為：ドル買戻し、原油高やベッセント米財務長官が強いドル政策再表明",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608210034",
+      "published_at": "2026-08-21T04:06:20+09:00",
+      "summary_for_post": "NY外為：ドル買戻し、原油高やベッセント米財務長官が強いドル政策再表明"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "トランプ大統領、「仮想通貨業界への逆風に完全に終止符を打った」と発言　ビットコインは6月以来の高値",
-      "url": "https://coinpost.jp/?p=731836",
-      "published_at": "08/20 05:50",
-      "summary_for_post": "トランプ大統領、「仮想通貨業界への逆風に完全に終止符を打った」と発言　ビットコインは6月以来の高値"
+      "title": "ビットコイン急騰、米国の金利介入が大規模ショート清算を誘発",
+      "url": "https://coinpost.jp/?p=731856",
+      "published_at": "08/20 09:35",
+      "summary_for_post": "ビットコイン急騰、米国の金利介入が大規模ショート清算を誘発"
     }
   ],
-  "post_text": "・日経平均：続急落、AI・半導体関連中心に売り優勢\n・海外：ダウ平均は４日ぶり反発　米財務省の発表で利回り急低下\n・ドル円：NY外為：ドル下げ止まる、FOMC議事要旨で利上げの可能性示唆\n・クリプト(08/20)：トランプ大統領、「仮想通貨業界への逆風に完全に終止符を打った」と発言　ビットコインは6月以来の高値",
+  "post_text": "・日経平均：3日ぶり反発、金利低下でリスクオフ巻き戻し\n・海外：ダウ平均は大幅反落　米国債利回りが再上昇　ウォルマートが決算受け下落\n・ドル円：NY外為：ドル買戻し、原油高やベッセント米財務長官が強いドル政策再表明\n・クリプト(08/20)：ビットコイン急騰、米国の金利介入が大規模ショート清算を誘発",
   "status": "ok"
 }
