@@ -128,42 +128,42 @@
     }
   ],
   "news": {
-    "generated_at": "2026-08-21T06:10:29+09:00",
+    "generated_at": "2026-08-22T06:10:26+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "3日ぶり反発、金利低下でリスクオフ巻き戻し",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608201120",
-        "published_at": "2026-08-20T17:17:45+09:00",
-        "summary_for_post": "3日ぶり反発、金利低下でリスクオフ巻き戻し"
+        "title": "反落、消費関連株などが売られる",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608210996",
+        "published_at": "2026-08-21T16:28:19+09:00",
+        "summary_for_post": "反落、消費関連株などが売られる"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は大幅反落　米国債利回りが再上昇　ウォルマートが決算受け下落",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608210056",
-        "published_at": "2026-08-21T05:35:00+09:00",
-        "summary_for_post": "ダウ平均は大幅反落　米国債利回りが再上昇　ウォルマートが決算受け下落"
+        "title": "ダウ平均は反発",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608220040",
+        "published_at": "2026-08-22T05:35:00+09:00",
+        "summary_for_post": "ダウ平均は反発"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル買戻し、原油高やベッセント米財務長官が強いドル政策再表明",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608210034",
-        "published_at": "2026-08-21T04:06:20+09:00",
-        "summary_for_post": "NY外為：ドル買戻し、原油高やベッセント米財務長官が強いドル政策再表明"
+        "title": "NY外為：ドル底堅い、米長期金利が上昇、原油も続伸",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608220023",
+        "published_at": "2026-08-22T03:29:29+09:00",
+        "summary_for_post": "NY外為：ドル底堅い、米長期金利が上昇、原油も続伸"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "ビットコイン急騰、米国の金利介入が大規模ショート清算を誘発",
-        "url": "https://coinpost.jp/?p=731856",
-        "published_at": "08/20 09:35",
-        "summary_for_post": "ビットコイン急騰、米国の金利介入が大規模ショート清算を誘発"
+        "title": "ビットコイン7.3万ドル突破、米規制進展とショート清算が上昇を加速",
+        "url": "https://coinpost.jp/?p=732243",
+        "published_at": "08/21 10:12",
+        "summary_for_post": "ビットコイン7.3万ドル突破、米規制進展とショート清算が上昇を加速"
       }
     ],
-    "post_text": "・日経平均：3日ぶり反発、金利低下でリスクオフ巻き戻し\n・海外：ダウ平均は大幅反落　米国債利回りが再上昇　ウォルマートが決算受け下落\n・ドル円：NY外為：ドル買戻し、原油高やベッセント米財務長官が強いドル政策再表明\n・クリプト(08/20)：ビットコイン急騰、米国の金利介入が大規模ショート清算を誘発",
+    "post_text": "・日経平均：反落、消費関連株などが売られる\n・海外：ダウ平均は反発\n・ドル円：NY外為：ドル底堅い、米長期金利が上昇、原油も続伸\n・クリプト(08/21)：ビットコイン7.3万ドル突破、米規制進展とショート清算が上昇を加速",
     "status": "ok"
   }
 }
