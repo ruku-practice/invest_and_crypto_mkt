@@ -128,16 +128,8 @@
     }
   ],
   "news": {
-    "generated_at": "2026-08-22T06:10:26+09:00",
+    "generated_at": "2026-08-23T06:10:24+09:00",
     "items": [
-      {
-        "category": "nikkei",
-        "source": "kabutan",
-        "title": "反落、消費関連株などが売られる",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608210996",
-        "published_at": "2026-08-21T16:28:19+09:00",
-        "summary_for_post": "反落、消費関連株などが売られる"
-      },
       {
         "category": "overseas",
         "source": "kabutan",
@@ -157,13 +149,13 @@
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "ビットコイン7.3万ドル突破、米規制進展とショート清算が上昇を加速",
-        "url": "https://coinpost.jp/?p=732243",
-        "published_at": "08/21 10:12",
-        "summary_for_post": "ビットコイン7.3万ドル突破、米規制進展とショート清算が上昇を加速"
+        "title": "ビットコイン7.9万ドル突破、イラン制裁観測で逃避買い　オプション市場は9万ドルを意識",
+        "url": "https://coinpost.jp/?p=732566",
+        "published_at": "08/22 10:35",
+        "summary_for_post": "ビットコイン7.9万ドル突破、イラン制裁観測で逃避買い　オプション市場は9万ドルを意識"
       }
     ],
-    "post_text": "・日経平均：反落、消費関連株などが売られる\n・海外：ダウ平均は反発\n・ドル円：NY外為：ドル底堅い、米長期金利が上昇、原油も続伸\n・クリプト(08/21)：ビットコイン7.3万ドル突破、米規制進展とショート清算が上昇を加速",
+    "post_text": "",
     "status": "ok"
   }
 }
