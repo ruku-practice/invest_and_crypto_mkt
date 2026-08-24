@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-08-24T06:10:20+09:00",
+  "generated_at": "2026-08-25T06:10:19+09:00",
   "items": [
+    {
+      "category": "nikkei",
+      "source": "kabutan",
+      "title": "続落、金利上昇を受け半導体株などに売り",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608240966",
+      "published_at": "2026-08-24T18:20:39+09:00",
+      "summary_for_post": "続落、金利上昇を受け半導体株などに売り"
+    },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は反発",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608220040",
-      "published_at": "2026-08-22T05:35:00+09:00",
-      "summary_for_post": "ダウ平均は反発"
+      "title": "ダウ平均は続伸の一方、ナスダックは下落　エヌビディア決算前に半導体が下落",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608250042",
+      "published_at": "2026-08-25T05:32:00+09:00",
+      "summary_for_post": "ダウ平均は続伸の一方、ナスダックは下落　エヌビディア決算前に半導体が下落"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル底堅い、米長期金利が上昇、原油も続伸",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608220023",
-      "published_at": "2026-08-22T03:29:29+09:00",
-      "summary_for_post": "NY外為：ドル底堅い、米長期金利が上昇、原油も続伸"
+      "title": "NY外為：ドル強含む、米国はイランを経済孤立させる計画へ＝ベッセント米財務長官",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608250022",
+      "published_at": "2026-08-25T02:39:45+09:00",
+      "summary_for_post": "NY外為：ドル強含む、米国はイランを経済孤立させる計画へ＝ベッセント米財務長官"
     },
     {
       "category": "crypto",
@@ -26,6 +34,6 @@
       "summary_for_post": "ビットコイン米財政懸念で5月以来の高値、来週はGDP・PCEが焦点"
     }
   ],
-  "post_text": "",
+  "post_text": "・日経平均：続落、金利上昇を受け半導体株などに売り\n・海外：ダウ平均は続伸の一方、ナスダックは下落　エヌビディア決算前に半導体が下落\n・ドル円：NY外為：ドル強含む、米国はイランを経済孤立させる計画へ＝ベッセント米財務長官\n・クリプト(08/23)：ビットコイン米財政懸念で5月以来の高値、来週はGDP・PCEが焦点",
   "status": "ok"
 }
