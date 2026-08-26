@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-08-26T06:10:23+09:00",
+  "generated_at": "2026-08-27T06:10:44+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "3日ぶり反発、アジア株堅調で切り返す",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608251021",
-      "published_at": "2026-08-25T18:15:18+09:00",
-      "summary_for_post": "3日ぶり反発、アジア株堅調で切り返す"
+      "title": "続伸、朝安後に切り返し6万6000円台回復",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608261035",
+      "published_at": "2026-08-26T18:26:39+09:00",
+      "summary_for_post": "続伸、朝安後に切り返し6万6000円台回復"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は３日続伸　本日はエヌビディア決算前にＩＴ・ハイテク株に買い戻し",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608260056",
-      "published_at": "2026-08-26T05:33:00+09:00",
-      "summary_for_post": "ダウ平均は３日続伸　本日はエヌビディア決算前にＩＴ・ハイテク株に買い戻し"
+      "title": "ダウ平均は４日ぶり反落　ＰＣＥとＧＤＰ改定値への反応限定的",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608270056",
+      "published_at": "2026-08-27T05:34:00+09:00",
+      "summary_for_post": "ダウ平均は４日ぶり反落　ＰＣＥとＧＤＰ改定値への反応限定的"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル売り後退、コリンズ米ボストン連銀総裁は速やかな利上げ適切との見解、改善なければ",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608260023",
-      "published_at": "2026-08-26T02:32:02+09:00",
-      "summary_for_post": "NY外為：ドル売り後退、コリンズ米ボストン連銀総裁は速やかな利上げ適切との見解、改善なければ"
+      "title": "NY外為：ドル伸び悩む、米5年債入札は順調",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608270022",
+      "published_at": "2026-08-27T02:49:23+09:00",
+      "summary_for_post": "NY外為：ドル伸び悩む、米5年債入札は順調"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ビットコイン米財政懸念で5月以来の高値、来週はGDP・PCEが焦点",
-      "url": "https://coinpost.jp/?p=732405",
-      "published_at": "08/23 11:30",
-      "summary_for_post": "ビットコイン米財政懸念で5月以来の高値、来週はGDP・PCEが焦点"
+      "title": "ビットコイン8万ドル突破後も底堅く推移　現物買い優勢で上昇基調を維持",
+      "url": "https://coinpost.jp/?p=733210",
+      "published_at": "08/26 09:20",
+      "summary_for_post": "ビットコイン8万ドル突破後も底堅く推移　現物買い優勢で上昇基調を維持"
     }
   ],
-  "post_text": "・日経平均：3日ぶり反発、アジア株堅調で切り返す\n・海外：ダウ平均は３日続伸　本日はエヌビディア決算前にＩＴ・ハイテク株に買い戻し\n・ドル円：NY外為：ドル売り後退、コリンズ米ボストン連銀総裁は速やかな利上げ適切との見解、改善なければ\n・クリプト(08/23)：ビットコイン米財政懸念で5月以来の高値、来週はGDP・PCEが焦点",
+  "post_text": "・日経平均：続伸、朝安後に切り返し6万6000円台回復\n・海外：ダウ平均は４日ぶり反落　ＰＣＥとＧＤＰ改定値への反応限定的\n・ドル円：NY外為：ドル伸び悩む、米5年債入札は順調\n・クリプト(08/26)：ビットコイン8万ドル突破後も底堅く推移　現物買い優勢で上昇基調を維持",
   "status": "ok"
 }
