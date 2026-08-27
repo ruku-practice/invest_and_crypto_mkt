@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-27T06:10:44+09:00",
+  "generated_at": "2026-08-28T06:10:26+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "続伸、朝安後に切り返し6万6000円台回復",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608261035",
-      "published_at": "2026-08-26T18:26:39+09:00",
-      "summary_for_post": "続伸、朝安後に切り返し6万6000円台回復"
+      "title": "3日ぶり反落、朝高も全体相場は伸び悩み",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608270985",
+      "published_at": "2026-08-27T17:12:08+09:00",
+      "summary_for_post": "3日ぶり反落、朝高も全体相場は伸び悩み"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は４日ぶり反落　ＰＣＥとＧＤＰ改定値への反応限定的",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608270056",
-      "published_at": "2026-08-27T05:34:00+09:00",
-      "summary_for_post": "ダウ平均は４日ぶり反落　ＰＣＥとＧＤＰ改定値への反応限定的"
+      "title": "ダウ平均は反発　ナスダックは大幅高　エヌビディアの決算にポジティブな反応",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608280061",
+      "published_at": "2026-08-28T05:33:00+09:00",
+      "summary_for_post": "ダウ平均は反発　ナスダックは大幅高　エヌビディアの決算にポジティブな反応"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル伸び悩む、米5年債入札は順調",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608270022",
-      "published_at": "2026-08-27T02:49:23+09:00",
-      "summary_for_post": "NY外為：ドル伸び悩む、米5年債入札は順調"
+      "title": "NY外為：ドル買い再開、米7年債入札は冴えず、最高落札利回りは2024年来で最高",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608280023",
+      "published_at": "2026-08-28T02:52:05+09:00",
+      "summary_for_post": "NY外為：ドル買い再開、米7年債入札は冴えず、最高落札利回りは2024年来で最高"
     },
     {
       "category": "crypto",
@@ -34,6 +34,6 @@
       "summary_for_post": "ビットコイン8万ドル突破後も底堅く推移　現物買い優勢で上昇基調を維持"
     }
   ],
-  "post_text": "・日経平均：続伸、朝安後に切り返し6万6000円台回復\n・海外：ダウ平均は４日ぶり反落　ＰＣＥとＧＤＰ改定値への反応限定的\n・ドル円：NY外為：ドル伸び悩む、米5年債入札は順調\n・クリプト(08/26)：ビットコイン8万ドル突破後も底堅く推移　現物買い優勢で上昇基調を維持",
+  "post_text": "・日経平均：3日ぶり反落、朝高も全体相場は伸び悩み\n・海外：ダウ平均は反発　ナスダックは大幅高　エヌビディアの決算にポジティブな反応\n・ドル円：NY外為：ドル買い再開、米7年債入札は冴えず、最高落札利回りは2024年来で最高\n・クリプト(08/26)：ビットコイン8万ドル突破後も底堅く推移　現物買い優勢で上昇基調を維持",
   "status": "ok"
 }
