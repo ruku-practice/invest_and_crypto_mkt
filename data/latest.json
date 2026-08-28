@@ -128,31 +128,31 @@
     }
   ],
   "news": {
-    "generated_at": "2026-08-28T06:10:26+09:00",
+    "generated_at": "2026-08-29T06:10:23+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "3日ぶり反落、朝高も全体相場は伸び悩み",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608270985",
-        "published_at": "2026-08-27T17:12:08+09:00",
-        "summary_for_post": "3日ぶり反落、朝高も全体相場は伸び悩み"
+        "title": "反発、AI・半導体関連が買われるも上値は重い",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608280960",
+        "published_at": "2026-08-28T16:32:32+09:00",
+        "summary_for_post": "反発、AI・半導体関連が買われるも上値は重い"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は反発　ナスダックは大幅高　エヌビディアの決算にポジティブな反応",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608280061",
-        "published_at": "2026-08-28T05:33:00+09:00",
-        "summary_for_post": "ダウ平均は反発　ナスダックは大幅高　エヌビディアの決算にポジティブな反応"
+        "title": "ダウ平均　小幅高で始まる",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608281169",
+        "published_at": "2026-08-28T22:40:00+09:00",
+        "summary_for_post": "ダウ平均　小幅高で始まる"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル買い再開、米7年債入札は冴えず、最高落札利回りは2024年来で最高",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608280023",
-        "published_at": "2026-08-28T02:52:05+09:00",
-        "summary_for_post": "NY外為：ドル買い再開、米7年債入札は冴えず、最高落札利回りは2024年来で最高"
+        "title": "NY外為：ドル指数は再び200DMA突破、米短期金融市場9月の利上げ60％織り込む",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608290018",
+        "published_at": "2026-08-29T01:39:01+09:00",
+        "summary_for_post": "NY外為：ドル指数は再び200DMA突破、米短期金融市場9月の利上げ60％織り込む"
       },
       {
         "category": "crypto",
@@ -163,7 +163,7 @@
         "summary_for_post": "ビットコイン8万ドル突破後も底堅く推移　現物買い優勢で上昇基調を維持"
       }
     ],
-    "post_text": "・日経平均：3日ぶり反落、朝高も全体相場は伸び悩み\n・海外：ダウ平均は反発　ナスダックは大幅高　エヌビディアの決算にポジティブな反応\n・ドル円：NY外為：ドル買い再開、米7年債入札は冴えず、最高落札利回りは2024年来で最高\n・クリプト(08/26)：ビットコイン8万ドル突破後も底堅く推移　現物買い優勢で上昇基調を維持",
+    "post_text": "・日経平均：反発、AI・半導体関連が買われるも上値は重い\n・海外：ダウ平均　小幅高で始まる\n・ドル円：NY外為：ドル指数は再び200DMA突破、米短期金融市場9月の利上げ60％織り込む\n・クリプト(08/26)：ビットコイン8万ドル突破後も底堅く推移　現物買い優勢で上昇基調を維持",
     "status": "ok"
   }
 }
