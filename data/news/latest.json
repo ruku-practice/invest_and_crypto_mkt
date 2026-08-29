@@ -1,14 +1,6 @@
 {
-  "generated_at": "2026-08-29T06:10:23+09:00",
+  "generated_at": "2026-08-30T06:10:15+09:00",
   "items": [
-    {
-      "category": "nikkei",
-      "source": "kabutan",
-      "title": "反発、AI・半導体関連が買われるも上値は重い",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608280960",
-      "published_at": "2026-08-28T16:32:32+09:00",
-      "summary_for_post": "反発、AI・半導体関連が買われるも上値は重い"
-    },
     {
       "category": "overseas",
       "source": "kabutan",
@@ -20,20 +12,20 @@
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル指数は再び200DMA突破、米短期金融市場9月の利上げ60％織り込む",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202608290018",
-      "published_at": "2026-08-29T01:39:01+09:00",
-      "summary_for_post": "NY外為：ドル指数は再び200DMA突破、米短期金融市場9月の利上げ60％織り込む"
+      "title": "NY為替：ウォーシュFRB議長のジャクソンホール会合での講演でドル買いが加速",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202608290049",
+      "published_at": "2026-08-29T06:33:31+09:00",
+      "summary_for_post": "NY為替：ウォーシュFRB議長のジャクソンホール会合での講演でドル買いが加速"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ビットコイン8万ドル突破後も底堅く推移　現物買い優勢で上昇基調を維持",
-      "url": "https://coinpost.jp/?p=733210",
-      "published_at": "08/26 09:20",
-      "summary_for_post": "ビットコイン8万ドル突破後も底堅く推移　現物買い優勢で上昇基調を維持"
+      "title": "キャピタルB、38億円調達しビットコイン追加取得へ",
+      "url": "https://coinpost.jp/?p=734150",
+      "published_at": "08/29 11:50",
+      "summary_for_post": "キャピタルB、38億円調達しビットコイン追加取得へ"
     }
   ],
-  "post_text": "・日経平均：反発、AI・半導体関連が買われるも上値は重い\n・海外：ダウ平均　小幅高で始まる\n・ドル円：NY外為：ドル指数は再び200DMA突破、米短期金融市場9月の利上げ60％織り込む\n・クリプト(08/26)：ビットコイン8万ドル突破後も底堅く推移　現物買い優勢で上昇基調を維持",
+  "post_text": "",
   "status": "ok"
 }
