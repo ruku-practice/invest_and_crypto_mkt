@@ -128,23 +128,31 @@
     }
   ],
   "news": {
-    "generated_at": "2026-08-31T06:10:20+09:00",
+    "generated_at": "2026-09-01T06:10:24+09:00",
     "items": [
+      {
+        "category": "nikkei",
+        "source": "kabutan",
+        "title": "反落、朝安後に戻り歩調で高値引け",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202608310933",
+        "published_at": "2026-08-31T18:10:21+09:00",
+        "summary_for_post": "反落、朝安後に戻り歩調で高値引け"
+      },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均　小幅高で始まる",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608281169",
-        "published_at": "2026-08-28T22:40:00+09:00",
-        "summary_for_post": "ダウ平均　小幅高で始まる"
+        "title": "ダウ平均は続落　中東情勢が再び緊迫化　原油急伸",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609010046",
+        "published_at": "2026-09-01T05:31:00+09:00",
+        "summary_for_post": "ダウ平均は続落　中東情勢が再び緊迫化　原油急伸"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY為替：ウォーシュFRB議長のジャクソンホール会合での講演でドル買いが加速",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202608290049",
-        "published_at": "2026-08-29T06:33:31+09:00",
-        "summary_for_post": "NY為替：ウォーシュFRB議長のジャクソンホール会合での講演でドル買いが加速"
+        "title": "NY外為：ドル軟調、米資産市場はトリプル安、米イラン攻撃応酬再開で原油や金利は上昇",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609010022",
+        "published_at": "2026-09-01T02:22:11+09:00",
+        "summary_for_post": "NY外為：ドル軟調、米資産市場はトリプル安、米イラン攻撃応酬再開で原油や金利は上昇"
       },
       {
         "category": "crypto",
@@ -155,7 +163,7 @@
         "summary_for_post": "ビットコイン1300万円手前で上げ渋り、ジャクソンホール後のイールドカーブが焦点"
       }
     ],
-    "post_text": "",
+    "post_text": "・日経平均：反落、朝安後に戻り歩調で高値引け\n・海外：ダウ平均は続落　中東情勢が再び緊迫化　原油急伸\n・ドル円：NY外為：ドル軟調、米資産市場はトリプル安、米イラン攻撃応酬再開で原油や金利は上昇\n・クリプト(08/30)：ビットコイン1300万円手前で上げ渋り、ジャクソンホール後のイールドカーブが焦点",
     "status": "ok"
   }
 }
