@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-09-02T06:10:12+09:00",
+  "generated_at": "2026-09-03T06:10:16+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "続落、日米の金利上昇を警戒し売り優勢",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202609011023",
-      "published_at": "2026-09-01T18:08:46+09:00",
-      "summary_for_post": "続落、日米の金利上昇を警戒し売り優勢"
+      "title": "3日続落、長期金利上昇を警戒し全面安",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202609021044",
+      "published_at": "2026-09-02T18:29:00+09:00",
+      "summary_for_post": "3日続落、長期金利上昇を警戒し全面安"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は３日続落　世界的な金利上昇と原油高を警戒",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202609020050",
-      "published_at": "2026-09-02T05:33:00+09:00",
-      "summary_for_post": "ダウ平均は３日続落　世界的な金利上昇と原油高を警戒"
+      "title": "ダウ平均は４日ぶり反発　ナスダックも上昇　原油高やインフレ懸念に変化なし",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202609030065",
+      "published_at": "2026-09-03T05:39:00+09:00",
+      "summary_for_post": "ダウ平均は４日ぶり反発　ナスダックも上昇　原油高やインフレ懸念に変化なし"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル買い再開、原油続伸、米軍がIRGC標的の攻撃開始を発表",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202609020021",
-      "published_at": "2026-09-02T02:15:00+09:00",
-      "summary_for_post": "NY外為：ドル買い再開、原油続伸、米軍がIRGC標的の攻撃開始を発表"
+      "title": "NY外為：ドル下げ止まる、原油価格が反発",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202609030024",
+      "published_at": "2026-09-03T02:54:33+09:00",
+      "summary_for_post": "NY外為：ドル下げ止まる、原油価格が反発"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ビットコイン1300万円手前で上げ渋り、ジャクソンホール後のイールドカーブが焦点",
-      "url": "https://coinpost.jp/?p=734100",
-      "published_at": "08/30 11:30",
-      "summary_for_post": "ビットコイン1300万円手前で上げ渋り、ジャクソンホール後のイールドカーブが焦点"
+      "title": "キャピタルB、アダム・バック引受で14億円増資　ビットコイン追加購入へ",
+      "url": "https://coinpost.jp/?p=735151",
+      "published_at": "09/03 05:55",
+      "summary_for_post": "キャピタルB、アダム・バック引受で14億円増資　ビットコイン追加購入へ"
     }
   ],
-  "post_text": "・日経平均：続落、日米の金利上昇を警戒し売り優勢\n・海外：ダウ平均は３日続落　世界的な金利上昇と原油高を警戒\n・ドル円：NY外為：ドル買い再開、原油続伸、米軍がIRGC標的の攻撃開始を発表\n・クリプト(08/30)：ビットコイン1300万円手前で上げ渋り、ジャクソンホール後のイールドカーブが焦点",
+  "post_text": "・日経平均：3日続落、長期金利上昇を警戒し全面安\n・海外：ダウ平均は４日ぶり反発　ナスダックも上昇　原油高やインフレ懸念に変化なし\n・ドル円：NY外為：ドル下げ止まる、原油価格が反発\n・クリプト(09/03)：キャピタルB、アダム・バック引受で14億円増資　ビットコイン追加購入へ",
   "status": "ok"
 }
