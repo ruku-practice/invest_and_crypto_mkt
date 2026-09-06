@@ -1,14 +1,6 @@
 {
-  "generated_at": "2026-09-06T06:10:16+09:00",
+  "generated_at": "2026-09-07T06:10:15+09:00",
   "items": [
-    {
-      "category": "nikkei",
-      "source": "kabutan",
-      "title": "5日ぶり反発、AI・半導体株中心に買い優勢",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202609041055",
-      "published_at": "2026-09-04T16:50:55+09:00",
-      "summary_for_post": "5日ぶり反発、AI・半導体株中心に買い優勢"
-    },
     {
       "category": "overseas",
       "source": "kabutan",
@@ -28,10 +20,10 @@
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ビットコインと金の相関性が6年ぶり高水準に、ビットワイズ",
-      "url": "https://coinpost.jp/?p=735720",
-      "published_at": "09/05 11:20",
-      "summary_for_post": "ビットコインと金の相関性が6年ぶり高水準に、ビットワイズ"
+      "title": "ETH・SOL・HYPEをファストフードチェーンに例えると？　アークインベストがL1のビジネスモデルを分析",
+      "url": "https://coinpost.jp/?p=735613",
+      "published_at": "09/06 14:00",
+      "summary_for_post": "ETH・SOL・HYPEをファストフードチェーンに例えると？　アークインベストがL1のビジネスモデルを分析"
     }
   ],
   "post_text": "",
