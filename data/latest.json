@@ -128,15 +128,15 @@
     }
   ],
   "news": {
-    "generated_at": "2026-09-07T06:10:15+09:00",
+    "generated_at": "2026-09-08T06:10:12+09:00",
     "items": [
       {
-        "category": "overseas",
+        "category": "nikkei",
         "source": "kabutan",
-        "title": "ダウ平均は反落、半導体は総じてしっかり",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609050044",
-        "published_at": "2026-09-05T05:40:00+09:00",
-        "summary_for_post": "ダウ平均は反落、半導体は総じてしっかり"
+        "title": "大幅続伸、半導体関連株を中心に買い優勢",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609071042",
+        "published_at": "2026-09-07T17:42:28+09:00",
+        "summary_for_post": "大幅続伸、半導体関連株を中心に買い優勢"
       },
       {
         "category": "fx",
@@ -149,13 +149,13 @@
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "ETH・SOL・HYPEをファストフードチェーンに例えると？　アークインベストがL1のビジネスモデルを分析",
-        "url": "https://coinpost.jp/?p=735613",
-        "published_at": "09/06 14:00",
-        "summary_for_post": "ETH・SOL・HYPEをファストフードチェーンに例えると？　アークインベストがL1のビジネスモデルを分析"
+        "title": "キャピタルB、46億円相当ビットコインを追加取得　1年ぶりの大型購入に",
+        "url": "https://coinpost.jp/?p=736068",
+        "published_at": "09/08 05:00",
+        "summary_for_post": "キャピタルB、46億円相当ビットコインを追加取得　1年ぶりの大型購入に"
       }
     ],
-    "post_text": "",
+    "post_text": "・日経平均：大幅続伸、半導体関連株を中心に買い優勢\n・海外：未取得\n・ドル円：NY外為：円買い一服、片山財務相発言受け、下値も限定的\n・クリプト(09/08)：キャピタルB、46億円相当ビットコインを追加取得　1年ぶりの大型購入に",
     "status": "ok"
   }
 }
