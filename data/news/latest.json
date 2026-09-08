@@ -1,31 +1,39 @@
 {
-  "generated_at": "2026-09-08T06:10:12+09:00",
+  "generated_at": "2026-09-09T06:10:11+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "大幅続伸、半導体関連株を中心に買い優勢",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202609071042",
-      "published_at": "2026-09-07T17:42:28+09:00",
-      "summary_for_post": "大幅続伸、半導体関連株を中心に買い優勢"
+      "title": "3日ぶり反落、中東リスクや円高で安値引け",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202609080924",
+      "published_at": "2026-09-08T18:00:56+09:00",
+      "summary_for_post": "3日ぶり反落、中東リスクや円高で安値引け"
+    },
+    {
+      "category": "overseas",
+      "source": "kabutan",
+      "title": "ダウ平均は大幅続落　中東情勢の混迷で原油高　米国とカナダの貿易摩擦も重し",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202609090049",
+      "published_at": "2026-09-09T05:32:00+09:00",
+      "summary_for_post": "ダウ平均は大幅続落　中東情勢の混迷で原油高　米国とカナダの貿易摩擦も重し"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：円買い一服、片山財務相発言受け、下値も限定的",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202609050014",
-      "published_at": "2026-09-05T01:18:00+09:00",
-      "summary_for_post": "NY外為：円買い一服、片山財務相発言受け、下値も限定的"
+      "title": "NY外為：ドル軟調、米3年債入札は順調",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202609090021",
+      "published_at": "2026-09-09T02:26:19+09:00",
+      "summary_for_post": "NY外為：ドル軟調、米3年債入札は順調"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "キャピタルB、46億円相当ビットコインを追加取得　1年ぶりの大型購入に",
-      "url": "https://coinpost.jp/?p=736068",
-      "published_at": "09/08 05:00",
-      "summary_for_post": "キャピタルB、46億円相当ビットコインを追加取得　1年ぶりの大型購入に"
+      "title": "ビットマイン、イーサリアム保有量約593万ETHに到達",
+      "url": "https://coinpost.jp/?p=736386",
+      "published_at": "09/09 05:40",
+      "summary_for_post": "ビットマイン、イーサリアム保有量約593万ETHに到達"
     }
   ],
-  "post_text": "・日経平均：大幅続伸、半導体関連株を中心に買い優勢\n・海外：未取得\n・ドル円：NY外為：円買い一服、片山財務相発言受け、下値も限定的\n・クリプト(09/08)：キャピタルB、46億円相当ビットコインを追加取得　1年ぶりの大型購入に",
+  "post_text": "・日経平均：3日ぶり反落、中東リスクや円高で安値引け\n・海外：ダウ平均は大幅続落　中東情勢の混迷で原油高　米国とカナダの貿易摩擦も重し\n・ドル円：NY外為：ドル軟調、米3年債入札は順調\n・クリプト(09/09)：ビットマイン、イーサリアム保有量約593万ETHに到達",
   "status": "ok"
 }
