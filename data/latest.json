@@ -128,42 +128,42 @@
     }
   ],
   "news": {
-    "generated_at": "2026-09-09T06:10:11+09:00",
+    "generated_at": "2026-09-10T06:10:19+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "3日ぶり反落、中東リスクや円高で安値引け",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609080924",
-        "published_at": "2026-09-08T18:00:56+09:00",
-        "summary_for_post": "3日ぶり反落、中東リスクや円高で安値引け"
+        "title": "続落、中東情勢悪化が意識され売り優勢",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609091019",
+        "published_at": "2026-09-09T17:59:37+09:00",
+        "summary_for_post": "続落、中東情勢悪化が意識され売り優勢"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は大幅続落　中東情勢の混迷で原油高　米国とカナダの貿易摩擦も重し",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609090049",
-        "published_at": "2026-09-09T05:32:00+09:00",
-        "summary_for_post": "ダウ平均は大幅続落　中東情勢の混迷で原油高　米国とカナダの貿易摩擦も重し"
+        "title": "ダウ平均は３日続落　米国債買い戻しプログラムに失望感も",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609100060",
+        "published_at": "2026-09-10T05:32:00+09:00",
+        "summary_for_post": "ダウ平均は３日続落　米国債買い戻しプログラムに失望感も"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル軟調、米3年債入札は順調",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609090021",
-        "published_at": "2026-09-09T02:26:19+09:00",
-        "summary_for_post": "NY外為：ドル軟調、米3年債入札は順調"
+        "title": "NY外為：ドル伸び悩む、米10年債入札は好調",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609100028",
+        "published_at": "2026-09-10T02:23:17+09:00",
+        "summary_for_post": "NY外為：ドル伸び悩む、米10年債入札は好調"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "ビットマイン、イーサリアム保有量約593万ETHに到達",
-        "url": "https://coinpost.jp/?p=736386",
-        "published_at": "09/09 05:40",
-        "summary_for_post": "ビットマイン、イーサリアム保有量約593万ETHに到達"
+        "title": "ストラテジー、ビットコイン柄ジョーダン即完売　決済は仮想通貨非対応",
+        "url": "https://coinpost.jp/?p=736534",
+        "published_at": "09/09 17:00",
+        "summary_for_post": "ストラテジー、ビットコイン柄ジョーダン即完売　決済は仮想通貨非対応"
       }
     ],
-    "post_text": "・日経平均：3日ぶり反落、中東リスクや円高で安値引け\n・海外：ダウ平均は大幅続落　中東情勢の混迷で原油高　米国とカナダの貿易摩擦も重し\n・ドル円：NY外為：ドル軟調、米3年債入札は順調\n・クリプト(09/09)：ビットマイン、イーサリアム保有量約593万ETHに到達",
+    "post_text": "・日経平均：続落、中東情勢悪化が意識され売り優勢\n・海外：ダウ平均は３日続落　米国債買い戻しプログラムに失望感も\n・ドル円：NY外為：ドル伸び悩む、米10年債入札は好調\n・クリプト(09/09)：ストラテジー、ビットコイン柄ジョーダン即完売　決済は仮想通貨非対応",
     "status": "ok"
   }
 }
