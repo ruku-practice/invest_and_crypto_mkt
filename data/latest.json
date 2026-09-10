@@ -128,42 +128,42 @@
     }
   ],
   "news": {
-    "generated_at": "2026-09-10T06:10:19+09:00",
+    "generated_at": "2026-09-11T06:10:14+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "続落、中東情勢悪化が意識され売り優勢",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609091019",
-        "published_at": "2026-09-09T17:59:37+09:00",
-        "summary_for_post": "続落、中東情勢悪化が意識され売り優勢"
+        "title": "3日ぶり反発、売り一巡後切り返し高値引け",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609100969",
+        "published_at": "2026-09-10T16:33:45+09:00",
+        "summary_for_post": "3日ぶり反発、売り一巡後切り返し高値引け"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は３日続落　米国債買い戻しプログラムに失望感も",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609100060",
-        "published_at": "2026-09-10T05:32:00+09:00",
-        "summary_for_post": "ダウ平均は３日続落　米国債買い戻しプログラムに失望感も"
+        "title": "ダウ平均は４日続落　米ＰＰＩにネガティブな反応　原油高も引き続き重し",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609110059",
+        "published_at": "2026-09-11T05:32:00+09:00",
+        "summary_for_post": "ダウ平均は４日続落　米ＰＰＩにネガティブな反応　原油高も引き続き重し"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル伸び悩む、米10年債入札は好調",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609100028",
-        "published_at": "2026-09-10T02:23:17+09:00",
-        "summary_for_post": "NY外為：ドル伸び悩む、米10年債入札は好調"
+        "title": "NY外為：ドル高止まり、米10年債利回りは2023年来の高水準、米財務省の長期債買戻し額51.9億ドルにとどまる",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609110037",
+        "published_at": "2026-09-11T03:30:36+09:00",
+        "summary_for_post": "NY外為：ドル高止まり、米10年債利回りは2023年来の高水準、米財務省の長期債買戻し額51.9億ドルにとどまる"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "ストラテジー、ビットコイン柄ジョーダン即完売　決済は仮想通貨非対応",
-        "url": "https://coinpost.jp/?p=736534",
-        "published_at": "09/09 17:00",
-        "summary_for_post": "ストラテジー、ビットコイン柄ジョーダン即完売　決済は仮想通貨非対応"
+        "title": "ビットコイン反発、現物より先物優勢　準備高は改善傾向＝アナリスト",
+        "url": "https://coinpost.jp/?p=736765",
+        "published_at": "09/10 17:29",
+        "summary_for_post": "ビットコイン反発、現物より先物優勢　準備高は改善傾向＝アナリスト"
       }
     ],
-    "post_text": "・日経平均：続落、中東情勢悪化が意識され売り優勢\n・海外：ダウ平均は３日続落　米国債買い戻しプログラムに失望感も\n・ドル円：NY外為：ドル伸び悩む、米10年債入札は好調\n・クリプト(09/09)：ストラテジー、ビットコイン柄ジョーダン即完売　決済は仮想通貨非対応",
+    "post_text": "・日経平均：3日ぶり反発、売り一巡後切り返し高値引け\n・海外：ダウ平均は４日続落　米ＰＰＩにネガティブな反応　原油高も引き続き重し\n・ドル円：NY外為：ドル高止まり、米10年債利回りは2023年来の高水準、米財務省の長期債買戻し額51.9億ドルにとどまる\n・クリプト(09/10)：ビットコイン反発、現物より先物優勢　準備高は改善傾向＝アナリスト",
     "status": "ok"
   }
 }
