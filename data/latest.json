@@ -128,42 +128,42 @@
     }
   ],
   "news": {
-    "generated_at": "2026-09-11T06:10:14+09:00",
+    "generated_at": "2026-09-12T06:10:16+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "3日ぶり反発、売り一巡後切り返し高値引け",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609100969",
-        "published_at": "2026-09-10T16:33:45+09:00",
-        "summary_for_post": "3日ぶり反発、売り一巡後切り返し高値引け"
+        "title": "大幅反落、原油高や利上げ懸念で売り優勢",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609110965",
+        "published_at": "2026-09-11T16:18:04+09:00",
+        "summary_for_post": "大幅反落、原油高や利上げ懸念で売り優勢"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は４日続落　米ＰＰＩにネガティブな反応　原油高も引き続き重し",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609110059",
-        "published_at": "2026-09-11T05:32:00+09:00",
-        "summary_for_post": "ダウ平均は４日続落　米ＰＰＩにネガティブな反応　原油高も引き続き重し"
+        "title": "ダウ平均は５日ぶり反発",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609120039",
+        "published_at": "2026-09-12T06:00:00+09:00",
+        "summary_for_post": "ダウ平均は５日ぶり反発"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル高止まり、米10年債利回りは2023年来の高水準、米財務省の長期債買戻し額51.9億ドルにとどまる",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609110037",
-        "published_at": "2026-09-11T03:30:36+09:00",
-        "summary_for_post": "NY外為：ドル高止まり、米10年債利回りは2023年来の高水準、米財務省の長期債買戻し額51.9億ドルにとどまる"
+        "title": "NY外為：ドル再び上昇、NY原油再び100ドル台に戻す、サウジが東西パイプライン停止、フーシ派の複数攻撃受け予防措置",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609120024",
+        "published_at": "2026-09-12T03:55:05+09:00",
+        "summary_for_post": "NY外為：ドル再び上昇、NY原油再び100ドル台に戻す、サウジが東西パイプライン停止、フーシ派の複数攻撃受け予防措置"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "ビットコイン反発、現物より先物優勢　準備高は改善傾向＝アナリスト",
-        "url": "https://coinpost.jp/?p=736765",
-        "published_at": "09/10 17:29",
-        "summary_for_post": "ビットコイン反発、現物より先物優勢　準備高は改善傾向＝アナリスト"
+        "title": "メタプラネットが香港子会社設立へ、ビットコイン資産運用体制を強化",
+        "url": "https://coinpost.jp/?p=737046",
+        "published_at": "09/12 05:00",
+        "summary_for_post": "メタプラネットが香港子会社設立へ、ビットコイン資産運用体制を強化"
       }
     ],
-    "post_text": "・日経平均：3日ぶり反発、売り一巡後切り返し高値引け\n・海外：ダウ平均は４日続落　米ＰＰＩにネガティブな反応　原油高も引き続き重し\n・ドル円：NY外為：ドル高止まり、米10年債利回りは2023年来の高水準、米財務省の長期債買戻し額51.9億ドルにとどまる\n・クリプト(09/10)：ビットコイン反発、現物より先物優勢　準備高は改善傾向＝アナリスト",
+    "post_text": "・日経平均：大幅反落、原油高や利上げ懸念で売り優勢\n・海外：ダウ平均は５日ぶり反発\n・ドル円：NY外為：ドル再び上昇、NY原油再び100ドル台に戻す、サウジが東西パイプライン停止、フーシ派の複数攻撃受け予防措置\n・クリプト(09/12)：メタプラネットが香港子会社設立へ、ビットコイン資産運用体制を強化",
     "status": "ok"
   }
 }
