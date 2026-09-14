@@ -128,23 +128,31 @@
     }
   ],
   "news": {
-    "generated_at": "2026-09-14T06:10:15+09:00",
+    "generated_at": "2026-09-15T06:10:11+09:00",
     "items": [
+      {
+        "category": "nikkei",
+        "source": "kabutan",
+        "title": "続落、AI・半導体関連の一角が売られる",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609140899",
+        "published_at": "2026-09-14T17:11:10+09:00",
+        "summary_for_post": "続落、AI・半導体関連の一角が売られる"
+      },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は５日ぶり反発",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609120039",
-        "published_at": "2026-09-12T06:00:00+09:00",
-        "summary_for_post": "ダウ平均は５日ぶり反発"
+        "title": "ダウ平均は反落　ＡＩ関連への売りでナスダックも軟調",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609150051",
+        "published_at": "2026-09-15T05:31:00+09:00",
+        "summary_for_post": "ダウ平均は反落　ＡＩ関連への売りでナスダックも軟調"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル再び上昇、NY原油再び100ドル台に戻す、サウジが東西パイプライン停止、フーシ派の複数攻撃受け予防措置",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609120024",
-        "published_at": "2026-09-12T03:55:05+09:00",
-        "summary_for_post": "NY外為：ドル再び上昇、NY原油再び100ドル台に戻す、サウジが東西パイプライン停止、フーシ派の複数攻撃受け予防措置"
+        "title": "NY外為：ドル買い後退、トランプ米大統領が米イラン軍事紛争長期化しないと言及、金利低下に転じる",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609150023",
+        "published_at": "2026-09-15T02:20:56+09:00",
+        "summary_for_post": "NY外為：ドル買い後退、トランプ米大統領が米イラン軍事紛争長期化しないと言及、金利低下に転じる"
       },
       {
         "category": "crypto",
@@ -155,7 +163,7 @@
         "summary_for_post": "ビットコインPPI上振れで1200万円割れ、FOMCと原油高が焦点"
       }
     ],
-    "post_text": "",
+    "post_text": "・日経平均：続落、AI・半導体関連の一角が売られる\n・海外：ダウ平均は反落　ＡＩ関連への売りでナスダックも軟調\n・ドル円：NY外為：ドル買い後退、トランプ米大統領が米イラン軍事紛争長期化しないと言及、金利低下に転じる\n・クリプト(09/13)：ビットコインPPI上振れで1200万円割れ、FOMCと原油高が焦点",
     "status": "ok"
   }
 }
