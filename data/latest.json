@@ -128,31 +128,31 @@
     }
   ],
   "news": {
-    "generated_at": "2026-09-15T06:10:11+09:00",
+    "generated_at": "2026-09-16T06:10:19+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "続落、AI・半導体関連の一角が売られる",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609140899",
-        "published_at": "2026-09-14T17:11:10+09:00",
-        "summary_for_post": "続落、AI・半導体関連の一角が売られる"
+        "title": "3日続落、金利上昇など警戒しマイナス圏で着地",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609151088",
+        "published_at": "2026-09-15T18:01:44+09:00",
+        "summary_for_post": "3日続落、金利上昇など警戒しマイナス圏で着地"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は反落　ＡＩ関連への売りでナスダックも軟調",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609150051",
-        "published_at": "2026-09-15T05:31:00+09:00",
-        "summary_for_post": "ダウ平均は反落　ＡＩ関連への売りでナスダックも軟調"
+        "title": "ダウ平均は続落　世界的な利回り上昇が焦点",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609160048",
+        "published_at": "2026-09-16T05:33:00+09:00",
+        "summary_for_post": "ダウ平均は続落　世界的な利回り上昇が焦点"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル買い後退、トランプ米大統領が米イラン軍事紛争長期化しないと言及、金利低下に転じる",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609150023",
-        "published_at": "2026-09-15T02:20:56+09:00",
-        "summary_for_post": "NY外為：ドル買い後退、トランプ米大統領が米イラン軍事紛争長期化しないと言及、金利低下に転じる"
+        "title": "NY為替：9月連邦公開市場委員会",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609160059",
+        "published_at": "2026-09-16T06:01:01+09:00",
+        "summary_for_post": "NY為替：9月連邦公開市場委員会"
       },
       {
         "category": "crypto",
@@ -163,7 +163,7 @@
         "summary_for_post": "ビットコインPPI上振れで1200万円割れ、FOMCと原油高が焦点"
       }
     ],
-    "post_text": "・日経平均：続落、AI・半導体関連の一角が売られる\n・海外：ダウ平均は反落　ＡＩ関連への売りでナスダックも軟調\n・ドル円：NY外為：ドル買い後退、トランプ米大統領が米イラン軍事紛争長期化しないと言及、金利低下に転じる\n・クリプト(09/13)：ビットコインPPI上振れで1200万円割れ、FOMCと原油高が焦点",
+    "post_text": "・日経平均：3日続落、金利上昇など警戒しマイナス圏で着地\n・海外：ダウ平均は続落　世界的な利回り上昇が焦点\n・ドル円：NY為替：9月連邦公開市場委員会\n・クリプト(09/13)：ビットコインPPI上振れで1200万円割れ、FOMCと原油高が焦点",
     "status": "ok"
   }
 }
