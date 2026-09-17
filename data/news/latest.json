@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-09-17T06:10:20+09:00",
+  "generated_at": "2026-09-18T06:10:19+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "4日ぶり反発、朝安も後半切り返し高値引け",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202609161039",
-      "published_at": "2026-09-16T18:10:20+09:00",
-      "summary_for_post": "4日ぶり反発、朝安も後半切り返し高値引け"
+      "title": "続伸、半導体失速もバリュー株が買われる",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202609170990",
+      "published_at": "2026-09-17T16:33:52+09:00",
+      "summary_for_post": "続伸、半導体失速もバリュー株が買われる"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は大幅安　ＦＯＭＣが想定以上にタカ派な印象",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202609170074",
-      "published_at": "2026-09-17T05:34:00+09:00",
-      "summary_for_post": "ダウ平均は大幅安　ＦＯＭＣが想定以上にタカ派な印象"
+      "title": "ダウ平均は反発　前日の反応は行き過ぎとの見方も",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202609180042",
+      "published_at": "2026-09-18T05:32:00+09:00",
+      "summary_for_post": "ダウ平均は反発　前日の反応は行き過ぎとの見方も"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル買い一服、FOMCの結果待ち",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202609170026",
-      "published_at": "2026-09-17T02:11:17+09:00",
-      "summary_for_post": "NY外為：ドル買い一服、FOMCの結果待ち"
+      "title": "NY外為：ドル買い再開、NY原油先物は再び101ドル台",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202609180005",
+      "published_at": "2026-09-18T00:16:48+09:00",
+      "summary_for_post": "NY外為：ドル買い再開、NY原油先物は再び101ドル台"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ドイツ銀行、ビットコイン・イーサリアムのカストディサービス開始へ",
-      "url": "https://coinpost.jp/?p=737858",
-      "published_at": "09/16 18:04",
-      "summary_for_post": "ドイツ銀行、ビットコイン・イーサリアムのカストディサービス開始へ"
+      "title": "レボリュート攻撃者、6000モネロ要求　当初の1万ビットコイン要求は否認",
+      "url": "https://coinpost.jp/?p=738095",
+      "published_at": "09/17 13:51",
+      "summary_for_post": "レボリュート攻撃者、6000モネロ要求　当初の1万ビットコイン要求は否認"
     }
   ],
-  "post_text": "・日経平均：4日ぶり反発、朝安も後半切り返し高値引け\n・海外：ダウ平均は大幅安　ＦＯＭＣが想定以上にタカ派な印象\n・ドル円：NY外為：ドル買い一服、FOMCの結果待ち\n・クリプト(09/16)：ドイツ銀行、ビットコイン・イーサリアムのカストディサービス開始へ",
+  "post_text": "・日経平均：続伸、半導体失速もバリュー株が買われる\n・海外：ダウ平均は反発　前日の反応は行き過ぎとの見方も\n・ドル円：NY外為：ドル買い再開、NY原油先物は再び101ドル台\n・クリプト(09/17)：レボリュート攻撃者、6000モネロ要求　当初の1万ビットコイン要求は否認",
   "status": "ok"
 }
