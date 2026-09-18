@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-09-18T06:10:19+09:00",
+  "generated_at": "2026-09-19T06:10:16+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "続伸、半導体失速もバリュー株が買われる",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202609170990",
-      "published_at": "2026-09-17T16:33:52+09:00",
-      "summary_for_post": "続伸、半導体失速もバリュー株が買われる"
+      "title": "3日続伸、米株高を受けAI・半導体関連が高い",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202609180925",
+      "published_at": "2026-09-18T16:24:32+09:00",
+      "summary_for_post": "3日続伸、米株高を受けAI・半導体関連が高い"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は反発　前日の反応は行き過ぎとの見方も",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202609180042",
-      "published_at": "2026-09-18T05:32:00+09:00",
-      "summary_for_post": "ダウ平均は反発　前日の反応は行き過ぎとの見方も"
+      "title": "ダウ平均は小反落　利回りが再び５％台へ　ただ楽観的",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202609190043",
+      "published_at": "2026-09-19T05:34:00+09:00",
+      "summary_for_post": "ダウ平均は小反落　利回りが再び５％台へ　ただ楽観的"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル買い再開、NY原油先物は再び101ドル台",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202609180005",
-      "published_at": "2026-09-18T00:16:48+09:00",
-      "summary_for_post": "NY外為：ドル買い再開、NY原油先物は再び101ドル台"
+      "title": "NY外為：円安値から急反発、当局による円安是正介入警戒感根強い",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202609190004",
+      "published_at": "2026-09-19T00:04:02+09:00",
+      "summary_for_post": "NY外為：円安値から急反発、当局による円安是正介入警戒感根強い"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "レボリュート攻撃者、6000モネロ要求　当初の1万ビットコイン要求は否認",
-      "url": "https://coinpost.jp/?p=738095",
-      "published_at": "09/17 13:51",
-      "summary_for_post": "レボリュート攻撃者、6000モネロ要求　当初の1万ビットコイン要求は否認"
+      "title": "ビットコインPPI上振れで1200万円割れ、FOMCと原油高が焦点",
+      "url": "https://coinpost.jp/?p=737000",
+      "published_at": "09/13 11:30",
+      "summary_for_post": "ビットコインPPI上振れで1200万円割れ、FOMCと原油高が焦点"
     }
   ],
-  "post_text": "・日経平均：続伸、半導体失速もバリュー株が買われる\n・海外：ダウ平均は反発　前日の反応は行き過ぎとの見方も\n・ドル円：NY外為：ドル買い再開、NY原油先物は再び101ドル台\n・クリプト(09/17)：レボリュート攻撃者、6000モネロ要求　当初の1万ビットコイン要求は否認",
+  "post_text": "・日経平均：3日続伸、米株高を受けAI・半導体関連が高い\n・海外：ダウ平均は小反落　利回りが再び５％台へ　ただ楽観的\n・ドル円：NY外為：円安値から急反発、当局による円安是正介入警戒感根強い\n・クリプト(09/13)：ビットコインPPI上振れで1200万円割れ、FOMCと原油高が焦点",
   "status": "ok"
 }
