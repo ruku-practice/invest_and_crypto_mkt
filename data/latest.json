@@ -128,16 +128,8 @@
     }
   ],
   "news": {
-    "generated_at": "2026-09-19T06:10:16+09:00",
+    "generated_at": "2026-09-20T06:10:15+09:00",
     "items": [
-      {
-        "category": "nikkei",
-        "source": "kabutan",
-        "title": "3日続伸、米株高を受けAI・半導体関連が高い",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609180925",
-        "published_at": "2026-09-18T16:24:32+09:00",
-        "summary_for_post": "3日続伸、米株高を受けAI・半導体関連が高い"
-      },
       {
         "category": "overseas",
         "source": "kabutan",
@@ -157,13 +149,13 @@
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "ビットコインPPI上振れで1200万円割れ、FOMCと原油高が焦点",
-        "url": "https://coinpost.jp/?p=737000",
-        "published_at": "09/13 11:30",
-        "summary_for_post": "ビットコインPPI上振れで1200万円割れ、FOMCと原油高が焦点"
+        "title": "ビットコイン急騰、8万ドル台回復　SEC・CFTCの制度整備を好感",
+        "url": "https://coinpost.jp/?p=738612",
+        "published_at": "09/19 11:05",
+        "summary_for_post": "ビットコイン急騰、8万ドル台回復　SEC・CFTCの制度整備を好感"
       }
     ],
-    "post_text": "・日経平均：3日続伸、米株高を受けAI・半導体関連が高い\n・海外：ダウ平均は小反落　利回りが再び５％台へ　ただ楽観的\n・ドル円：NY外為：円安値から急反発、当局による円安是正介入警戒感根強い\n・クリプト(09/13)：ビットコインPPI上振れで1200万円割れ、FOMCと原油高が焦点",
+    "post_text": "",
     "status": "ok"
   }
 }
