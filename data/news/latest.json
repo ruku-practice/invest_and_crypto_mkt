@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-09-25T06:10:17+09:00",
+  "generated_at": "2026-09-26T06:10:14+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "4日続伸、AI・半導体関連に資金流入",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202609241082",
-      "published_at": "2026-09-24T16:46:21+09:00",
-      "summary_for_post": "4日続伸、AI・半導体関連に資金流入"
+      "title": "5日続伸、半導体関連や銀行株が買われる",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202609251042",
+      "published_at": "2026-09-25T16:29:00+09:00",
+      "summary_for_post": "5日続伸、半導体関連や銀行株が買われる"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は続落　原油買い戻しでインフレ懸念が再燃",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202609250061",
-      "published_at": "2026-09-25T05:33:00+09:00",
-      "summary_for_post": "ダウ平均は続落　原油買い戻しでインフレ懸念が再燃"
+      "title": "ダウ平均は４日ぶりに反発　原油や利回り上昇が一服",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202609260045",
+      "published_at": "2026-09-26T05:31:00+09:00",
+      "summary_for_post": "ダウ平均は４日ぶりに反発　原油や利回り上昇が一服"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル買い強まる、米財務省の長期国債買戻し拡大規模は目標下回る",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202609250036",
-      "published_at": "2026-09-25T03:29:20+09:00",
-      "summary_for_post": "NY外為：ドル買い強まる、米財務省の長期国債買戻し拡大規模は目標下回る"
+      "title": "NY外為：円安値限定的との見方、日米財務相が電話会談で円の過小評価が問題と確認＝財務相",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202609260018",
+      "published_at": "2026-09-26T01:33:00+09:00",
+      "summary_for_post": "NY外為：円安値限定的との見方、日米財務相が電話会談で円の過小評価が問題と確認＝財務相"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ビットコイン実現利益は週約8060億円、過去の高値圏に及ばず＝グラスノード",
-      "url": "https://coinpost.jp/?p=739092",
-      "published_at": "09/24 17:12",
-      "summary_for_post": "ビットコイン実現利益は週約8060億円、過去の高値圏に及ばず＝グラスノード"
+      "title": "バイナンスの1日のビットコイン純流出、2023年以来最大＝アナリスト",
+      "url": "https://coinpost.jp/?p=739348",
+      "published_at": "09/25 15:57",
+      "summary_for_post": "バイナンスの1日のビットコイン純流出、2023年以来最大＝アナリスト"
     }
   ],
-  "post_text": "・日経平均：4日続伸、AI・半導体関連に資金流入\n・海外：ダウ平均は続落　原油買い戻しでインフレ懸念が再燃\n・ドル円：NY外為：ドル買い強まる、米財務省の長期国債買戻し拡大規模は目標下回る\n・クリプト(09/24)：ビットコイン実現利益は週約8060億円、過去の高値圏に及ばず＝グラスノード",
+  "post_text": "・日経平均：5日続伸、半導体関連や銀行株が買われる\n・海外：ダウ平均は４日ぶりに反発　原油や利回り上昇が一服\n・ドル円：NY外為：円安値限定的との見方、日米財務相が電話会談で円の過小評価が問題と確認＝財務相\n・クリプト(09/25)：バイナンスの1日のビットコイン純流出、2023年以来最大＝アナリスト",
   "status": "ok"
 }
