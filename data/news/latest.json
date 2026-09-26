@@ -1,14 +1,6 @@
 {
-  "generated_at": "2026-09-26T06:10:14+09:00",
+  "generated_at": "2026-09-27T06:10:15+09:00",
   "items": [
-    {
-      "category": "nikkei",
-      "source": "kabutan",
-      "title": "5日続伸、半導体関連や銀行株が買われる",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202609251042",
-      "published_at": "2026-09-25T16:29:00+09:00",
-      "summary_for_post": "5日続伸、半導体関連や銀行株が買われる"
-    },
     {
       "category": "overseas",
       "source": "kabutan",
@@ -28,12 +20,12 @@
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "バイナンスの1日のビットコイン純流出、2023年以来最大＝アナリスト",
-      "url": "https://coinpost.jp/?p=739348",
-      "published_at": "09/25 15:57",
-      "summary_for_post": "バイナンスの1日のビットコイン純流出、2023年以来最大＝アナリスト"
+      "title": "米ブロック社、AIエージェント決済規格「x402」にビットコイン・ライトニングを導入",
+      "url": "https://coinpost.jp/?p=739427",
+      "published_at": "09/26 11:05",
+      "summary_for_post": "米ブロック社、AIエージェント決済規格「x402」にビットコイン・ライトニングを導入"
     }
   ],
-  "post_text": "・日経平均：5日続伸、半導体関連や銀行株が買われる\n・海外：ダウ平均は４日ぶりに反発　原油や利回り上昇が一服\n・ドル円：NY外為：円安値限定的との見方、日米財務相が電話会談で円の過小評価が問題と確認＝財務相\n・クリプト(09/25)：バイナンスの1日のビットコイン純流出、2023年以来最大＝アナリスト",
+  "post_text": "",
   "status": "ok"
 }
