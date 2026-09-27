@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T06:00:55+09:00",
-  "display_date": "2026/09/27",
-  "display_time": "06:00",
+  "generated_at": "2026-09-28T06:01:10+09:00",
+  "display_date": "2026/09/28",
+  "display_time": "06:01",
   "source": "web-fetch",
   "markets": [
     {
@@ -57,11 +57,11 @@
       "name": "ドル円",
       "category": "fx",
       "currency": "JPY",
-      "price": 157.18499755859375,
+      "price": 157.1959991455078,
       "display_price": "¥157",
-      "change_rate": -1.0238629771139762,
+      "change_rate": -1.01693550572175,
       "display_change_rate": "-1.02%",
-      "price_date": "2026/09/26",
+      "price_date": "2026/09/27",
       "status": "ok"
     }
   ],
@@ -71,11 +71,11 @@
       "name": "BTC",
       "category": "crypto",
       "currency": "JPY",
-      "price": 13213458.0,
-      "display_price": "¥13,213,458",
-      "change_rate": 0.15899924676324353,
-      "display_change_rate": "+0.16%",
-      "price_date": "2026/09/27",
+      "price": 13291550.0,
+      "display_price": "¥13,291,550",
+      "change_rate": 0.5896661915755875,
+      "display_change_rate": "+0.59%",
+      "price_date": "2026/09/28",
       "status": "ok"
     },
     {
@@ -83,11 +83,11 @@
       "name": "ETH",
       "category": "crypto",
       "currency": "JPY",
-      "price": 420892.0,
-      "display_price": "¥420,892",
-      "change_rate": -0.30817082518164307,
-      "display_change_rate": "-0.31%",
-      "price_date": "2026/09/27",
+      "price": 422270.0,
+      "display_price": "¥422,270",
+      "change_rate": 0.33641316836063506,
+      "display_change_rate": "+0.34%",
+      "price_date": "2026/09/28",
       "status": "ok"
     },
     {
@@ -95,11 +95,11 @@
       "name": "SOL",
       "category": "crypto",
       "currency": "JPY",
-      "price": 18926.89,
-      "display_price": "¥18,927",
-      "change_rate": -1.0522791330246322,
-      "display_change_rate": "-1.05%",
-      "price_date": "2026/09/27",
+      "price": 19287.64,
+      "display_price": "¥19,288",
+      "change_rate": 1.9194646757188307,
+      "display_change_rate": "+1.92%",
+      "price_date": "2026/09/28",
       "status": "ok"
     },
     {
@@ -107,11 +107,11 @@
       "name": "GCHO",
       "category": "crypto",
       "currency": "JPY",
-      "price": 0.043486636553216614,
-      "display_price": "¥0.0435",
+      "price": 0.04428139748169944,
+      "display_price": "¥0.0443",
       "change_rate": null,
       "display_change_rate": "--",
-      "price_date": "2026/09/27",
+      "price_date": "2026/09/28",
       "status": "ok"
     },
     {
@@ -119,11 +119,11 @@
       "name": "1億BONSAI",
       "category": "crypto",
       "currency": "JPY",
-      "price": 153.72538258215087,
-      "display_price": "¥154",
-      "change_rate": 0.0,
-      "display_change_rate": "+0.00%",
-      "price_date": "2026/09/27",
+      "price": 156.8942164063665,
+      "display_price": "¥157",
+      "change_rate": 0.248,
+      "display_change_rate": "+0.25%",
+      "price_date": "2026/09/28",
       "status": "ok"
     }
   ],
