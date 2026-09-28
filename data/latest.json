@@ -128,34 +128,42 @@
     }
   ],
   "news": {
-    "generated_at": "2026-09-28T06:10:16+09:00",
+    "generated_at": "2026-09-29T06:10:15+09:00",
     "items": [
+      {
+        "category": "nikkei",
+        "source": "kabutan",
+        "title": "6日ぶり反落、朝高も利益確定売りで安値引け",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609280971",
+        "published_at": "2026-09-28T18:46:31+09:00",
+        "summary_for_post": "6日ぶり反落、朝高も利益確定売りで安値引け"
+      },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は４日ぶりに反発　原油や利回り上昇が一服",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609260045",
-        "published_at": "2026-09-26T05:31:00+09:00",
-        "summary_for_post": "ダウ平均は４日ぶりに反発　原油や利回り上昇が一服"
+        "title": "ダウ平均は反落　イラン情勢が依然不透明",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609290064",
+        "published_at": "2026-09-29T05:34:00+09:00",
+        "summary_for_post": "ダウ平均は反落　イラン情勢が依然不透明"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：円安値限定的との見方、日米財務相が電話会談で円の過小評価が問題と確認＝財務相",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609260018",
-        "published_at": "2026-09-26T01:33:00+09:00",
-        "summary_for_post": "NY外為：円安値限定的との見方、日米財務相が電話会談で円の過小評価が問題と確認＝財務相"
+        "title": "NY外為：ドル高値から反落、原油が一時下落に転じる、トランプ米大統領が対イラン制裁緩和の用意と中東メディアが報じる",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609290027",
+        "published_at": "2026-09-29T01:51:35+09:00",
+        "summary_for_post": "NY外為：ドル高値から反落、原油が一時下落に転じる、トランプ米大統領が対イラン制裁緩和の用意と中東メディアが報じる"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "米ブロック社、AIエージェント決済規格「x402」にビットコイン・ライトニングを導入",
-        "url": "https://coinpost.jp/?p=739427",
-        "published_at": "09/26 11:05",
-        "summary_for_post": "米ブロック社、AIエージェント決済規格「x402」にビットコイン・ライトニングを導入"
+        "title": "ビットマイン、イーサリアム保有数600万ETH突破",
+        "url": "https://coinpost.jp/?p=739662",
+        "published_at": "09/29 05:30",
+        "summary_for_post": "ビットマイン、イーサリアム保有数600万ETH突破"
       }
     ],
-    "post_text": "",
+    "post_text": "・日経平均：6日ぶり反落、朝高も利益確定売りで安値引け\n・海外：ダウ平均は反落　イラン情勢が依然不透明\n・ドル円：NY外為：ドル高値から反落、原油が一時下落に転じる、トランプ米大統領が対イラン制裁緩和の用意と中東メディアが報じる\n・クリプト(09/29)：ビットマイン、イーサリアム保有数600万ETH突破",
     "status": "ok"
   }
 }
