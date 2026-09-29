@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-09-29T06:10:15+09:00",
+  "generated_at": "2026-09-30T06:10:27+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "6日ぶり反落、朝高も利益確定売りで安値引け",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202609280971",
-      "published_at": "2026-09-28T18:46:31+09:00",
-      "summary_for_post": "6日ぶり反落、朝高も利益確定売りで安値引け"
+      "title": "続落、米株安や金利上昇で売り優勢",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202609291068",
+      "published_at": "2026-09-29T18:03:20+09:00",
+      "summary_for_post": "続落、米株安や金利上昇で売り優勢"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は反落　イラン情勢が依然不透明",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202609290064",
-      "published_at": "2026-09-29T05:34:00+09:00",
-      "summary_for_post": "ダウ平均は反落　イラン情勢が依然不透明"
+      "title": "ダウ平均は続落　本日も１０年債利回りは上昇",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202609300052",
+      "published_at": "2026-09-30T05:32:00+09:00",
+      "summary_for_post": "ダウ平均は続落　本日も１０年債利回りは上昇"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル高値から反落、原油が一時下落に転じる、トランプ米大統領が対イラン制裁緩和の用意と中東メディアが報じる",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202609290027",
-      "published_at": "2026-09-29T01:51:35+09:00",
-      "summary_for_post": "NY外為：ドル高値から反落、原油が一時下落に転じる、トランプ米大統領が対イラン制裁緩和の用意と中東メディアが報じる"
+      "title": "NY外為：ドル続伸、原油安も米国債相場は続落、10年債利回りは2007年以来の高水準",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202609300022",
+      "published_at": "2026-09-30T02:39:31+09:00",
+      "summary_for_post": "NY外為：ドル続伸、原油安も米国債相場は続落、10年債利回りは2007年以来の高水準"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ビットマイン、イーサリアム保有数600万ETH突破",
-      "url": "https://coinpost.jp/?p=739662",
-      "published_at": "09/29 05:30",
-      "summary_for_post": "ビットマイン、イーサリアム保有数600万ETH突破"
+      "title": "Bitcoin Japan、初のビットコイン購入完了　約12BTC",
+      "url": "https://coinpost.jp/?p=739940",
+      "published_at": "09/29 17:17",
+      "summary_for_post": "Bitcoin Japan、初のビットコイン購入完了　約12BTC"
     }
   ],
-  "post_text": "・日経平均：6日ぶり反落、朝高も利益確定売りで安値引け\n・海外：ダウ平均は反落　イラン情勢が依然不透明\n・ドル円：NY外為：ドル高値から反落、原油が一時下落に転じる、トランプ米大統領が対イラン制裁緩和の用意と中東メディアが報じる\n・クリプト(09/29)：ビットマイン、イーサリアム保有数600万ETH突破",
+  "post_text": "・日経平均：続落、米株安や金利上昇で売り優勢\n・海外：ダウ平均は続落　本日も１０年債利回りは上昇\n・ドル円：NY外為：ドル続伸、原油安も米国債相場は続落、10年債利回りは2007年以来の高水準\n・クリプト(09/29)：Bitcoin Japan、初のビットコイン購入完了　約12BTC",
   "status": "ok"
 }
