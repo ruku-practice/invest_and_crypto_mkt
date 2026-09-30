@@ -128,42 +128,42 @@
     }
   ],
   "news": {
-    "generated_at": "2026-09-30T06:10:27+09:00",
+    "generated_at": "2026-10-01T06:10:10+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "続落、米株安や金利上昇で売り優勢",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609291068",
-        "published_at": "2026-09-29T18:03:20+09:00",
-        "summary_for_post": "続落、米株安や金利上昇で売り優勢"
+        "title": "3日ぶり急反発、半導体関連株を中心に買い優勢",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202609301108",
+        "published_at": "2026-09-30T18:16:54+09:00",
+        "summary_for_post": "3日ぶり急反発、半導体関連株を中心に買い優勢"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は続落　本日も１０年債利回りは上昇",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609300052",
-        "published_at": "2026-09-30T05:32:00+09:00",
-        "summary_for_post": "ダウ平均は続落　本日も１０年債利回りは上昇"
+        "title": "ダウ平均は下落もナスダックは上昇　ＰＣＥ価格指数を受け１０月利上げ期待は後退",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202610010060",
+        "published_at": "2026-10-01T05:33:00+09:00",
+        "summary_for_post": "ダウ平均は下落もナスダックは上昇　ＰＣＥ価格指数を受け１０月利上げ期待は後退"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル続伸、原油安も米国債相場は続落、10年債利回りは2007年以来の高水準",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202609300022",
-        "published_at": "2026-09-30T02:39:31+09:00",
-        "summary_for_post": "NY外為：ドル続伸、原油安も米国債相場は続落、10年債利回りは2007年以来の高水準"
+        "title": "NY外為：ドル買い再開、米長期金利が再び上昇、原油高やインフレ高止まり観測根強く",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202610010006",
+        "published_at": "2026-10-01T00:32:41+09:00",
+        "summary_for_post": "NY外為：ドル買い再開、米長期金利が再び上昇、原油高やインフレ高止まり観測根強く"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "Bitcoin Japan、初のビットコイン購入完了　約12BTC",
-        "url": "https://coinpost.jp/?p=739940",
-        "published_at": "09/29 17:17",
-        "summary_for_post": "Bitcoin Japan、初のビットコイン購入完了　約12BTC"
+        "title": "zkマネー再開、イーサリアム送金に新たなプライバシー支払い手段",
+        "url": "https://coinpost.jp/?p=739964",
+        "published_at": "09/30 09:10",
+        "summary_for_post": "zkマネー再開、イーサリアム送金に新たなプライバシー支払い手段"
       }
     ],
-    "post_text": "・日経平均：続落、米株安や金利上昇で売り優勢\n・海外：ダウ平均は続落　本日も１０年債利回りは上昇\n・ドル円：NY外為：ドル続伸、原油安も米国債相場は続落、10年債利回りは2007年以来の高水準\n・クリプト(09/29)：Bitcoin Japan、初のビットコイン購入完了　約12BTC",
+    "post_text": "・日経平均：3日ぶり急反発、半導体関連株を中心に買い優勢\n・海外：ダウ平均は下落もナスダックは上昇　ＰＣＥ価格指数を受け１０月利上げ期待は後退\n・ドル円：NY外為：ドル買い再開、米長期金利が再び上昇、原油高やインフレ高止まり観測根強く\n・クリプト(09/30)：zkマネー再開、イーサリアム送金に新たなプライバシー支払い手段",
     "status": "ok"
   }
 }
