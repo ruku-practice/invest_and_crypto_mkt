@@ -128,42 +128,42 @@
     }
   ],
   "news": {
-    "generated_at": "2026-10-02T06:10:14+09:00",
+    "generated_at": "2026-10-03T06:10:13+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "続急伸、半導体関連が牽引し6万9000円台に迫る",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202610011009",
-        "published_at": "2026-10-01T16:30:31+09:00",
-        "summary_for_post": "続急伸、半導体関連が牽引し6万9000円台に迫る"
+        "title": "3日ぶり反落、高値警戒感から利益確定売りが優勢",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202610020940",
+        "published_at": "2026-10-02T16:25:09+09:00",
+        "summary_for_post": "3日ぶり反落、高値警戒感から利益確定売りが優勢"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は小幅高　第４四半期相場入り　買い先行も戻り売りに押される",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202610020050",
-        "published_at": "2026-10-02T05:39:00+09:00",
-        "summary_for_post": "ダウ平均は小幅高　第４四半期相場入り　買い先行も戻り売りに押される"
+        "title": "ダウ平均は続伸",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202610030035",
+        "published_at": "2026-10-03T05:52:00+09:00",
+        "summary_for_post": "ダウ平均は続伸"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル一段高、原油高で、トランプ米大統領は中間選挙後の対イラン攻撃激化の可能性も警告",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202610020033",
-        "published_at": "2026-10-02T03:46:21+09:00",
-        "summary_for_post": "NY外為：ドル一段高、原油高で、トランプ米大統領は中間選挙後の対イラン攻撃激化の可能性も警告"
+        "title": "NY外為：ドル戻り限定的、原油先高観が後退、G7原油とディ―ゼル燃料緊急備蓄放出決定",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202610030013",
+        "published_at": "2026-10-03T01:32:00+09:00",
+        "summary_for_post": "NY外為：ドル戻り限定的、原油先高観が後退、G7原油とディ―ゼル燃料緊急備蓄放出決定"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "シティ、ビットコイン価格目標を11.3万ドルへ上方修正──今後12カ月の見通し",
-        "url": "https://coinpost.jp/?p=740504",
-        "published_at": "10/02 05:00",
-        "summary_for_post": "シティ、ビットコイン価格目標を11.3万ドルへ上方修正──今後12カ月の見通し"
+        "title": "IMF、エルサルバドルに1.38億ドル　ビットコイン巡る基準未達を免除",
+        "url": "https://coinpost.jp/?p=740725",
+        "published_at": "10/02 16:11",
+        "summary_for_post": "IMF、エルサルバドルに1.38億ドル　ビットコイン巡る基準未達を免除"
       }
     ],
-    "post_text": "・日経平均：続急伸、半導体関連が牽引し6万9000円台に迫る\n・海外：ダウ平均は小幅高　第４四半期相場入り　買い先行も戻り売りに押される\n・ドル円：NY外為：ドル一段高、原油高で、トランプ米大統領は中間選挙後の対イラン攻撃激化の可能性も警告\n・クリプト(10/02)：シティ、ビットコイン価格目標を11.3万ドルへ上方修正──今後12カ月の見通し",
+    "post_text": "・日経平均：3日ぶり反落、高値警戒感から利益確定売りが優勢\n・海外：ダウ平均は続伸\n・ドル円：NY外為：ドル戻り限定的、原油先高観が後退、G7原油とディ―ゼル燃料緊急備蓄放出決定\n・クリプト(10/02)：IMF、エルサルバドルに1.38億ドル　ビットコイン巡る基準未達を免除",
     "status": "ok"
   }
 }
