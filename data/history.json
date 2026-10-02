@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T06:00:44+09:00",
+  "generated_at": "2026-10-03T06:00:49+09:00",
   "source": "web-fetch",
   "items": [
     {
@@ -4080,9 +4080,16 @@
         },
         {
           "date": "2026/10/01",
-          "value": 68986.96875,
-          "change_from_base_pct": 107.241,
-          "change_from_prev_pct": 3.3455,
+          "value": 68956.71875,
+          "change_from_base_pct": 107.1501,
+          "change_from_prev_pct": 3.3002,
+          "fetched_at": "06:00"
+        },
+        {
+          "date": "2026/10/02",
+          "value": 68190.140625,
+          "change_from_base_pct": 104.8472,
+          "change_from_prev_pct": -1.1117,
           "fetched_at": "06:00"
         }
       ]
@@ -8298,6 +8305,13 @@
           "change_from_base_pct": 35.0298,
           "change_from_prev_pct": 0.0403,
           "fetched_at": "06:00"
+        },
+        {
+          "date": "2026/10/02",
+          "value": 51176.9609375,
+          "change_from_base_pct": 35.6938,
+          "change_from_prev_pct": 0.4917,
+          "fetched_at": "06:00"
         }
       ]
     },
@@ -12512,6 +12526,13 @@
           "change_from_base_pct": 61.6429,
           "change_from_prev_pct": 0.1949,
           "fetched_at": "06:00"
+        },
+        {
+          "date": "2026/10/02",
+          "value": 7722.72021484375,
+          "change_from_base_pct": 62.8294,
+          "change_from_prev_pct": 0.734,
+          "fetched_at": "06:00"
         }
       ]
     },
@@ -16722,9 +16743,16 @@
         },
         {
           "date": "2026/10/01",
-          "value": 19104.771484375,
+          "value": 19104.76953125,
           "change_from_base_pct": 124.4905,
           "change_from_prev_pct": -0.0894,
+          "fetched_at": "06:00"
+        },
+        {
+          "date": "2026/10/02",
+          "value": 19211.63671875,
+          "change_from_base_pct": 125.7462,
+          "change_from_prev_pct": 0.5594,
           "fetched_at": "06:00"
         }
       ]
@@ -21124,9 +21152,16 @@
         },
         {
           "date": "2026/10/02",
-          "value": 158.1060028076172,
-          "change_from_base_pct": 12.1701,
-          "change_from_prev_pct": 0.3478,
+          "value": 157.927001953125,
+          "change_from_base_pct": 12.0431,
+          "change_from_prev_pct": 0.2342,
+          "fetched_at": "06:00"
+        },
+        {
+          "date": "2026/10/03",
+          "value": 157.8300018310547,
+          "change_from_base_pct": 11.9743,
+          "change_from_prev_pct": -0.0614,
           "fetched_at": "06:00"
         }
       ]
@@ -25595,16 +25630,23 @@
         },
         {
           "date": "2026/10/01",
-          "value": 13330475.126579762,
-          "change_from_base_pct": 114.1279,
-          "change_from_prev_pct": 1.3592,
+          "value": 13369284.862045884,
+          "change_from_base_pct": 114.7513,
+          "change_from_prev_pct": 1.6543,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/10/02",
-          "value": 13373265.0,
-          "change_from_base_pct": 114.8152,
-          "change_from_prev_pct": 1.5556,
+          "value": 13338165.418230057,
+          "change_from_base_pct": 114.2514,
+          "change_from_prev_pct": -0.2328,
+          "fetched_at": "06:00"
+        },
+        {
+          "date": "2026/10/03",
+          "value": 13326254.0,
+          "change_from_base_pct": 114.0601,
+          "change_from_prev_pct": -0.3582,
           "fetched_at": "06:00"
         }
       ]
@@ -30073,16 +30115,23 @@
         },
         {
           "date": "2026/10/01",
-          "value": 424949.69356492907,
-          "change_from_base_pct": 28.1647,
-          "change_from_prev_pct": 0.5984,
+          "value": 426279.0122459829,
+          "change_from_base_pct": 28.5656,
+          "change_from_prev_pct": 0.9131,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/10/02",
-          "value": 426457.0,
-          "change_from_base_pct": 28.6193,
-          "change_from_prev_pct": 1.0411,
+          "value": 420456.9690724611,
+          "change_from_base_pct": 26.8097,
+          "change_from_prev_pct": -1.3658,
+          "fetched_at": "06:00"
+        },
+        {
+          "date": "2026/10/03",
+          "value": 420130.0,
+          "change_from_base_pct": 26.7111,
+          "change_from_prev_pct": -1.4771,
           "fetched_at": "06:00"
         }
       ]
@@ -34551,16 +34600,23 @@
         },
         {
           "date": "2026/10/01",
-          "value": 18606.02348443726,
-          "change_from_base_pct": 20.5407,
-          "change_from_prev_pct": 0.1786,
+          "value": 18654.52469087206,
+          "change_from_base_pct": 20.8549,
+          "change_from_prev_pct": 0.4397,
           "fetched_at": "06:00"
         },
         {
           "date": "2026/10/02",
-          "value": 18670.7,
-          "change_from_base_pct": 20.9597,
-          "change_from_prev_pct": 0.4839,
+          "value": 18610.117331810296,
+          "change_from_base_pct": 20.5672,
+          "change_from_prev_pct": -0.2381,
+          "fetched_at": "06:00"
+        },
+        {
+          "date": "2026/10/03",
+          "value": 18594.41,
+          "change_from_base_pct": 20.4655,
+          "change_from_prev_pct": -0.4019,
           "fetched_at": "06:00"
         }
       ]
@@ -35223,6 +35279,13 @@
           "change_from_base_pct": 61.6745,
           "change_from_prev_pct": 0.4626,
           "fetched_at": "06:00"
+        },
+        {
+          "date": "2026/10/03",
+          "value": 0.043231856796530625,
+          "change_from_base_pct": 61.3923,
+          "change_from_prev_pct": -0.1746,
+          "fetched_at": "06:00"
         }
       ]
     },
@@ -35637,7 +35700,14 @@
           "date": "2026/10/02",
           "value": 208.2520443474073,
           "change_from_base_pct": 281.209,
-          "change_from_prev_pct": -6.597,
+          "change_from_prev_pct": -6.1648,
+          "fetched_at": "06:00"
+        },
+        {
+          "date": "2026/10/03",
+          "value": 191.4615882399017,
+          "change_from_base_pct": 250.4738,
+          "change_from_prev_pct": -7.978,
           "fetched_at": "06:00"
         }
       ]
