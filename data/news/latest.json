@@ -1,14 +1,6 @@
 {
-  "generated_at": "2026-10-03T06:10:13+09:00",
+  "generated_at": "2026-10-04T06:10:19+09:00",
   "items": [
-    {
-      "category": "nikkei",
-      "source": "kabutan",
-      "title": "3日ぶり反落、高値警戒感から利益確定売りが優勢",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610020940",
-      "published_at": "2026-10-02T16:25:09+09:00",
-      "summary_for_post": "3日ぶり反落、高値警戒感から利益確定売りが優勢"
-    },
     {
       "category": "overseas",
       "source": "kabutan",
@@ -28,12 +20,12 @@
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "IMF、エルサルバドルに1.38億ドル　ビットコイン巡る基準未達を免除",
-      "url": "https://coinpost.jp/?p=740725",
-      "published_at": "10/02 16:11",
-      "summary_for_post": "IMF、エルサルバドルに1.38億ドル　ビットコイン巡る基準未達を免除"
+      "title": "米SEC、ビットコインなど6資産の3倍レバレッジETFの上場を承認",
+      "url": "https://coinpost.jp/?p=740844",
+      "published_at": "10/03 11:10",
+      "summary_for_post": "米SEC、ビットコインなど6資産の3倍レバレッジETFの上場を承認"
     }
   ],
-  "post_text": "・日経平均：3日ぶり反落、高値警戒感から利益確定売りが優勢\n・海外：ダウ平均は続伸\n・ドル円：NY外為：ドル戻り限定的、原油先高観が後退、G7原油とディ―ゼル燃料緊急備蓄放出決定\n・クリプト(10/02)：IMF、エルサルバドルに1.38億ドル　ビットコイン巡る基準未達を免除",
+  "post_text": "",
   "status": "ok"
 }
