@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T06:00:51+09:00",
-  "display_date": "2026/10/04",
+  "generated_at": "2026-10-05T06:00:46+09:00",
+  "display_date": "2026/10/05",
   "display_time": "06:00",
   "source": "web-fetch",
   "markets": [
@@ -71,11 +71,11 @@
       "name": "BTC",
       "category": "crypto",
       "currency": "JPY",
-      "price": 13374466.0,
-      "display_price": "¥13,374,466",
-      "change_rate": 0.3553356467358207,
-      "display_change_rate": "+0.36%",
-      "price_date": "2026/10/04",
+      "price": 13537481.0,
+      "display_price": "¥13,537,481",
+      "change_rate": 1.221191811849784,
+      "display_change_rate": "+1.22%",
+      "price_date": "2026/10/05",
       "status": "ok"
     },
     {
@@ -83,11 +83,11 @@
       "name": "ETH",
       "category": "crypto",
       "currency": "JPY",
-      "price": 423989.0,
-      "display_price": "¥423,989",
-      "change_rate": 0.940259581175282,
-      "display_change_rate": "+0.94%",
-      "price_date": "2026/10/04",
+      "price": 426777.0,
+      "display_price": "¥426,777",
+      "change_rate": 0.6554404462158769,
+      "display_change_rate": "+0.66%",
+      "price_date": "2026/10/05",
       "status": "ok"
     },
     {
@@ -95,11 +95,11 @@
       "name": "SOL",
       "category": "crypto",
       "currency": "JPY",
-      "price": 18906.74,
-      "display_price": "¥18,907",
-      "change_rate": 1.6952515343790553,
-      "display_change_rate": "+1.70%",
-      "price_date": "2026/10/04",
+      "price": 19137.94,
+      "display_price": "¥19,138",
+      "change_rate": 1.208913002727001,
+      "display_change_rate": "+1.21%",
+      "price_date": "2026/10/05",
       "status": "ok"
     },
     {
@@ -111,7 +111,7 @@
       "display_price": "¥0.0437",
       "change_rate": null,
       "display_change_rate": "--",
-      "price_date": "2026/10/04",
+      "price_date": "2026/10/05",
       "status": "ok"
     },
     {
@@ -119,11 +119,11 @@
       "name": "1億BONSAI",
       "category": "crypto",
       "currency": "JPY",
-      "price": 190.81861794530028,
-      "display_price": "¥191",
-      "change_rate": -2.417,
-      "display_change_rate": "-2.42%",
-      "price_date": "2026/10/04",
+      "price": 189.74273720028177,
+      "display_price": "¥190",
+      "change_rate": -2.863,
+      "display_change_rate": "-2.86%",
+      "price_date": "2026/10/05",
       "status": "ok"
     }
   ],
