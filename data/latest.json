@@ -128,23 +128,31 @@
     }
   ],
   "news": {
-    "generated_at": "2026-10-05T06:10:19+09:00",
+    "generated_at": "2026-10-06T06:10:13+09:00",
     "items": [
+      {
+        "category": "nikkei",
+        "source": "kabutan",
+        "title": "急反発、半導体関連が買われ一時7万円台回復",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202610050958",
+        "published_at": "2026-10-05T18:13:06+09:00",
+        "summary_for_post": "急反発、半導体関連が買われ一時7万円台回復"
+      },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は続伸",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202610030035",
-        "published_at": "2026-10-03T05:52:00+09:00",
-        "summary_for_post": "ダウ平均は続伸"
+        "title": "ダウ平均はプラスで終える　利回りと原油にらみ",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202610060043",
+        "published_at": "2026-10-06T05:41:00+09:00",
+        "summary_for_post": "ダウ平均はプラスで終える　利回りと原油にらみ"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル戻り限定的、原油先高観が後退、G7原油とディ―ゼル燃料緊急備蓄放出決定",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202610030013",
-        "published_at": "2026-10-03T01:32:00+09:00",
-        "summary_for_post": "NY外為：ドル戻り限定的、原油先高観が後退、G7原油とディ―ゼル燃料緊急備蓄放出決定"
+        "title": "NY外為：ドル反発、米長期金利が上昇",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202610051056",
+        "published_at": "2026-10-05T22:45:24+09:00",
+        "summary_for_post": "NY外為：ドル反発、米長期金利が上昇"
       },
       {
         "category": "crypto",
@@ -155,7 +163,7 @@
         "summary_for_post": "ビットコイン、8万5000ドルが分岐点　雇用統計後の焦点は"
       }
     ],
-    "post_text": "",
+    "post_text": "・日経平均：急反発、半導体関連が買われ一時7万円台回復\n・海外：ダウ平均はプラスで終える　利回りと原油にらみ\n・ドル円：NY外為：ドル反発、米長期金利が上昇\n・クリプト(10/04)：ビットコイン、8万5000ドルが分岐点　雇用統計後の焦点は",
     "status": "ok"
   }
 }
