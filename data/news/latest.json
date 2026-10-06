@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-06T06:10:13+09:00",
+  "generated_at": "2026-10-07T06:10:21+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "急反発、半導体関連が買われ一時7万円台回復",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610050958",
-      "published_at": "2026-10-05T18:13:06+09:00",
-      "summary_for_post": "急反発、半導体関連が買われ一時7万円台回復"
+      "title": "大幅続伸、半導体関連が買われ7万円台回復",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610061041",
+      "published_at": "2026-10-06T18:14:51+09:00",
+      "summary_for_post": "大幅続伸、半導体関連が買われ7万円台回復"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均はプラスで終える　利回りと原油にらみ",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610060043",
-      "published_at": "2026-10-06T05:41:00+09:00",
-      "summary_for_post": "ダウ平均はプラスで終える　利回りと原油にらみ"
+      "title": "ダウ平均は４日続伸　本日は原油・利回りとも上げ一服",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610070052",
+      "published_at": "2026-10-07T05:34:00+09:00",
+      "summary_for_post": "ダウ平均は４日続伸　本日は原油・利回りとも上げ一服"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル反発、米長期金利が上昇",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610051056",
-      "published_at": "2026-10-05T22:45:24+09:00",
-      "summary_for_post": "NY外為：ドル反発、米長期金利が上昇"
+      "title": "NY外為：ドル下げ止まる、米3年債入札は不調、長期金利の低下は一段落",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610070025",
+      "published_at": "2026-10-07T02:45:54+09:00",
+      "summary_for_post": "NY外為：ドル下げ止まる、米3年債入札は不調、長期金利の低下は一段落"
     },
     {
       "category": "crypto",
@@ -34,6 +34,6 @@
       "summary_for_post": "ビットコイン、8万5000ドルが分岐点　雇用統計後の焦点は"
     }
   ],
-  "post_text": "・日経平均：急反発、半導体関連が買われ一時7万円台回復\n・海外：ダウ平均はプラスで終える　利回りと原油にらみ\n・ドル円：NY外為：ドル反発、米長期金利が上昇\n・クリプト(10/04)：ビットコイン、8万5000ドルが分岐点　雇用統計後の焦点は",
+  "post_text": "・日経平均：大幅続伸、半導体関連が買われ7万円台回復\n・海外：ダウ平均は４日続伸　本日は原油・利回りとも上げ一服\n・ドル円：NY外為：ドル下げ止まる、米3年債入札は不調、長期金利の低下は一段落\n・クリプト(10/04)：ビットコイン、8万5000ドルが分岐点　雇用統計後の焦点は",
   "status": "ok"
 }
