@@ -128,42 +128,42 @@
     }
   ],
   "news": {
-    "generated_at": "2026-10-08T06:10:16+09:00",
+    "generated_at": "2026-10-09T06:10:28+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "3日ぶり反落、半導体関連中心に利益確定売り",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202610070971",
-        "published_at": "2026-10-07T16:27:28+09:00",
-        "summary_for_post": "3日ぶり反落、半導体関連中心に利益確定売り"
+        "title": "続落、欧米株安を引き継ぎ安値引け",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202610080918",
+        "published_at": "2026-10-08T16:36:20+09:00",
+        "summary_for_post": "続落、欧米株安を引き継ぎ安値引け"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均、５日ぶりに反落　原油や利回りが依然重しに",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202610080051",
-        "published_at": "2026-10-08T05:32:00+09:00",
-        "summary_for_post": "ダウ平均、５日ぶりに反落　原油や利回りが依然重しに"
+        "title": "ダウ平均は横ばい　利回りが下げに転じる　オープンＡＩの報道にナスダックが大幅安",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202610090063",
+        "published_at": "2026-10-09T05:41:00+09:00",
+        "summary_for_post": "ダウ平均は横ばい　利回りが下げに転じる　オープンＡＩの報道にナスダックが大幅安"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドルは戻り鈍い、米9月FOMC議事要旨タカ派も原油価格が下落",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202610080032",
-        "published_at": "2026-10-08T03:32:51+09:00",
-        "summary_for_post": "NY外為：ドルは戻り鈍い、米9月FOMC議事要旨タカ派も原油価格が下落"
+        "title": "NY外為：ドル乱高下、原油相場に連れ、トランプ大統領発言で変動激しく",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202610090043",
+        "published_at": "2026-10-09T03:41:47+09:00",
+        "summary_for_post": "NY外為：ドル乱高下、原油相場に連れ、トランプ大統領発言で変動激しく"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "ロビンフッド、ビットコイン約39.5億円分を自社保有　慎重姿勢から転換か＝報道",
-        "url": "https://coinpost.jp/?p=741641",
-        "published_at": "10/07 17:52",
-        "summary_for_post": "ロビンフッド、ビットコイン約39.5億円分を自社保有　慎重姿勢から転換か＝報道"
+        "title": "米政府が1580億円相当ビットコインを移動、取引所入金は確認されず",
+        "url": "https://coinpost.jp/?p=741916",
+        "published_at": "10/09 05:50",
+        "summary_for_post": "米政府が1580億円相当ビットコインを移動、取引所入金は確認されず"
       }
     ],
-    "post_text": "・日経平均：3日ぶり反落、半導体関連中心に利益確定売り\n・海外：ダウ平均、５日ぶりに反落　原油や利回りが依然重しに\n・ドル円：NY外為：ドルは戻り鈍い、米9月FOMC議事要旨タカ派も原油価格が下落\n・クリプト(10/07)：ロビンフッド、ビットコイン約39.5億円分を自社保有　慎重姿勢から転換か＝報道",
+    "post_text": "・日経平均：続落、欧米株安を引き継ぎ安値引け\n・海外：ダウ平均は横ばい　利回りが下げに転じる　オープンＡＩの報道にナスダックが大幅安\n・ドル円：NY外為：ドル乱高下、原油相場に連れ、トランプ大統領発言で変動激しく\n・クリプト(10/09)：米政府が1580億円相当ビットコインを移動、取引所入金は確認されず",
     "status": "ok"
   }
 }
