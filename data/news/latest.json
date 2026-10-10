@@ -1,14 +1,6 @@
 {
-  "generated_at": "2026-10-10T06:10:16+09:00",
+  "generated_at": "2026-10-11T06:10:21+09:00",
   "items": [
-    {
-      "category": "nikkei",
-      "source": "kabutan",
-      "title": "3日続落、米ハイテク株安も後半下げ渋る",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610090921",
-      "published_at": "2026-10-09T16:38:29+09:00",
-      "summary_for_post": "3日続落、米ハイテク株安も後半下げ渋る"
-    },
     {
       "category": "overseas",
       "source": "kabutan",
@@ -28,12 +20,12 @@
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "サム・アルトマン氏出資のビットコイン生保、60億円相当調達　富裕層で需要増",
-      "url": "https://coinpost.jp/?p=742232",
-      "published_at": "10/10 05:00",
-      "summary_for_post": "サム・アルトマン氏出資のビットコイン生保、60億円相当調達　富裕層で需要増"
+      "title": "タイSEC、仮想通貨現物ETFを解禁　ビットコインとイーサリアムに限定",
+      "url": "https://coinpost.jp/?p=742267",
+      "published_at": "10/10 11:40",
+      "summary_for_post": "タイSEC、仮想通貨現物ETFを解禁　ビットコインとイーサリアムに限定"
     }
   ],
-  "post_text": "・日経平均：3日続落、米ハイテク株安も後半下げ渋る\n・海外：ダウ平均、ナスダックとも上昇　オープンＡＩへの懸念は一服\n・ドル円：NY外為：ドル買い再開、原油一段高に連れ、米東部のハリケーン勢力強める\n・クリプト(10/10)：サム・アルトマン氏出資のビットコイン生保、60億円相当調達　富裕層で需要増",
+  "post_text": "",
   "status": "ok"
 }
