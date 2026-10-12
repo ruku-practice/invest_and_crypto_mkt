@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-12T06:10:26+09:00",
+  "generated_at": "2026-10-13T06:10:15+09:00",
   "items": [
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均、ナスダックとも上昇　オープンＡＩへの懸念は一服",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610100050",
-      "published_at": "2026-10-10T05:32:00+09:00",
-      "summary_for_post": "ダウ平均、ナスダックとも上昇　オープンＡＩへの懸念は一服"
+      "title": "ダウ平均は３日続伸　ナスダックは下落　米大手銀を皮切りに本格化する決算やインフレ指標を見極め",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610130038",
+      "published_at": "2026-10-13T05:32:00+09:00",
+      "summary_for_post": "ダウ平均は３日続伸　ナスダックは下落　米大手銀を皮切りに本格化する決算やインフレ指標を見極め"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル買い再開、原油一段高に連れ、米東部のハリケーン勢力強める",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610100012",
-      "published_at": "2026-10-10T00:45:00+09:00",
-      "summary_for_post": "NY外為：ドル買い再開、原油一段高に連れ、米東部のハリケーン勢力強める"
+      "title": "NY外為：ドル一段高、ハマック米クリーブランド連銀総裁が利上げの必要性を再表明",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610130018",
+      "published_at": "2026-10-13T02:34:33+09:00",
+      "summary_for_post": "NY外為：ドル一段高、ハマック米クリーブランド連銀総裁が利上げの必要性を再表明"
     },
     {
       "category": "crypto",
@@ -26,6 +26,6 @@
       "summary_for_post": "ビットコイン原油高・中東緊迫化で1300万円割れも、CPIと8万ドル水準が焦点"
     }
   ],
-  "post_text": "",
+  "post_text": "・日経平均：未取得\n・海外：ダウ平均は３日続伸　ナスダックは下落　米大手銀を皮切りに本格化する決算やインフレ指標を見極め\n・ドル円：NY外為：ドル一段高、ハマック米クリーブランド連銀総裁が利上げの必要性を再表明\n・クリプト(10/11)：ビットコイン原油高・中東緊迫化で1300万円割れも、CPIと8万ドル水準が焦点",
   "status": "ok"
 }
