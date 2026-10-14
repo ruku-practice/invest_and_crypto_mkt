@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-10-14T06:10:15+09:00",
+  "generated_at": "2026-10-15T06:10:24+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "4日続落、半導体関連株を中心に売り優勢",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610131001",
-      "published_at": "2026-10-13T18:23:40+09:00",
-      "summary_for_post": "4日続落、半導体関連株を中心に売り優勢"
+      "title": "5日続落、半導体関連の一角が売られ終盤値を消す",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610141065",
+      "published_at": "2026-10-14T18:17:35+09:00",
+      "summary_for_post": "5日続落、半導体関連の一角が売られ終盤値を消す"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均、ナスダックとも下落　メモリー株の下げ目立つ　米大手銀の決算始まる",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610140049",
-      "published_at": "2026-10-14T05:32:00+09:00",
-      "summary_for_post": "ダウ平均、ナスダックとも下落　メモリー株の下げ目立つ　米大手銀の決算始まる"
+      "title": "ダウ平均は続落　ナスダックは大幅安　半導体のほか銀行株が下落",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610150071",
+      "published_at": "2026-10-15T05:36:00+09:00",
+      "summary_for_post": "ダウ平均は続落　ナスダックは大幅安　半導体のほか銀行株が下落"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル高値圏でもみ合い、NY原油先物は95ドルに接近",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610140028",
-      "published_at": "2026-10-14T02:54:21+09:00",
-      "summary_for_post": "NY外為：ドル高値圏でもみ合い、NY原油先物は95ドルに接近"
+      "title": "NY外為：ドル買い後退、米地区連銀経済報告は強弱まちまちな結果",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610150049",
+      "published_at": "2026-10-15T03:55:47+09:00",
+      "summary_for_post": "NY外為：ドル買い後退、米地区連銀経済報告は強弱まちまちな結果"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ビットコイン原油高・中東緊迫化で1300万円割れも、CPIと8万ドル水準が焦点",
-      "url": "https://coinpost.jp/?p=742141",
-      "published_at": "10/11 11:30",
-      "summary_for_post": "ビットコイン原油高・中東緊迫化で1300万円割れも、CPIと8万ドル水準が焦点"
+      "title": "米ストライブ、2日連続でビットコイン追加購入を発表　上場企業保有量で世界4位に",
+      "url": "https://coinpost.jp/?p=742947",
+      "published_at": "10/14 21:45",
+      "summary_for_post": "米ストライブ、2日連続でビットコイン追加購入を発表　上場企業保有量で世界4位に"
     }
   ],
-  "post_text": "・日経平均：4日続落、半導体関連株を中心に売り優勢\n・海外：ダウ平均、ナスダックとも下落　メモリー株の下げ目立つ　米大手銀の決算始まる\n・ドル円：NY外為：ドル高値圏でもみ合い、NY原油先物は95ドルに接近\n・クリプト(10/11)：ビットコイン原油高・中東緊迫化で1300万円割れも、CPIと8万ドル水準が焦点",
+  "post_text": "・日経平均：5日続落、半導体関連の一角が売られ終盤値を消す\n・海外：ダウ平均は続落　ナスダックは大幅安　半導体のほか銀行株が下落\n・ドル円：NY外為：ドル買い後退、米地区連銀経済報告は強弱まちまちな結果\n・クリプト(10/14)：米ストライブ、2日連続でビットコイン追加購入を発表　上場企業保有量で世界4位に",
   "status": "ok"
 }
