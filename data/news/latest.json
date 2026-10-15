@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-10-15T06:10:24+09:00",
+  "generated_at": "2026-10-16T06:10:25+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "5日続落、半導体関連の一角が売られ終盤値を消す",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610141065",
-      "published_at": "2026-10-14T18:17:35+09:00",
-      "summary_for_post": "5日続落、半導体関連の一角が売られ終盤値を消す"
+      "title": "6日続落、半導体関連が売られ3000円超安",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610150992",
+      "published_at": "2026-10-15T16:37:02+09:00",
+      "summary_for_post": "6日続落、半導体関連が売られ3000円超安"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は続落　ナスダックは大幅安　半導体のほか銀行株が下落",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610150071",
-      "published_at": "2026-10-15T05:36:00+09:00",
-      "summary_for_post": "ダウ平均は続落　ナスダックは大幅安　半導体のほか銀行株が下落"
+      "title": "ダウ平均は反発　ＡＩ関連企業の過剰投資への懸念も　ＰＰＩには反応薄",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610160058",
+      "published_at": "2026-10-16T05:33:00+09:00",
+      "summary_for_post": "ダウ平均は反発　ＡＩ関連企業の過剰投資への懸念も　ＰＰＩには反応薄"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル買い後退、米地区連銀経済報告は強弱まちまちな結果",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610150049",
-      "published_at": "2026-10-15T03:55:47+09:00",
-      "summary_for_post": "NY外為：ドル買い後退、米地区連銀経済報告は強弱まちまちな結果"
+      "title": "NY外為：ドル反落、安全資産の米国債買い、AIブーム巡る信用不安",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610160033",
+      "published_at": "2026-10-16T03:42:45+09:00",
+      "summary_for_post": "NY外為：ドル反落、安全資産の米国債買い、AIブーム巡る信用不安"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "米ストライブ、2日連続でビットコイン追加購入を発表　上場企業保有量で世界4位に",
-      "url": "https://coinpost.jp/?p=742947",
-      "published_at": "10/14 21:45",
-      "summary_for_post": "米ストライブ、2日連続でビットコイン追加購入を発表　上場企業保有量で世界4位に"
+      "title": "ビットコイン相場が膠着状態、8万ドルが重要な分岐点に＝Glassnode分析",
+      "url": "https://coinpost.jp/?p=743097",
+      "published_at": "10/15 14:30",
+      "summary_for_post": "ビットコイン相場が膠着状態、8万ドルが重要な分岐点に＝Glassnode分析"
     }
   ],
-  "post_text": "・日経平均：5日続落、半導体関連の一角が売られ終盤値を消す\n・海外：ダウ平均は続落　ナスダックは大幅安　半導体のほか銀行株が下落\n・ドル円：NY外為：ドル買い後退、米地区連銀経済報告は強弱まちまちな結果\n・クリプト(10/14)：米ストライブ、2日連続でビットコイン追加購入を発表　上場企業保有量で世界4位に",
+  "post_text": "・日経平均：6日続落、半導体関連が売られ3000円超安\n・海外：ダウ平均は反発　ＡＩ関連企業の過剰投資への懸念も　ＰＰＩには反応薄\n・ドル円：NY外為：ドル反落、安全資産の米国債買い、AIブーム巡る信用不安\n・クリプト(10/15)：ビットコイン相場が膠着状態、8万ドルが重要な分岐点に＝Glassnode分析",
   "status": "ok"
 }
