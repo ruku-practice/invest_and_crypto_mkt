@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-10-16T06:10:25+09:00",
+  "generated_at": "2026-10-17T06:10:26+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "6日続落、半導体関連が売られ3000円超安",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610150992",
-      "published_at": "2026-10-15T16:37:02+09:00",
-      "summary_for_post": "6日続落、半導体関連が売られ3000円超安"
+      "title": "7日ぶり反発、AI・半導体関連に買い戻し",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610160962",
+      "published_at": "2026-10-16T16:37:18+09:00",
+      "summary_for_post": "7日ぶり反発、AI・半導体関連に買い戻し"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は反発　ＡＩ関連企業の過剰投資への懸念も　ＰＰＩには反応薄",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610160058",
-      "published_at": "2026-10-16T05:33:00+09:00",
-      "summary_for_post": "ダウ平均は反発　ＡＩ関連企業の過剰投資への懸念も　ＰＰＩには反応薄"
+      "title": "ダウ平均終値は－０．３４%安の５２００２．４１ドル",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610170050",
+      "published_at": "2026-10-17T05:22:00+09:00",
+      "summary_for_post": "ダウ平均終値は－０．３４%安の５２００２．４１ドル"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル反落、安全資産の米国債買い、AIブーム巡る信用不安",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610160033",
-      "published_at": "2026-10-16T03:42:45+09:00",
-      "summary_for_post": "NY外為：ドル反落、安全資産の米国債買い、AIブーム巡る信用不安"
+      "title": "NY外為：ドル売り後退、NY原油一段高101ドル台、長期金利上昇",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610170037",
+      "published_at": "2026-10-17T03:51:30+09:00",
+      "summary_for_post": "NY外為：ドル売り後退、NY原油一段高101ドル台、長期金利上昇"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ビットコイン相場が膠着状態、8万ドルが重要な分岐点に＝Glassnode分析",
-      "url": "https://coinpost.jp/?p=743097",
-      "published_at": "10/15 14:30",
-      "summary_for_post": "ビットコイン相場が膠着状態、8万ドルが重要な分岐点に＝Glassnode分析"
+      "title": "2022年以来初、米国がビットコイン純輸入国に",
+      "url": "https://coinpost.jp/?p=743388",
+      "published_at": "10/17 05:00",
+      "summary_for_post": "2022年以来初、米国がビットコイン純輸入国に"
     }
   ],
-  "post_text": "・日経平均：6日続落、半導体関連が売られ3000円超安\n・海外：ダウ平均は反発　ＡＩ関連企業の過剰投資への懸念も　ＰＰＩには反応薄\n・ドル円：NY外為：ドル反落、安全資産の米国債買い、AIブーム巡る信用不安\n・クリプト(10/15)：ビットコイン相場が膠着状態、8万ドルが重要な分岐点に＝Glassnode分析",
+  "post_text": "・日経平均：7日ぶり反発、AI・半導体関連に買い戻し\n・海外：ダウ平均終値は－０．３４%安の５２００２．４１ドル\n・ドル円：NY外為：ドル売り後退、NY原油一段高101ドル台、長期金利上昇\n・クリプト(10/17)：2022年以来初、米国がビットコイン純輸入国に",
   "status": "ok"
 }
