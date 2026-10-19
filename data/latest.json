@@ -128,23 +128,31 @@
     }
   ],
   "news": {
-    "generated_at": "2026-10-19T06:10:14+09:00",
+    "generated_at": "2026-10-20T06:10:15+09:00",
     "items": [
+      {
+        "category": "nikkei",
+        "source": "kabutan",
+        "title": "反落、米ハイテク株安を受け半導体関連が軟調",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202610190900",
+        "published_at": "2026-10-19T18:10:21+09:00",
+        "summary_for_post": "反落、米ハイテク株安を受け半導体関連が軟調"
+      },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均終値は－０．３４%安の５２００２．４１ドル",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202610170050",
-        "published_at": "2026-10-17T05:22:00+09:00",
-        "summary_for_post": "ダウ平均終値は－０．３４%安の５２００２．４１ドル"
+        "title": "ダウ平均は小幅安もナスダックは大幅高　ＩＴ・ハイテク株に買戻し",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202610200061",
+        "published_at": "2026-10-20T05:32:00+09:00",
+        "summary_for_post": "ダウ平均は小幅安もナスダックは大幅高　ＩＴ・ハイテク株に買戻し"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル売り後退、NY原油一段高101ドル台、長期金利上昇",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202610170037",
-        "published_at": "2026-10-17T03:51:30+09:00",
-        "summary_for_post": "NY外為：ドル売り後退、NY原油一段高101ドル台、長期金利上昇"
+        "title": "NY外為：ドル続伸、米長期金利上昇、世界の債券相場下落に連れ、原油は反落",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202610200012",
+        "published_at": "2026-10-20T00:23:23+09:00",
+        "summary_for_post": "NY外為：ドル続伸、米長期金利上昇、世界の債券相場下落に連れ、原油は反落"
       },
       {
         "category": "crypto",
@@ -155,7 +163,7 @@
         "summary_for_post": "ビットコインCPI・PPI上振れも8万ドル維持、FOMC金利観測が焦点"
       }
     ],
-    "post_text": "",
+    "post_text": "・日経平均：反落、米ハイテク株安を受け半導体関連が軟調\n・海外：ダウ平均は小幅安もナスダックは大幅高　ＩＴ・ハイテク株に買戻し\n・ドル円：NY外為：ドル続伸、米長期金利上昇、世界の債券相場下落に連れ、原油は反落\n・クリプト(10/18)：ビットコインCPI・PPI上振れも8万ドル維持、FOMC金利観測が焦点",
     "status": "ok"
   }
 }
