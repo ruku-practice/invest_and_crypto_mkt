@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-20T06:10:15+09:00",
+  "generated_at": "2026-10-21T06:10:15+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "反落、米ハイテク株安を受け半導体関連が軟調",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610190900",
-      "published_at": "2026-10-19T18:10:21+09:00",
-      "summary_for_post": "反落、米ハイテク株安を受け半導体関連が軟調"
+      "title": "続落、AI・半導体関連中心に売り優勢",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610201006",
+      "published_at": "2026-10-20T18:11:13+09:00",
+      "summary_for_post": "続落、AI・半導体関連中心に売り優勢"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は小幅安もナスダックは大幅高　ＩＴ・ハイテク株に買戻し",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610200061",
-      "published_at": "2026-10-20T05:32:00+09:00",
-      "summary_for_post": "ダウ平均は小幅安もナスダックは大幅高　ＩＴ・ハイテク株に買戻し"
+      "title": "ダウ平均は大幅反発　米国とイランの協議に関する情報が錯そう",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610210065",
+      "published_at": "2026-10-21T05:32:00+09:00",
+      "summary_for_post": "ダウ平均は大幅反発　米国とイランの協議に関する情報が錯そう"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル続伸、米長期金利上昇、世界の債券相場下落に連れ、原油は反落",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610200012",
-      "published_at": "2026-10-20T00:23:23+09:00",
-      "summary_for_post": "NY外為：ドル続伸、米長期金利上昇、世界の債券相場下落に連れ、原油は反落"
+      "title": "NY外為：ドル売り後退、原油価格が下げ止まる、関係筋は米イラン合意に近いとの報道を否定",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610210010",
+      "published_at": "2026-10-21T00:29:38+09:00",
+      "summary_for_post": "NY外為：ドル売り後退、原油価格が下げ止まる、関係筋は米イラン合意に近いとの報道を否定"
     },
     {
       "category": "crypto",
@@ -34,6 +34,6 @@
       "summary_for_post": "ビットコインCPI・PPI上振れも8万ドル維持、FOMC金利観測が焦点"
     }
   ],
-  "post_text": "・日経平均：反落、米ハイテク株安を受け半導体関連が軟調\n・海外：ダウ平均は小幅安もナスダックは大幅高　ＩＴ・ハイテク株に買戻し\n・ドル円：NY外為：ドル続伸、米長期金利上昇、世界の債券相場下落に連れ、原油は反落\n・クリプト(10/18)：ビットコインCPI・PPI上振れも8万ドル維持、FOMC金利観測が焦点",
+  "post_text": "・日経平均：続落、AI・半導体関連中心に売り優勢\n・海外：ダウ平均は大幅反発　米国とイランの協議に関する情報が錯そう\n・ドル円：NY外為：ドル売り後退、原油価格が下げ止まる、関係筋は米イラン合意に近いとの報道を否定\n・クリプト(10/18)：ビットコインCPI・PPI上振れも8万ドル維持、FOMC金利観測が焦点",
   "status": "ok"
 }
