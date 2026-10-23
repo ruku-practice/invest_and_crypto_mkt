@@ -128,42 +128,42 @@
     }
   ],
   "news": {
-    "generated_at": "2026-10-23T06:10:24+09:00",
+    "generated_at": "2026-10-24T06:10:16+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "大幅反落、半導体関連が売られ6万3000円割れ",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202610221171",
-        "published_at": "2026-10-22T17:13:37+09:00",
-        "summary_for_post": "大幅反落、半導体関連が売られ6万3000円割れ"
+        "title": "続落、半導体関連に売り優勢も終盤下げ渋る",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202610230977",
+        "published_at": "2026-10-23T16:28:32+09:00",
+        "summary_for_post": "続落、半導体関連に売り優勢も終盤下げ渋る"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均が横ばい　ナスダックは２％超の大幅安　ＡＩ関連への警戒感が再び強まる",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202610230086",
-        "published_at": "2026-10-23T05:33:00+09:00",
-        "summary_for_post": "ダウ平均が横ばい　ナスダックは２％超の大幅安　ＡＩ関連への警戒感が再び強まる"
+        "title": "ダウ平均が大幅安　ＡＩ関連株の下げ一服も警戒感は根強い",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202610240047",
+        "published_at": "2026-10-24T05:33:00+09:00",
+        "summary_for_post": "ダウ平均が大幅安　ＡＩ関連株の下げ一服も警戒感は根強い"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ユーロ売り加速、対円では1年ぶり円高・ユーロ安、仏債利回りは2002年来の高水準でリスク高まる",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202610230028",
-        "published_at": "2026-10-23T02:31:00+09:00",
-        "summary_for_post": "NY外為：ユーロ売り加速、対円では1年ぶり円高・ユーロ安、仏債利回りは2002年来の高水準でリスク高まる"
+        "title": "NY外為：ドル・円一時157円台、ドル一段高、供給ひっ迫懸念に原油続伸",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202610240030",
+        "published_at": "2026-10-24T03:17:56+09:00",
+        "summary_for_post": "NY外為：ドル・円一時157円台、ドル一段高、供給ひっ迫懸念に原油続伸"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "ビットコイン短期クジラの含み益53％減、取引所に1万605BTC流入＝アナリスト",
-        "url": "https://coinpost.jp/?p=744219",
-        "published_at": "10/21 17:14",
-        "summary_for_post": "ビットコイン短期クジラの含み益53％減、取引所に1万605BTC流入＝アナリスト"
+        "title": "ビットコイン8万1000ドル台に下落、米メタ決算でAI株安",
+        "url": "https://coinpost.jp/?p=744436",
+        "published_at": "10/23 18:05",
+        "summary_for_post": "ビットコイン8万1000ドル台に下落、米メタ決算でAI株安"
       }
     ],
-    "post_text": "・日経平均：大幅反落、半導体関連が売られ6万3000円割れ\n・海外：ダウ平均が横ばい　ナスダックは２％超の大幅安　ＡＩ関連への警戒感が再び強まる\n・ドル円：NY外為：ユーロ売り加速、対円では1年ぶり円高・ユーロ安、仏債利回りは2002年来の高水準でリスク高まる\n・クリプト(10/21)：ビットコイン短期クジラの含み益53％減、取引所に1万605BTC流入＝アナリスト",
+    "post_text": "・日経平均：続落、半導体関連に売り優勢も終盤下げ渋る\n・海外：ダウ平均が大幅安　ＡＩ関連株の下げ一服も警戒感は根強い\n・ドル円：NY外為：ドル・円一時157円台、ドル一段高、供給ひっ迫懸念に原油続伸\n・クリプト(10/23)：ビットコイン8万1000ドル台に下落、米メタ決算でAI株安",
     "status": "ok"
   }
 }
