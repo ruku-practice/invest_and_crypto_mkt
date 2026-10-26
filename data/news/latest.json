@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-10-26T06:10:16+09:00",
+  "generated_at": "2026-10-27T06:10:16+09:00",
   "items": [
+    {
+      "category": "nikkei",
+      "source": "kabutan",
+      "title": "3日続落、AI・半導体株中心に売り優勢",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610260956",
+      "published_at": "2026-10-26T18:18:10+09:00",
+      "summary_for_post": "3日続落、AI・半導体株中心に売り優勢"
+    },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均が大幅安　ＡＩ関連株の下げ一服も警戒感は根強い",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610240047",
-      "published_at": "2026-10-24T05:33:00+09:00",
-      "summary_for_post": "ダウ平均が大幅安　ＡＩ関連株の下げ一服も警戒感は根強い"
+      "title": "ダウ平均が反発　ＡＩ関連株の下げ一服でナスダックも反発　アンソロピックが申請書類公開",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610270081",
+      "published_at": "2026-10-27T05:34:00+09:00",
+      "summary_for_post": "ダウ平均が反発　ＡＩ関連株の下げ一服でナスダックも反発　アンソロピックが申請書類公開"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル・円一時157円台、ドル一段高、供給ひっ迫懸念に原油続伸",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610240030",
-      "published_at": "2026-10-24T03:17:56+09:00",
-      "summary_for_post": "NY外為：ドル・円一時157円台、ドル一段高、供給ひっ迫懸念に原油続伸"
+      "title": "NY外為：ドル底堅い、米2年債入札は低調、長期金利は上昇",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610270030",
+      "published_at": "2026-10-27T03:08:14+09:00",
+      "summary_for_post": "NY外為：ドル底堅い、米2年債入札は低調、長期金利は上昇"
     },
     {
       "category": "crypto",
@@ -26,6 +34,6 @@
       "summary_for_post": "ビットコイン、8.5万ドル手前で失速　FOMCが最大の焦点"
     }
   ],
-  "post_text": "",
+  "post_text": "・日経平均：3日続落、AI・半導体株中心に売り優勢\n・海外：ダウ平均が反発　ＡＩ関連株の下げ一服でナスダックも反発　アンソロピックが申請書類公開\n・ドル円：NY外為：ドル底堅い、米2年債入札は低調、長期金利は上昇\n・クリプト(10/25)：ビットコイン、8.5万ドル手前で失速　FOMCが最大の焦点",
   "status": "ok"
 }
