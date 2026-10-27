@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-27T06:10:16+09:00",
+  "generated_at": "2026-10-28T06:10:17+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "3日続落、AI・半導体株中心に売り優勢",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610260956",
-      "published_at": "2026-10-26T18:18:10+09:00",
-      "summary_for_post": "3日続落、AI・半導体株中心に売り優勢"
+      "title": "4日ぶり反発、米アンソロピックのIPO申請を好感",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610271089",
+      "published_at": "2026-10-27T18:09:11+09:00",
+      "summary_for_post": "4日ぶり反発、米アンソロピックのIPO申請を好感"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均が反発　ＡＩ関連株の下げ一服でナスダックも反発　アンソロピックが申請書類公開",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610270081",
-      "published_at": "2026-10-27T05:34:00+09:00",
-      "summary_for_post": "ダウ平均が反発　ＡＩ関連株の下げ一服でナスダックも反発　アンソロピックが申請書類公開"
+      "title": "ダウ平均が小反発　ナスダックは大幅続伸　ＡＩ関連株への買い戻し続く",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610280101",
+      "published_at": "2026-10-28T05:31:00+09:00",
+      "summary_for_post": "ダウ平均が小反発　ナスダックは大幅続伸　ＡＩ関連株への買い戻し続く"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル底堅い、米2年債入札は低調、長期金利は上昇",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610270030",
-      "published_at": "2026-10-27T03:08:14+09:00",
-      "summary_for_post": "NY外為：ドル底堅い、米2年債入札は低調、長期金利は上昇"
+      "title": "NY外為：ドル高値圏、米5年債入札も冴えず",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610280031",
+      "published_at": "2026-10-28T02:26:48+09:00",
+      "summary_for_post": "NY外為：ドル高値圏、米5年債入札も冴えず"
     },
     {
       "category": "crypto",
@@ -34,6 +34,6 @@
       "summary_for_post": "ビットコイン、8.5万ドル手前で失速　FOMCが最大の焦点"
     }
   ],
-  "post_text": "・日経平均：3日続落、AI・半導体株中心に売り優勢\n・海外：ダウ平均が反発　ＡＩ関連株の下げ一服でナスダックも反発　アンソロピックが申請書類公開\n・ドル円：NY外為：ドル底堅い、米2年債入札は低調、長期金利は上昇\n・クリプト(10/25)：ビットコイン、8.5万ドル手前で失速　FOMCが最大の焦点",
+  "post_text": "・日経平均：4日ぶり反発、米アンソロピックのIPO申請を好感\n・海外：ダウ平均が小反発　ナスダックは大幅続伸　ＡＩ関連株への買い戻し続く\n・ドル円：NY外為：ドル高値圏、米5年債入札も冴えず\n・クリプト(10/25)：ビットコイン、8.5万ドル手前で失速　FOMCが最大の焦点",
   "status": "ok"
 }
