@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-10-28T06:10:17+09:00",
+  "generated_at": "2026-10-29T06:10:15+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "4日ぶり反発、米アンソロピックのIPO申請を好感",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610271089",
-      "published_at": "2026-10-27T18:09:11+09:00",
-      "summary_for_post": "4日ぶり反発、米アンソロピックのIPO申請を好感"
+      "title": "続伸、AI・半導体関連が引き続き買われる",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610281233",
+      "published_at": "2026-10-28T18:14:48+09:00",
+      "summary_for_post": "続伸、AI・半導体関連が引き続き買われる"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均が小反発　ナスダックは大幅続伸　ＡＩ関連株への買い戻し続く",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610280101",
-      "published_at": "2026-10-28T05:31:00+09:00",
-      "summary_for_post": "ダウ平均が小反発　ナスダックは大幅続伸　ＡＩ関連株への買い戻し続く"
+      "title": "ダウ平均は３日続伸　ナスダックは小幅高　ＦＯＭＣは無難に通過",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610290131",
+      "published_at": "2026-10-29T05:35:00+09:00",
+      "summary_for_post": "ダウ平均は３日続伸　ナスダックは小幅高　ＦＯＭＣは無難に通過"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル高値圏、米5年債入札も冴えず",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610280031",
-      "published_at": "2026-10-28T02:26:48+09:00",
-      "summary_for_post": "NY外為：ドル高値圏、米5年債入札も冴えず"
+      "title": "NY外為：ドルは高値圏でもみ合い、原油は反発、米中間選挙後の対イラン攻撃激化報道受け",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610290008",
+      "published_at": "2026-10-29T00:28:03+09:00",
+      "summary_for_post": "NY外為：ドルは高値圏でもみ合い、原油は反発、米中間選挙後の対イラン攻撃激化報道受け"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ビットコイン、8.5万ドル手前で失速　FOMCが最大の焦点",
-      "url": "https://coinpost.jp/?p=744399",
-      "published_at": "10/25 11:30",
-      "summary_for_post": "ビットコイン、8.5万ドル手前で失速　FOMCが最大の焦点"
+      "title": "日本ビットコイン産業、BTC現物出資で約8億円調達へ　ANAP系と提携",
+      "url": "https://coinpost.jp/?p=745233",
+      "published_at": "10/28 18:06",
+      "summary_for_post": "日本ビットコイン産業、BTC現物出資で約8億円調達へ　ANAP系と提携"
     }
   ],
-  "post_text": "・日経平均：4日ぶり反発、米アンソロピックのIPO申請を好感\n・海外：ダウ平均が小反発　ナスダックは大幅続伸　ＡＩ関連株への買い戻し続く\n・ドル円：NY外為：ドル高値圏、米5年債入札も冴えず\n・クリプト(10/25)：ビットコイン、8.5万ドル手前で失速　FOMCが最大の焦点",
+  "post_text": "・日経平均：続伸、AI・半導体関連が引き続き買われる\n・海外：ダウ平均は３日続伸　ナスダックは小幅高　ＦＯＭＣは無難に通過\n・ドル円：NY外為：ドルは高値圏でもみ合い、原油は反発、米中間選挙後の対イラン攻撃激化報道受け\n・クリプト(10/28)：日本ビットコイン産業、BTC現物出資で約8億円調達へ　ANAP系と提携",
   "status": "ok"
 }
