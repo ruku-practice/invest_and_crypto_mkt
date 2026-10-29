@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-10-29T06:10:15+09:00",
+  "generated_at": "2026-10-30T06:10:28+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "続伸、AI・半導体関連が引き続き買われる",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610281233",
-      "published_at": "2026-10-28T18:14:48+09:00",
-      "summary_for_post": "続伸、AI・半導体関連が引き続き買われる"
+      "title": "3日続伸、一時マイナス圏も後場切り返す",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610291161",
+      "published_at": "2026-10-29T16:47:17+09:00",
+      "summary_for_post": "3日続伸、一時マイナス圏も後場切り返す"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は３日続伸　ナスダックは小幅高　ＦＯＭＣは無難に通過",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610290131",
-      "published_at": "2026-10-29T05:35:00+09:00",
-      "summary_for_post": "ダウ平均は３日続伸　ナスダックは小幅高　ＦＯＭＣは無難に通過"
+      "title": "ダウ平均、ナスダックとも４日ぶり反落　アルファベットの決算に失望感強める",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610300150",
+      "published_at": "2026-10-30T05:35:00+09:00",
+      "summary_for_post": "ダウ平均、ナスダックとも４日ぶり反落　アルファベットの決算に失望感強める"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドルは高値圏でもみ合い、原油は反発、米中間選挙後の対イラン攻撃激化報道受け",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610290008",
-      "published_at": "2026-10-29T00:28:03+09:00",
-      "summary_for_post": "NY外為：ドルは高値圏でもみ合い、原油は反発、米中間選挙後の対イラン攻撃激化報道受け"
+      "title": "NY外為：ドル伸び悩む、米7年債入札は順調",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202610300027",
+      "published_at": "2026-10-30T03:07:40+09:00",
+      "summary_for_post": "NY外為：ドル伸び悩む、米7年債入札は順調"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "日本ビットコイン産業、BTC現物出資で約8億円調達へ　ANAP系と提携",
-      "url": "https://coinpost.jp/?p=745233",
-      "published_at": "10/28 18:06",
-      "summary_for_post": "日本ビットコイン産業、BTC現物出資で約8億円調達へ　ANAP系と提携"
+      "title": "ストラテジー、四半期営業利益が過去最大　ビットコインの含み利益計上",
+      "url": "https://coinpost.jp/?p=745461",
+      "published_at": "10/30 06:00",
+      "summary_for_post": "ストラテジー、四半期営業利益が過去最大　ビットコインの含み利益計上"
     }
   ],
-  "post_text": "・日経平均：続伸、AI・半導体関連が引き続き買われる\n・海外：ダウ平均は３日続伸　ナスダックは小幅高　ＦＯＭＣは無難に通過\n・ドル円：NY外為：ドルは高値圏でもみ合い、原油は反発、米中間選挙後の対イラン攻撃激化報道受け\n・クリプト(10/28)：日本ビットコイン産業、BTC現物出資で約8億円調達へ　ANAP系と提携",
+  "post_text": "・日経平均：3日続伸、一時マイナス圏も後場切り返す\n・海外：ダウ平均、ナスダックとも４日ぶり反落　アルファベットの決算に失望感強める\n・ドル円：NY外為：ドル伸び悩む、米7年債入札は順調\n・クリプト(10/30)：ストラテジー、四半期営業利益が過去最大　ビットコインの含み利益計上",
   "status": "ok"
 }
