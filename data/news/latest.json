@@ -1,14 +1,6 @@
 {
-  "generated_at": "2026-10-31T06:10:11+09:00",
+  "generated_at": "2026-11-01T06:10:12+09:00",
   "items": [
-    {
-      "category": "nikkei",
-      "source": "kabutan",
-      "title": "4日ぶり大幅反落、AI・半導体などに売り膨らむ",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610301226",
-      "published_at": "2026-10-30T16:39:13+09:00",
-      "summary_for_post": "4日ぶり大幅反落、AI・半導体などに売り膨らむ"
-    },
     {
       "category": "overseas",
       "source": "kabutan",
@@ -28,12 +20,12 @@
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ビットコインが冷却局面に、10月（アップトーバー）は4.2%安＝クリプトクアント",
-      "url": "https://coinpost.jp/?p=745506",
-      "published_at": "10/30 16:00",
-      "summary_for_post": "ビットコインが冷却局面に、10月（アップトーバー）は4.2%安＝クリプトクアント"
+      "title": "東証上場イオレ、保有151.21ビットコインを全量売却へ　AIデータセンター投資に充当",
+      "url": "https://coinpost.jp/?p=745770",
+      "published_at": "10/31 10:20",
+      "summary_for_post": "東証上場イオレ、保有151.21ビットコインを全量売却へ　AIデータセンター投資に充当"
     }
   ],
-  "post_text": "・日経平均：4日ぶり大幅反落、AI・半導体などに売り膨らむ\n・海外：ダウ平均、ナスダックとも大幅安　アマゾンとインテルの決算に失望\n・ドル円：NY外為：ドル・円200DMA割れ、円堅調、12月日銀利上げ織り込む\n・クリプト(10/30)：ビットコインが冷却局面に、10月（アップトーバー）は4.2%安＝クリプトクアント",
+  "post_text": "",
   "status": "ok"
 }
