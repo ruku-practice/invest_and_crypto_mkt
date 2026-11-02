@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-11-02T06:10:21+09:00",
+  "generated_at": "2026-11-03T06:10:14+09:00",
   "items": [
+    {
+      "category": "nikkei",
+      "source": "kabutan",
+      "title": "続落、キオクシア急落が相場の重荷に",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611021082",
+      "published_at": "2026-11-02T18:13:05+09:00",
+      "summary_for_post": "続落、キオクシア急落が相場の重荷に"
+    },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均、ナスダックとも大幅安　アマゾンとインテルの決算に失望",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610310064",
-      "published_at": "2026-10-31T05:35:00+09:00",
-      "summary_for_post": "ダウ平均、ナスダックとも大幅安　アマゾンとインテルの決算に失望"
+      "title": "ダウ平均、大幅反発　原油相場が大幅安　ＩＴ・ハイテク株も買い戻し＝米国株序盤",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611030008",
+      "published_at": "2026-11-03T00:11:00+09:00",
+      "summary_for_post": "ダウ平均、大幅反発　原油相場が大幅安　ＩＴ・ハイテク株も買い戻し＝米国株序盤"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル・円200DMA割れ、円堅調、12月日銀利上げ織り込む",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202610310014",
-      "published_at": "2026-10-31T01:37:00+09:00",
-      "summary_for_post": "NY外為：ドル・円200DMA割れ、円堅調、12月日銀利上げ織り込む"
+      "title": "NY外為：ドル安値圏、NY原油先物は続落、96ドル台",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611030034",
+      "published_at": "2026-11-03T02:00:22+09:00",
+      "summary_for_post": "NY外為：ドル安値圏、NY原油先物は続落、96ドル台"
     },
     {
       "category": "crypto",
@@ -26,6 +34,6 @@
       "summary_for_post": "ビットコイン、急落し1200万円台に　AI関連決算と雇用統計が焦点"
     }
   ],
-  "post_text": "",
+  "post_text": "・日経平均：続落、キオクシア急落が相場の重荷に\n・海外：ダウ平均、大幅反発　原油相場が大幅安　ＩＴ・ハイテク株も買い戻し＝米国株序盤\n・ドル円：NY外為：ドル安値圏、NY原油先物は続落、96ドル台\n・クリプト(11/01)：ビットコイン、急落し1200万円台に　AI関連決算と雇用統計が焦点",
   "status": "ok"
 }
