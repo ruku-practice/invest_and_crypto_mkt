@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-04T06:10:33+09:00",
+  "generated_at": "2026-11-05T06:10:13+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "続落、キオクシア急落が相場の重荷に",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202611021082",
-      "published_at": "2026-11-02T18:13:05+09:00",
-      "summary_for_post": "続落、キオクシア急落が相場の重荷に"
+      "title": "3日続落、AI・半導体関連中心に売り優勢",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611041275",
+      "published_at": "2026-11-04T18:09:14+09:00",
+      "summary_for_post": "3日続落、AI・半導体関連中心に売り優勢"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は反落の一方、ナスダックは反発　アップルが決算受け下落＝米国株序盤",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202611040007",
-      "published_at": "2026-11-04T00:20:00+09:00",
-      "summary_for_post": "ダウ平均は反落の一方、ナスダックは反発　アップルが決算受け下落＝米国株序盤"
+      "title": "ダウ平均は１０００ドル超急伸　ナスダックも２％超急伸　データセンター関連は下落＝米国株序盤",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611050012",
+      "published_at": "2026-11-05T00:22:00+09:00",
+      "summary_for_post": "ダウ平均は１０００ドル超急伸　ナスダックも２％超急伸　データセンター関連は下落＝米国株序盤"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：豪ドル続落、豪準備銀総裁は追加利上げを公約せず、利上げ6対3で決定後",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202611040018",
-      "published_at": "2026-11-04T01:52:58+09:00",
-      "summary_for_post": "NY外為：豪ドル続落、豪準備銀総裁は追加利上げを公約せず、利上げ6対3で決定後"
+      "title": "NY外為：カナダドル軟調、NY原油先物は1カ月ぶり安値",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611050045",
+      "published_at": "2026-11-05T03:35:38+09:00",
+      "summary_for_post": "NY外為：カナダドル軟調、NY原油先物は1カ月ぶり安値"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ビットコイン、急落し1200万円台に　AI関連決算と雇用統計が焦点",
-      "url": "https://coinpost.jp/?p=745685",
-      "published_at": "11/01 11:30",
-      "summary_for_post": "ビットコイン、急落し1200万円台に　AI関連決算と雇用統計が焦点"
+      "title": "民主党が圧勝で米議会を奪還、ビットコインは前日比1.2%上昇",
+      "url": "https://coinpost.jp/?p=746369",
+      "published_at": "11/04 22:00",
+      "summary_for_post": "民主党が圧勝で米議会を奪還、ビットコインは前日比1.2%上昇"
     }
   ],
-  "post_text": "・日経平均：続落、キオクシア急落が相場の重荷に\n・海外：ダウ平均は反落の一方、ナスダックは反発　アップルが決算受け下落＝米国株序盤\n・ドル円：NY外為：豪ドル続落、豪準備銀総裁は追加利上げを公約せず、利上げ6対3で決定後\n・クリプト(11/01)：ビットコイン、急落し1200万円台に　AI関連決算と雇用統計が焦点",
+  "post_text": "・日経平均：3日続落、AI・半導体関連中心に売り優勢\n・海外：ダウ平均は１０００ドル超急伸　ナスダックも２％超急伸　データセンター関連は下落＝米国株序盤\n・ドル円：NY外為：カナダドル軟調、NY原油先物は1カ月ぶり安値\n・クリプト(11/04)：民主党が圧勝で米議会を奪還、ビットコインは前日比1.2%上昇",
   "status": "ok"
 }
