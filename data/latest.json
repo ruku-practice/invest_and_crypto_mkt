@@ -128,42 +128,42 @@
     }
   ],
   "news": {
-    "generated_at": "2026-11-05T06:10:13+09:00",
+    "generated_at": "2026-11-06T06:10:12+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "3日続落、AI・半導体関連中心に売り優勢",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202611041275",
-        "published_at": "2026-11-04T18:09:14+09:00",
-        "summary_for_post": "3日続落、AI・半導体関連中心に売り優勢"
+        "title": "4日続落、AI・半導体関連が引き続き売られる",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202611051347",
+        "published_at": "2026-11-05T16:29:33+09:00",
+        "summary_for_post": "4日続落、AI・半導体関連が引き続き売られる"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は１０００ドル超急伸　ナスダックも２％超急伸　データセンター関連は下落＝米国株序盤",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202611050012",
-        "published_at": "2026-11-05T00:22:00+09:00",
-        "summary_for_post": "ダウ平均は１０００ドル超急伸　ナスダックも２％超急伸　データセンター関連は下落＝米国株序盤"
+        "title": "ダウ平均、前日の上げ帳消しに　半導体の急落が他にも波及＝米国株",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202611060095",
+        "published_at": "2026-11-06T03:17:00+09:00",
+        "summary_for_post": "ダウ平均、前日の上げ帳消しに　半導体の急落が他にも波及＝米国株"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：カナダドル軟調、NY原油先物は1カ月ぶり安値",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202611050045",
-        "published_at": "2026-11-05T03:35:38+09:00",
-        "summary_for_post": "NY外為：カナダドル軟調、NY原油先物は1カ月ぶり安値"
+        "title": "NY外為：ドル高値圏、米リッチモンド連銀総裁やクリーブランド連銀総裁は段階的な利上げ支持",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202611060057",
+        "published_at": "2026-11-06T01:31:14+09:00",
+        "summary_for_post": "NY外為：ドル高値圏、米リッチモンド連銀総裁やクリーブランド連銀総裁は段階的な利上げ支持"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "民主党が圧勝で米議会を奪還、ビットコインは前日比1.2%上昇",
-        "url": "https://coinpost.jp/?p=746369",
-        "published_at": "11/04 22:00",
-        "summary_for_post": "民主党が圧勝で米議会を奪還、ビットコインは前日比1.2%上昇"
+        "title": "ビットコイン急落、一時7.6万割れ　AI規制懸念で米ナスダック5％超安",
+        "url": "https://coinpost.jp/?p=746671",
+        "published_at": "11/06 05:55",
+        "summary_for_post": "ビットコイン急落、一時7.6万割れ　AI規制懸念で米ナスダック5％超安"
       }
     ],
-    "post_text": "・日経平均：3日続落、AI・半導体関連中心に売り優勢\n・海外：ダウ平均は１０００ドル超急伸　ナスダックも２％超急伸　データセンター関連は下落＝米国株序盤\n・ドル円：NY外為：カナダドル軟調、NY原油先物は1カ月ぶり安値\n・クリプト(11/04)：民主党が圧勝で米議会を奪還、ビットコインは前日比1.2%上昇",
+    "post_text": "・日経平均：4日続落、AI・半導体関連が引き続き売られる\n・海外：ダウ平均、前日の上げ帳消しに　半導体の急落が他にも波及＝米国株\n・ドル円：NY外為：ドル高値圏、米リッチモンド連銀総裁やクリーブランド連銀総裁は段階的な利上げ支持\n・クリプト(11/06)：ビットコイン急落、一時7.6万割れ　AI規制懸念で米ナスダック5％超安",
     "status": "ok"
   }
 }
