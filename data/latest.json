@@ -128,42 +128,42 @@
     }
   ],
   "news": {
-    "generated_at": "2026-11-06T06:10:12+09:00",
+    "generated_at": "2026-11-07T06:10:14+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "4日続落、AI・半導体関連が引き続き売られる",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202611051347",
-        "published_at": "2026-11-05T16:29:33+09:00",
-        "summary_for_post": "4日続落、AI・半導体関連が引き続き売られる"
+        "title": "5日続落、半導体関連中心に値を崩し6万円割れ",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202611061637",
+        "published_at": "2026-11-06T16:36:40+09:00",
+        "summary_for_post": "5日続落、半導体関連中心に値を崩し6万円割れ"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均、前日の上げ帳消しに　半導体の急落が他にも波及＝米国株",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202611060095",
-        "published_at": "2026-11-06T03:17:00+09:00",
-        "summary_for_post": "ダウ平均、前日の上げ帳消しに　半導体の急落が他にも波及＝米国株"
+        "title": "ダウ平均は下げ幅縮小　データセンター関連に買い戻し　米雇用統計への反応鈍い＝米国株序盤",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202611070017",
+        "published_at": "2026-11-07T00:39:00+09:00",
+        "summary_for_post": "ダウ平均は下げ幅縮小　データセンター関連に買い戻し　米雇用統計への反応鈍い＝米国株序盤"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル高値圏、米リッチモンド連銀総裁やクリーブランド連銀総裁は段階的な利上げ支持",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202611060057",
-        "published_at": "2026-11-06T01:31:14+09:00",
-        "summary_for_post": "NY外為：ドル高値圏、米リッチモンド連銀総裁やクリーブランド連銀総裁は段階的な利上げ支持"
+        "title": "NY外為：ドル伸び悩む、原油相場が軟調、米イラン外交進展期待",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202611070026",
+        "published_at": "2026-11-07T01:33:21+09:00",
+        "summary_for_post": "NY外為：ドル伸び悩む、原油相場が軟調、米イラン外交進展期待"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "ビットコイン急落、一時7.6万割れ　AI規制懸念で米ナスダック5％超安",
-        "url": "https://coinpost.jp/?p=746671",
-        "published_at": "11/06 05:55",
-        "summary_for_post": "ビットコイン急落、一時7.6万割れ　AI規制懸念で米ナスダック5％超安"
+        "title": "ビットコイン、米株と連動する時間が増加　長期指標が初のゼロ超え＝アナリスト",
+        "url": "https://coinpost.jp/?p=746854",
+        "published_at": "11/06 16:43",
+        "summary_for_post": "ビットコイン、米株と連動する時間が増加　長期指標が初のゼロ超え＝アナリスト"
       }
     ],
-    "post_text": "・日経平均：4日続落、AI・半導体関連が引き続き売られる\n・海外：ダウ平均、前日の上げ帳消しに　半導体の急落が他にも波及＝米国株\n・ドル円：NY外為：ドル高値圏、米リッチモンド連銀総裁やクリーブランド連銀総裁は段階的な利上げ支持\n・クリプト(11/06)：ビットコイン急落、一時7.6万割れ　AI規制懸念で米ナスダック5％超安",
+    "post_text": "・日経平均：5日続落、半導体関連中心に値を崩し6万円割れ\n・海外：ダウ平均は下げ幅縮小　データセンター関連に買い戻し　米雇用統計への反応鈍い＝米国株序盤\n・ドル円：NY外為：ドル伸び悩む、原油相場が軟調、米イラン外交進展期待\n・クリプト(11/06)：ビットコイン、米株と連動する時間が増加　長期指標が初のゼロ超え＝アナリスト",
     "status": "ok"
   }
 }
