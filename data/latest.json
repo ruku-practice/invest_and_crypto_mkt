@@ -128,23 +128,15 @@
     }
   ],
   "news": {
-    "generated_at": "2026-11-07T06:10:14+09:00",
+    "generated_at": "2026-11-08T06:10:23+09:00",
     "items": [
-      {
-        "category": "nikkei",
-        "source": "kabutan",
-        "title": "5日続落、半導体関連中心に値を崩し6万円割れ",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202611061637",
-        "published_at": "2026-11-06T16:36:40+09:00",
-        "summary_for_post": "5日続落、半導体関連中心に値を崩し6万円割れ"
-      },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は下げ幅縮小　データセンター関連に買い戻し　米雇用統計への反応鈍い＝米国株序盤",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202611070017",
-        "published_at": "2026-11-07T00:39:00+09:00",
-        "summary_for_post": "ダウ平均は下げ幅縮小　データセンター関連に買い戻し　米雇用統計への反応鈍い＝米国株序盤"
+        "title": "ダウ平均は続落　データセンター関連に買い戻し　米雇用統計への反応鈍い",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202611070088",
+        "published_at": "2026-11-07T06:30:00+09:00",
+        "summary_for_post": "ダウ平均は続落　データセンター関連に買い戻し　米雇用統計への反応鈍い"
       },
       {
         "category": "fx",
@@ -157,13 +149,13 @@
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "ビットコイン、米株と連動する時間が増加　長期指標が初のゼロ超え＝アナリスト",
-        "url": "https://coinpost.jp/?p=746854",
-        "published_at": "11/06 16:43",
-        "summary_for_post": "ビットコイン、米株と連動する時間が増加　長期指標が初のゼロ超え＝アナリスト"
+        "title": "テラウルフ決算　HPC事業拡大進み、BTC採掘収益は7割減",
+        "url": "https://coinpost.jp/?p=746987",
+        "published_at": "11/07 12:55",
+        "summary_for_post": "テラウルフ決算　HPC事業拡大進み、BTC採掘収益は7割減"
       }
     ],
-    "post_text": "・日経平均：5日続落、半導体関連中心に値を崩し6万円割れ\n・海外：ダウ平均は下げ幅縮小　データセンター関連に買い戻し　米雇用統計への反応鈍い＝米国株序盤\n・ドル円：NY外為：ドル伸び悩む、原油相場が軟調、米イラン外交進展期待\n・クリプト(11/06)：ビットコイン、米株と連動する時間が増加　長期指標が初のゼロ超え＝アナリスト",
+    "post_text": "",
     "status": "ok"
   }
 }
