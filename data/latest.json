@@ -128,42 +128,42 @@
     }
   ],
   "news": {
-    "generated_at": "2026-11-11T06:10:12+09:00",
+    "generated_at": "2026-11-12T06:10:20+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "大幅続伸、AI関連株が買い戻され6万円台回復",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202611101348",
-        "published_at": "2026-11-10T18:06:39+09:00",
-        "summary_for_post": "大幅続伸、AI関連株が買い戻され6万円台回復"
+        "title": "3連騰、AI関連中心にリバウンド局面が続く",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202611111325",
+        "published_at": "2026-11-11T18:15:09+09:00",
+        "summary_for_post": "3連騰、AI関連中心にリバウンド局面が続く"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は反落　ＩＴ・ハイテク株には買い戻しも　米ＣＰＩが予想上回る＝米国株序盤",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202611110010",
-        "published_at": "2026-11-11T00:15:00+09:00",
-        "summary_for_post": "ダウ平均は反落　ＩＴ・ハイテク株には買い戻しも　米ＣＰＩが予想上回る＝米国株序盤"
+        "title": "ダウ平均は下落もナスダックは大幅高　コアウィーブの決算に安心感＝米国株序盤",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202611120009",
+        "published_at": "2026-11-12T00:14:00+09:00",
+        "summary_for_post": "ダウ平均は下落もナスダックは大幅高　コアウィーブの決算に安心感＝米国株序盤"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル続伸、対円で158円台後半、米10年債入札は需要低調",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202611110041",
-        "published_at": "2026-11-11T03:18:33+09:00",
-        "summary_for_post": "NY外為：ドル続伸、対円で158円台後半、米10年債入札は需要低調"
+        "title": "NY外為：ドル・円、日米金利差拡大観測に159円台後半、心理的節目160円手前で伸び悩む、介入警戒感も再燃",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202611120040",
+        "published_at": "2026-11-12T03:46:06+09:00",
+        "summary_for_post": "NY外為：ドル・円、日米金利差拡大観測に159円台後半、心理的節目160円手前で伸び悩む、介入警戒感も再燃"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "ビットコイン、ハイテク株急落で1200万円台に軟化　AI規制議論とCPIが焦点",
-        "url": "https://coinpost.jp/?p=746873",
-        "published_at": "11/08 11:30",
-        "summary_for_post": "ビットコイン、ハイテク株急落で1200万円台に軟化　AI規制議論とCPIが焦点"
+        "title": "ドイツ銀行、法人・機関向け仮想通貨保管を開始、ビットコインなど5銘柄対応",
+        "url": "https://coinpost.jp/?p=747504",
+        "published_at": "11/11 21:34",
+        "summary_for_post": "ドイツ銀行、法人・機関向け仮想通貨保管を開始、ビットコインなど5銘柄対応"
       }
     ],
-    "post_text": "・日経平均：大幅続伸、AI関連株が買い戻され6万円台回復\n・海外：ダウ平均は反落　ＩＴ・ハイテク株には買い戻しも　米ＣＰＩが予想上回る＝米国株序盤\n・ドル円：NY外為：ドル続伸、対円で158円台後半、米10年債入札は需要低調\n・クリプト(11/08)：ビットコイン、ハイテク株急落で1200万円台に軟化　AI規制議論とCPIが焦点",
+    "post_text": "・日経平均：3連騰、AI関連中心にリバウンド局面が続く\n・海外：ダウ平均は下落もナスダックは大幅高　コアウィーブの決算に安心感＝米国株序盤\n・ドル円：NY外為：ドル・円、日米金利差拡大観測に159円台後半、心理的節目160円手前で伸び悩む、介入警戒感も再燃\n・クリプト(11/11)：ドイツ銀行、法人・機関向け仮想通貨保管を開始、ビットコインなど5銘柄対応",
     "status": "ok"
   }
 }
