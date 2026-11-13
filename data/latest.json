@@ -128,42 +128,34 @@
     }
   ],
   "news": {
-    "generated_at": "2026-11-13T06:10:23+09:00",
+    "generated_at": "2026-11-14T06:10:19+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "4日ぶり反落、エヌビディア不安で売り優勢",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202611121070",
-        "published_at": "2026-11-12T16:35:42+09:00",
-        "summary_for_post": "4日ぶり反落、エヌビディア不安で売り優勢"
-      },
-      {
-        "category": "overseas",
-        "source": "kabutan",
-        "title": "ダウ平均は小動き　ナスダックは下落　ファンＣＥＯが即時解任される＝米国株序盤",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202611130011",
-        "published_at": "2026-11-13T00:14:00+09:00",
-        "summary_for_post": "ダウ平均は小動き　ナスダックは下落　ファンＣＥＯが即時解任される＝米国株序盤"
+        "title": "反発、AI・半導体関連株などに買い戻し優勢",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202611131287",
+        "published_at": "2026-11-13T16:33:33+09:00",
+        "summary_for_post": "反発、AI・半導体関連株などに買い戻し優勢"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル買い継続、ドル・円159円台後半に回復、米30年債入札は低調",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202611130062",
-        "published_at": "2026-11-13T03:57:02+09:00",
-        "summary_for_post": "NY外為：ドル買い継続、ドル・円159円台後半に回復、米30年債入札は低調"
+        "title": "NY外為：円一段高、当局の円安是正介入警戒感がくすぶる",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202611140054",
+        "published_at": "2026-11-14T04:33:22+09:00",
+        "summary_for_post": "NY外為：円一段高、当局の円安是正介入警戒感がくすぶる"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "ビットコイン約12週間ぶり安値、7万1200ドルまで下落",
-        "url": "https://coinpost.jp/?p=747702",
-        "published_at": "11/13 05:55",
-        "summary_for_post": "ビットコイン約12週間ぶり安値、7万1200ドルまで下落"
+        "title": "米上場2社、AI株安のなかビットコイン採掘を中核事業と強調",
+        "url": "https://coinpost.jp/?p=747801",
+        "published_at": "11/13 13:05",
+        "summary_for_post": "米上場2社、AI株安のなかビットコイン採掘を中核事業と強調"
       }
     ],
-    "post_text": "・日経平均：4日ぶり反落、エヌビディア不安で売り優勢\n・海外：ダウ平均は小動き　ナスダックは下落　ファンＣＥＯが即時解任される＝米国株序盤\n・ドル円：NY外為：ドル買い継続、ドル・円159円台後半に回復、米30年債入札は低調\n・クリプト(11/13)：ビットコイン約12週間ぶり安値、7万1200ドルまで下落",
+    "post_text": "・日経平均：反発、AI・半導体関連株などに買い戻し優勢\n・海外：未取得\n・ドル円：NY外為：円一段高、当局の円安是正介入警戒感がくすぶる\n・クリプト(11/13)：米上場2社、AI株安のなかビットコイン採掘を中核事業と強調",
     "status": "ok"
   }
 }
