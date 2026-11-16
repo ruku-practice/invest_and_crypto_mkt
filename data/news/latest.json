@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-11-16T06:10:10+09:00",
+  "generated_at": "2026-11-17T06:10:17+09:00",
   "items": [
+    {
+      "category": "nikkei",
+      "source": "kabutan",
+      "title": "大幅反落、AI・半導体関連が売られ6万円割れ",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611161220",
+      "published_at": "2026-11-16T18:12:27+09:00",
+      "summary_for_post": "大幅反落、AI・半導体関連が売られ6万円割れ"
+    },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は小幅プラス圏、半導体関連などに売りが目立つ",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202611140156",
-      "published_at": "2026-11-14T07:09:00+09:00",
-      "summary_for_post": "ダウ平均は小幅プラス圏、半導体関連などに売りが目立つ"
+      "title": "ダウ平均が反落　ナスダックは大幅安　エヌビディア決算とアンソロピックの上場にリスク＝米国株序盤",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611170009",
+      "published_at": "2026-11-17T00:18:00+09:00",
+      "summary_for_post": "ダウ平均が反落　ナスダックは大幅安　エヌビディア決算とアンソロピックの上場にリスク＝米国株序盤"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：円一段高、当局の円安是正介入警戒感がくすぶる",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202611140054",
-      "published_at": "2026-11-14T04:33:22+09:00",
-      "summary_for_post": "NY外為：円一段高、当局の円安是正介入警戒感がくすぶる"
+      "title": "NY外為：ユーロ・ドルは心理的節目1.1ドル割り込む、ユーロ全面安",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611170048",
+      "published_at": "2026-11-17T03:38:39+09:00",
+      "summary_for_post": "NY外為：ユーロ・ドルは心理的節目1.1ドル割り込む、ユーロ全面安"
     },
     {
       "category": "crypto",
@@ -26,6 +34,6 @@
       "summary_for_post": "ビットコイン、200日線割れ1100万円台　エヌビディア決算とアンソロピックIPOが焦点"
     }
   ],
-  "post_text": "",
+  "post_text": "・日経平均：大幅反落、AI・半導体関連が売られ6万円割れ\n・海外：ダウ平均が反落　ナスダックは大幅安　エヌビディア決算とアンソロピックの上場にリスク＝米国株序盤\n・ドル円：NY外為：ユーロ・ドルは心理的節目1.1ドル割り込む、ユーロ全面安\n・クリプト(11/15)：ビットコイン、200日線割れ1100万円台　エヌビディア決算とアンソロピックIPOが焦点",
   "status": "ok"
 }
