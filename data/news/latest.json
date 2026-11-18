@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-18T06:10:12+09:00",
+  "generated_at": "2026-11-19T06:10:13+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "大幅続落、半導体株中心にリスク回避の売り継続",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202611171305",
-      "published_at": "2026-11-17T18:22:34+09:00",
-      "summary_for_post": "大幅続落、半導体株中心にリスク回避の売り継続"
+      "title": "3日ぶり反発、AI・半導体関連に買い戻し",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611181161",
+      "published_at": "2026-11-18T18:07:13+09:00",
+      "summary_for_post": "3日ぶり反発、AI・半導体関連に買い戻し"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は下落して始まる　３２６ドル安　ナスダックは横ばい＝米国株オープン",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202611171409",
-      "published_at": "2026-11-17T23:32:00+09:00",
-      "summary_for_post": "ダウ平均は下落して始まる　３２６ドル安　ナスダックは横ばい＝米国株オープン"
+      "title": "ダウ平均は続落　勢い維持できず　エヌビディアも下げに転じる＝米国株序盤",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611190015",
+      "published_at": "2026-11-19T00:23:00+09:00",
+      "summary_for_post": "ダウ平均は続落　勢い維持できず　エヌビディアも下げに転じる＝米国株序盤"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル安値、安全資産や通貨買い続く、ムサレム米セントルイス連銀総裁は春までの1％利上げ必要と主張",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202611180054",
-      "published_at": "2026-11-18T03:53:14+09:00",
-      "summary_for_post": "NY外為：ドル安値、安全資産や通貨買い続く、ムサレム米セントルイス連銀総裁は春までの1％利上げ必要と主張"
+      "title": "NY外為：ドルは堅調、米20年債入札は冴えず",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611190047",
+      "published_at": "2026-11-19T03:28:49+09:00",
+      "summary_for_post": "NY外為：ドルは堅調、米20年債入札は冴えず"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ビットコイン、200日線割れ1100万円台　エヌビディア決算とアンソロピックIPOが焦点",
-      "url": "https://coinpost.jp/?p=747846",
-      "published_at": "11/15 11:30",
-      "summary_for_post": "ビットコイン、200日線割れ1100万円台　エヌビディア決算とアンソロピックIPOが焦点"
+      "title": "MARA、決算後も約1714BTC売却か＝オンチェーン分析",
+      "url": "https://coinpost.jp/?p=748597",
+      "published_at": "11/18 17:11",
+      "summary_for_post": "MARA、決算後も約1714BTC売却か＝オンチェーン分析"
     }
   ],
-  "post_text": "・日経平均：大幅続落、半導体株中心にリスク回避の売り継続\n・海外：ダウ平均は下落して始まる　３２６ドル安　ナスダックは横ばい＝米国株オープン\n・ドル円：NY外為：ドル安値、安全資産や通貨買い続く、ムサレム米セントルイス連銀総裁は春までの1％利上げ必要と主張\n・クリプト(11/15)：ビットコイン、200日線割れ1100万円台　エヌビディア決算とアンソロピックIPOが焦点",
+  "post_text": "・日経平均：3日ぶり反発、AI・半導体関連に買い戻し\n・海外：ダウ平均は続落　勢い維持できず　エヌビディアも下げに転じる＝米国株序盤\n・ドル円：NY外為：ドルは堅調、米20年債入札は冴えず\n・クリプト(11/18)：MARA、決算後も約1714BTC売却か＝オンチェーン分析",
   "status": "ok"
 }
