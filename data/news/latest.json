@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-19T06:10:13+09:00",
+  "generated_at": "2026-11-20T06:10:17+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "3日ぶり反発、AI・半導体関連に買い戻し",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202611181161",
-      "published_at": "2026-11-18T18:07:13+09:00",
-      "summary_for_post": "3日ぶり反発、AI・半導体関連に買い戻し"
+      "title": "続伸、AI・半導体関連の一角が買われる",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611191083",
+      "published_at": "2026-11-19T16:29:26+09:00",
+      "summary_for_post": "続伸、AI・半導体関連の一角が買われる"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均は続落　勢い維持できず　エヌビディアも下げに転じる＝米国株序盤",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202611190015",
-      "published_at": "2026-11-19T00:23:00+09:00",
-      "summary_for_post": "ダウ平均は続落　勢い維持できず　エヌビディアも下げに転じる＝米国株序盤"
+      "title": "ダウ平均は反落の一方、ナスダックはプラス圏　アンソロピックが上場＝米国株序盤",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611200025",
+      "published_at": "2026-11-20T00:31:00+09:00",
+      "summary_for_post": "ダウ平均は反落の一方、ナスダックはプラス圏　アンソロピックが上場＝米国株序盤"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドルは堅調、米20年債入札は冴えず",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202611190047",
-      "published_at": "2026-11-19T03:28:49+09:00",
-      "summary_for_post": "NY外為：ドルは堅調、米20年債入札は冴えず"
+      "title": "NY外為：ドル・円心理的節目160円手前から反落、当局の円安是正介入警戒感",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611200051",
+      "published_at": "2026-11-20T01:55:00+09:00",
+      "summary_for_post": "NY外為：ドル・円心理的節目160円手前から反落、当局の円安是正介入警戒感"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "MARA、決算後も約1714BTC売却か＝オンチェーン分析",
-      "url": "https://coinpost.jp/?p=748597",
-      "published_at": "11/18 17:11",
-      "summary_for_post": "MARA、決算後も約1714BTC売却か＝オンチェーン分析"
+      "title": "ビットコイン裁定取引の利回り、27年は米国債超えへ　スイス仮想通貨銀行が予測",
+      "url": "https://coinpost.jp/?p=748752",
+      "published_at": "11/19 21:00",
+      "summary_for_post": "ビットコイン裁定取引の利回り、27年は米国債超えへ　スイス仮想通貨銀行が予測"
     }
   ],
-  "post_text": "・日経平均：3日ぶり反発、AI・半導体関連に買い戻し\n・海外：ダウ平均は続落　勢い維持できず　エヌビディアも下げに転じる＝米国株序盤\n・ドル円：NY外為：ドルは堅調、米20年債入札は冴えず\n・クリプト(11/18)：MARA、決算後も約1714BTC売却か＝オンチェーン分析",
+  "post_text": "・日経平均：続伸、AI・半導体関連の一角が買われる\n・海外：ダウ平均は反落の一方、ナスダックはプラス圏　アンソロピックが上場＝米国株序盤\n・ドル円：NY外為：ドル・円心理的節目160円手前から反落、当局の円安是正介入警戒感\n・クリプト(11/19)：ビットコイン裁定取引の利回り、27年は米国債超えへ　スイス仮想通貨銀行が予測",
   "status": "ok"
 }
