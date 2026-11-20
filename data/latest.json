@@ -128,42 +128,42 @@
     }
   ],
   "news": {
-    "generated_at": "2026-11-20T06:10:17+09:00",
+    "generated_at": "2026-11-21T06:10:10+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "続伸、AI・半導体関連の一角が買われる",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202611191083",
-        "published_at": "2026-11-19T16:29:26+09:00",
-        "summary_for_post": "続伸、AI・半導体関連の一角が買われる"
+        "title": "3日ぶり急反落、ハイテク株中心に全面安",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202611201373",
+        "published_at": "2026-11-20T17:09:21+09:00",
+        "summary_for_post": "3日ぶり急反落、ハイテク株中心に全面安"
       },
       {
         "category": "overseas",
         "source": "kabutan",
-        "title": "ダウ平均は反落の一方、ナスダックはプラス圏　アンソロピックが上場＝米国株序盤",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202611200025",
-        "published_at": "2026-11-20T00:31:00+09:00",
-        "summary_for_post": "ダウ平均は反落の一方、ナスダックはプラス圏　アンソロピックが上場＝米国株序盤"
+        "title": "ダウ平均が再び下げに転じる＝米国株速報",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202611210037",
+        "published_at": "2026-11-21T01:38:00+09:00",
+        "summary_for_post": "ダウ平均が再び下げに転じる＝米国株速報"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル・円心理的節目160円手前から反落、当局の円安是正介入警戒感",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202611200051",
-        "published_at": "2026-11-20T01:55:00+09:00",
-        "summary_for_post": "NY外為：ドル・円心理的節目160円手前から反落、当局の円安是正介入警戒感"
+        "title": "NY外為：リスク回避で円やフランに買い、安全資産の米国債買いが加速",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202611210094",
+        "published_at": "2026-11-21T04:59:29+09:00",
+        "summary_for_post": "NY外為：リスク回避で円やフランに買い、安全資産の米国債買いが加速"
       },
       {
         "category": "crypto",
         "source": "coinpost",
-        "title": "ビットコイン裁定取引の利回り、27年は米国債超えへ　スイス仮想通貨銀行が予測",
-        "url": "https://coinpost.jp/?p=748752",
-        "published_at": "11/19 21:00",
-        "summary_for_post": "ビットコイン裁定取引の利回り、27年は米国債超えへ　スイス仮想通貨銀行が予測"
+        "title": "ビットコイン続落、AI株安の中で一時5.8万ドル割れ、3170億円超ロスカット",
+        "url": "https://coinpost.jp/?p=749001",
+        "published_at": "11/21 06:05",
+        "summary_for_post": "ビットコイン続落、AI株安の中で一時5.8万ドル割れ、3170億円超ロスカット"
       }
     ],
-    "post_text": "・日経平均：続伸、AI・半導体関連の一角が買われる\n・海外：ダウ平均は反落の一方、ナスダックはプラス圏　アンソロピックが上場＝米国株序盤\n・ドル円：NY外為：ドル・円心理的節目160円手前から反落、当局の円安是正介入警戒感\n・クリプト(11/19)：ビットコイン裁定取引の利回り、27年は米国債超えへ　スイス仮想通貨銀行が予測",
+    "post_text": "・日経平均：3日ぶり急反落、ハイテク株中心に全面安\n・海外：ダウ平均が再び下げに転じる＝米国株速報\n・ドル円：NY外為：リスク回避で円やフランに買い、安全資産の米国債買いが加速\n・クリプト(11/21)：ビットコイン続落、AI株安の中で一時5.8万ドル割れ、3170億円超ロスカット",
     "status": "ok"
   }
 }
