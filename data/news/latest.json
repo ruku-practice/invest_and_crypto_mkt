@@ -1,21 +1,13 @@
 {
-  "generated_at": "2026-11-21T06:10:10+09:00",
+  "generated_at": "2026-11-22T06:10:11+09:00",
   "items": [
-    {
-      "category": "nikkei",
-      "source": "kabutan",
-      "title": "3日ぶり急反落、ハイテク株中心に全面安",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202611201373",
-      "published_at": "2026-11-20T17:09:21+09:00",
-      "summary_for_post": "3日ぶり急反落、ハイテク株中心に全面安"
-    },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均が再び下げに転じる＝米国株速報",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202611210037",
-      "published_at": "2026-11-21T01:38:00+09:00",
-      "summary_for_post": "ダウ平均が再び下げに転じる＝米国株速報"
+      "title": "ダウ平均、ナスダックとも本日も大幅安　アンソロピックも反落",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611210124",
+      "published_at": "2026-11-21T06:34:00+09:00",
+      "summary_for_post": "ダウ平均、ナスダックとも本日も大幅安　アンソロピックも反落"
     },
     {
       "category": "fx",
@@ -28,12 +20,12 @@
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ビットコイン続落、AI株安の中で一時5.8万ドル割れ、3170億円超ロスカット",
-      "url": "https://coinpost.jp/?p=749001",
-      "published_at": "11/21 06:05",
-      "summary_for_post": "ビットコイン続落、AI株安の中で一時5.8万ドル割れ、3170億円超ロスカット"
+      "title": "ビットコイン、「5.8万ドル割り込めば2022年型の下落リスクも」＝コインベース",
+      "url": "https://coinpost.jp/?p=749050",
+      "published_at": "11/21 21:00",
+      "summary_for_post": "ビットコイン、「5.8万ドル割り込めば2022年型の下落リスクも」＝コインベース"
     }
   ],
-  "post_text": "・日経平均：3日ぶり急反落、ハイテク株中心に全面安\n・海外：ダウ平均が再び下げに転じる＝米国株速報\n・ドル円：NY外為：リスク回避で円やフランに買い、安全資産の米国債買いが加速\n・クリプト(11/21)：ビットコイン続落、AI株安の中で一時5.8万ドル割れ、3170億円超ロスカット",
+  "post_text": "",
   "status": "ok"
 }
