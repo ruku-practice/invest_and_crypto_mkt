@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T06:10:14+09:00",
+  "generated_at": "2026-11-24T06:10:11+09:00",
   "items": [
     {
       "category": "overseas",
@@ -12,10 +12,10 @@
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：リスク回避で円やフランに買い、安全資産の米国債買いが加速",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202611210094",
-      "published_at": "2026-11-21T04:59:29+09:00",
-      "summary_for_post": "NY外為：リスク回避で円やフランに買い、安全資産の米国債買いが加速"
+      "title": "NY外為：ドル伸び悩む、米2年債入札は順調",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611240040",
+      "published_at": "2026-11-24T03:33:04+09:00",
+      "summary_for_post": "NY外為：ドル伸び悩む、米2年債入札は順調"
     },
     {
       "category": "crypto",
@@ -26,6 +26,6 @@
       "summary_for_post": "ビットコイン、1000万円割れ　25日PCEデフレーター発表が次の焦点"
     }
   ],
-  "post_text": "",
+  "post_text": "・日経平均：未取得\n・海外：ダウ平均、ナスダックとも本日も大幅安　アンソロピックも反落\n・ドル円：NY外為：ドル伸び悩む、米2年債入札は順調\n・クリプト(11/22)：ビットコイン、1000万円割れ　25日PCEデフレーター発表が次の焦点",
   "status": "ok"
 }
