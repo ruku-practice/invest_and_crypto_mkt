@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-25T06:10:12+09:00",
+  "generated_at": "2026-11-26T06:10:22+09:00",
   "items": [
     {
       "category": "nikkei",
       "source": "kabutan",
-      "title": "急反発、エヌビディア効果でAI関連に買い戻し",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202611241187",
-      "published_at": "2026-11-24T18:08:05+09:00",
-      "summary_for_post": "急反発、エヌビディア効果でAI関連に買い戻し"
+      "title": "大幅反落、AI・半導体関連中心に売り優勢",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611251075",
+      "published_at": "2026-11-25T17:09:49+09:00",
+      "summary_for_post": "大幅反落、AI・半導体関連中心に売り優勢"
     },
     {
       "category": "overseas",
       "source": "kabutan",
-      "title": "ダウ平均はプラスもナスダックは大幅反落　アンソロピックがＩＰＯ価格割れ＝米国株序盤",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202611250014",
-      "published_at": "2026-11-25T00:22:00+09:00",
-      "summary_for_post": "ダウ平均はプラスもナスダックは大幅反落　アンソロピックがＩＰＯ価格割れ＝米国株序盤"
+      "title": "ダウ平均がプラスに転じる＝米国株速報",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611260037",
+      "published_at": "2026-11-26T02:54:00+09:00",
+      "summary_for_post": "ダウ平均がプラスに転じる＝米国株速報"
     },
     {
       "category": "fx",
       "source": "kabutan",
-      "title": "NY外為：ドル底堅い、米5年債入札も順調",
-      "url": "https://kabutan.jp/news/marketnews/?&b=n202611250046",
-      "published_at": "2026-11-25T03:19:16+09:00",
-      "summary_for_post": "NY外為：ドル底堅い、米5年債入札も順調"
+      "title": "NY外為：ドル売り後退、米7年債入札は弱い",
+      "url": "https://kabutan.jp/news/marketnews/?&b=n202611260032",
+      "published_at": "2026-11-26T02:21:54+09:00",
+      "summary_for_post": "NY外為：ドル売り後退、米7年債入札は弱い"
     },
     {
       "category": "crypto",
       "source": "coinpost",
-      "title": "ビットコイン、1000万円割れ　25日PCEデフレーター発表が次の焦点",
-      "url": "https://coinpost.jp/?p=748953",
-      "published_at": "11/22 11:30",
-      "summary_for_post": "ビットコイン、1000万円割れ　25日PCEデフレーター発表が次の焦点"
+      "title": "ビットコイン24時間で100万円下落　クリプトアナリストが背景を解説",
+      "url": "https://coinpost.jp/?p=575327",
+      "published_at": "11/26 10:00",
+      "summary_for_post": "ビットコイン24時間で100万円下落　クリプトアナリストが背景を解説"
     }
   ],
-  "post_text": "・日経平均：急反発、エヌビディア効果でAI関連に買い戻し\n・海外：ダウ平均はプラスもナスダックは大幅反落　アンソロピックがＩＰＯ価格割れ＝米国株序盤\n・ドル円：NY外為：ドル底堅い、米5年債入札も順調\n・クリプト(11/22)：ビットコイン、1000万円割れ　25日PCEデフレーター発表が次の焦点",
+  "post_text": "・日経平均：大幅反落、AI・半導体関連中心に売り優勢\n・海外：ダウ平均がプラスに転じる＝米国株速報\n・ドル円：NY外為：ドル売り後退、米7年債入札は弱い\n・クリプト(11/26)：ビットコイン24時間で100万円下落　クリプトアナリストが背景を解説",
   "status": "ok"
 }
