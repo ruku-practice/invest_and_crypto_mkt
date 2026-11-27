@@ -128,23 +128,31 @@
     }
   ],
   "news": {
-    "generated_at": "2026-11-27T06:10:15+09:00",
+    "generated_at": "2026-11-28T06:10:12+09:00",
     "items": [
       {
         "category": "nikkei",
         "source": "kabutan",
-        "title": "反発、半導体関連株に買い戻しが優勢",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202611260984",
-        "published_at": "2026-11-26T16:24:11+09:00",
-        "summary_for_post": "反発、半導体関連株に買い戻しが優勢"
+        "title": "大幅続伸、ハイテク株を中心に見直し買い",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202611270951",
+        "published_at": "2026-11-27T16:25:13+09:00",
+        "summary_for_post": "大幅続伸、ハイテク株を中心に見直し買い"
+      },
+      {
+        "category": "overseas",
+        "source": "kabutan",
+        "title": "ダウ平均は４日続伸、ＡＩ関連株の買い戻しもあり、ナスダックは大幅反発",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202611280030",
+        "published_at": "2026-11-28T04:34:00+09:00",
+        "summary_for_post": "ダウ平均は４日続伸、ＡＩ関連株の買い戻しもあり、ナスダックは大幅反発"
       },
       {
         "category": "fx",
         "source": "kabutan",
-        "title": "NY外為：ドル売り後退、米7年債入札は弱い",
-        "url": "https://kabutan.jp/news/marketnews/?&b=n202611260032",
-        "published_at": "2026-11-26T02:21:54+09:00",
-        "summary_for_post": "NY外為：ドル売り後退、米7年債入札は弱い"
+        "title": "NY外為：ドル一段高、長期金利上昇に連れ",
+        "url": "https://kabutan.jp/news/marketnews/?&b=n202611280013",
+        "published_at": "2026-11-28T01:25:43+09:00",
+        "summary_for_post": "NY外為：ドル一段高、長期金利上昇に連れ"
       },
       {
         "category": "crypto",
@@ -155,7 +163,7 @@
         "summary_for_post": "「ビットコインバブル」をどう見るか　クリプトアナリストが解説"
       }
     ],
-    "post_text": "・日経平均：反発、半導体関連株に買い戻しが優勢\n・海外：未取得\n・ドル円：NY外為：ドル売り後退、米7年債入札は弱い\n・クリプト(11/28)：「ビットコインバブル」をどう見るか　クリプトアナリストが解説",
+    "post_text": "・日経平均：大幅続伸、ハイテク株を中心に見直し買い\n・海外：ダウ平均は４日続伸、ＡＩ関連株の買い戻しもあり、ナスダックは大幅反発\n・ドル円：NY外為：ドル一段高、長期金利上昇に連れ\n・クリプト(11/28)：「ビットコインバブル」をどう見るか　クリプトアナリストが解説",
     "status": "ok"
   }
 }
